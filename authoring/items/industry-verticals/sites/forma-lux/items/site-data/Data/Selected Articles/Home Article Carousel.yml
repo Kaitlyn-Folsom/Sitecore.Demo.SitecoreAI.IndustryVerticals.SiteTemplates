@@ -7,7 +7,7 @@ SharedFields:
 - ID: "9097fa39-7bba-4e25-92f0-0b25d187509d"
   Hint: ExploreLink
   Value: |
-    <link class="" id="b86a1b6c-c131-42ce-afcf-d7fef4a543f5" querystring="" anchor="" target="" title="" linktype="internal" text="Explorez plus" url="/industry-verticals/forma-lux/Home/Products" />
+    <link class="" querystring="" id="b86a1b6c-c131-42ce-afcf-d7fef4a543f5" anchor="" target="" title="" linktype="internal" text="Explore more" url="/industry-verticals/forma-lux/Home/Products" />
 - ID: "a6a4a7d3-4017-4996-9264-27b1d3030273"
   Hint: Articles
   Value: |

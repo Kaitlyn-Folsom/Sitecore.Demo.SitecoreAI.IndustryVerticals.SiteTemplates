@@ -1,0 +1,42 @@
+﻿---
+ID: "569d0990-a789-43fa-b8b8-3892247d9408"
+Parent: "948fcd3c-b101-4843-938b-acb8c1ee9f9a"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/industry-verticals/cchmc/Presentation/Page Designs/Services"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "4FFF698D-FB57-4A84-A505-02CAB5BB3772|FBA4AD04-DF6D-4BBA-8808-A77B45F62EB3|2BB70D7B-9CF3-45FD-B5E8-60090E6FD10F"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0E3E5672-319E-46FF-85EA-7C678A4FDBED}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "785a7ddf-f6ec-4d2d-b5f3-720a6e37fdcf"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251117T073006Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd87542a-f0e0-49db-ab8a-3cf6aea6483d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260216T205833Z

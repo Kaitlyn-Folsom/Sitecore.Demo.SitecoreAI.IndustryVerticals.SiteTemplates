@@ -1,0 +1,39 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.Cchmc-Content",
+  "references": ["Project.IndustryVerticals"],
+  "items": {
+    "includes": [
+      {
+        "name": "healthcare-home",
+        "path": "/sitecore/content/industry-verticals/cchmc/home",
+        "scope": "DescendantsOnly",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "healthcare-media",
+        "path": "/sitecore/content/industry-verticals/cchmc/Media",
+        "scope": "DescendantsOnly",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "healthcare-data",
+        "path": "/sitecore/content/industry-verticals/cchmc/Data",
+        "scope": "DescendantsOnly",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "healthcare-dictionary",
+        "path": "/sitecore/content/industry-verticals/cchmc/Dictionary",
+        "scope": "DescendantsOnly",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "healthcare-presentation",
+        "path": "/sitecore/content/industry-verticals/cchmc/Presentation",
+        "scope": "DescendantsOnly",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}
