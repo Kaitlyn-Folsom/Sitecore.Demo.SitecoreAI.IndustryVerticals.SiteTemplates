@@ -11,7 +11,6 @@ import {
 } from '@sitecore-content-sdk/nextjs';
 import type { LinkField, RichTextField, TextField } from '@sitecore-content-sdk/nextjs';
 import { ComponentProps } from '@/lib/component-props';
-import { ArrowRight } from 'lucide-react';
 
 interface Fields {
   Image: ImageField;
@@ -26,8 +25,6 @@ interface HeroBannerProps extends ComponentProps {
 }
 
 const DEFAULT_HEADLINE = 'Nationally Ranked in all Pediatric Specialties';
-
-const DEFAULT_CTA = { label: 'Find a Doctor', href: '#' };
 
 export const DefaultHeroBanner = (props: HeroBannerProps) => {
   const id = props.params?.RenderingIdentifier;

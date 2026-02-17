@@ -3,13 +3,10 @@ import {
   ImageField,
   LinkField,
   NextImage as ContentSdkImage,
-  Link as ContentSdkLink,
   Placeholder,
   withDatasourceCheck,
 } from '@sitecore-content-sdk/nextjs';
 import Link from 'next/link';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { ChevronDown } from 'lucide-react';
 
 interface Fields {
