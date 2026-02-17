@@ -1,0 +1,24 @@
+/* Hero Banner – Cincinnati Children's–style (cincinnatichildrens.org) */
+
+.hero-banner__overlay {
+  background-color: #ba508e;
+  color: #fff;
+}
+
+.hero-banner__overlay-description {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.hero-banner__overlay-description p {
+  margin: 0 0 0.5em;
+}
+
+.hero-banner__overlay-description p:last-child {
+  margin-bottom: 0;
+}
+
+.hero-banner__headline {
+  text-shadow: none;
+}
+

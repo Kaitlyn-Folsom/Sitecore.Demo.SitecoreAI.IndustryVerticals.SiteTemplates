@@ -74,7 +74,7 @@ export const Default = (props: NavigationProps) => {
         className="z-50 flex h-6 w-6 cursor-pointer items-center justify-center lg:hidden"
         onClick={() => handleToggleMenu()}
       >
-        <FontAwesomeIcon icon={isOpenMenu ? faTimes : faBars} width={16} height={16} />
+        {/* <FontAwesomeIcon icon={isOpenMenu ? faTimes : faBars} width={16} height={16} /> */}
       </div>
 
       <div className="component-content">

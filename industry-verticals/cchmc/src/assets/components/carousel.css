@@ -19,9 +19,14 @@
 }
 
 .slider-pagination-btn {
-  @apply bg-accent aspect-square w-5 cursor-pointer rounded-full;
+  @apply aspect-square w-5 cursor-pointer rounded-full transition-all;
+  background-color: var(--color-accent);
+}
 
-  &.active {
-    @apply aspect-auto w-12;
-  }
+.slider-pagination-btn:hover {
+  background-color: var(--color-accent-hover);
+}
+
+.slider-pagination-btn.active {
+  @apply aspect-auto w-12;
 }

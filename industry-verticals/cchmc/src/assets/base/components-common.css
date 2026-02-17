@@ -31,15 +31,34 @@
 }
 
 .main-btn {
-  @apply bg-accent text-background hover:bg-accent/95 flex items-center justify-center rounded-md p-3 text-center text-lg font-semibold transition-all hover:shadow-md;
+  @apply text-background flex items-center justify-center rounded-md p-3 text-center text-lg font-semibold shadow-sm transition-all;
+  background-color: var(--color-accent);
+}
 
-  &[disabled] {
-    @apply pointer-events-none opacity-60;
-  }
+.main-btn:hover:not([disabled]) {
+  background-color: var(--color-accent-hover);
+  box-shadow: 0 4px 12px rgba(0, 155, 118, 0.25);
+}
+
+.main-btn:focus-visible {
+  @apply ring-accent ring-2 ring-offset-2 outline-none;
+}
+
+.main-btn[disabled] {
+  @apply pointer-events-none opacity-60;
 }
 
 .btn {
-  @apply text-background font-heading bg-foreground inline-flex items-center gap-4 rounded-lg px-6 py-2 text-lg font-bold lg:text-xl;
+  @apply text-background font-heading inline-flex items-center gap-4 rounded-lg px-6 py-2 text-lg font-bold transition-all lg:text-xl;
+  background-color: var(--color-foreground);
+}
+
+.btn:hover:not([disabled]) {
+  opacity: 0.92;
+}
+
+.btn:focus-visible {
+  @apply ring-foreground ring-2 ring-offset-2 outline-none;
 }
 
 .btn-icon {
@@ -53,7 +72,11 @@
 }
 
 .form-input {
-  @apply bg-background w-full rounded-lg px-6 py-4 shadow-md;
+  @apply border-border bg-background w-full rounded-lg border px-6 py-4 shadow-sm transition-colors;
+}
+
+.form-input:focus {
+  @apply border-accent ring-accent/20 ring-1 outline-none;
 }
 
 .placeholder-pattern-background {

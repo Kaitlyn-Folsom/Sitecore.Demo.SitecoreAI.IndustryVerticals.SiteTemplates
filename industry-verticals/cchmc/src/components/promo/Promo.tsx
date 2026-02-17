@@ -74,9 +74,9 @@ const DefaultPromo = (props: PromoProps) => {
       <h2>
         <ContentSdkText field={props.fields.PromoTitle} />
       </h2>
-      <ContentSdkRichText className="mb-10 text-lg" field={props.fields.PromoDescription} />
+      <ContentSdkRichText className="mt-4 mb-10 text-lg" field={props.fields.PromoDescription} />
 
-      <ContentSdkLink field={props.fields.PromoMoreInfo} className="btn btn-icon">
+      <ContentSdkLink field={props.fields.PromoMoreInfo} className="text-lg font-medium">
         {props.fields?.PromoMoreInfo?.value?.text}
         <FontAwesomeIcon icon={faArrowRight} />
       </ContentSdkLink>

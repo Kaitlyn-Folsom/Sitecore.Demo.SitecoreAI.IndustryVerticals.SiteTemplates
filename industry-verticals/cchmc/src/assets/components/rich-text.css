@@ -1,9 +1,18 @@
 .content,
-.rich-text {
+.rich-text,
+.ck-content {
   @apply overflow-hidden;
 
   * {
     @apply max-w-full;
+  }
+
+  a {
+    @apply text-accent underline-offset-2 transition-colors;
+  }
+
+  a:hover {
+    @apply underline;
   }
 }
 .content,
