@@ -44,6 +44,15 @@
       "type": "sxa",
       "buildCommand": "build",
       "runCommand": "next:start"
+    },
+    "mgic": {
+      "path": "./industry-verticals/mgic",
+      "nodeVersion": "22.11.0",
+      "jssDeploymentSecret": "110F1C44A496B45478640DD36F80C18C9",
+      "enabled": true,
+      "type": "sxa",
+      "buildCommand": "build",
+      "runCommand": "next:start"
     }
   },
   "deployItems": {
@@ -62,7 +71,9 @@
           "Project.Travel-Media",
           "Project.Travel-Content",
           "Project.Energy-Media",
-          "Project.Energy-Content"
+          "Project.Energy-Content",
+          "Project.Mgic-Content",
+          "Project.Mgic-Media"
         ]
       },
       "warmUpCm": {
