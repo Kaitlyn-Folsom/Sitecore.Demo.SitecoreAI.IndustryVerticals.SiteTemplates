@@ -37,10 +37,10 @@ SharedFields:
   Value: 40
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
-  Value: "<image mediaid='A68F0997-1B7E-46CC-AE96-17389E78969D' />"
+  Value: "<image mediaid='67d19463-6379-4d06-8b7b-ecc321a9a392' />"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "1fe84508-17e5-434b-a699-6746efd599e4"
+  Value: "616429c0-cae0-4fa7-be0b-f73330373cae"
 - ID: "e2bf3c8d-a12e-45f4-98d6-a37f13bcf375"
   Hint: SiteTemplate
   Value: "{2867D289-8951-458A-AF19-CE93A67BB494}"
@@ -65,11 +65,11 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "da87a93b-f3a9-45c5-8e13-17f7b6e34e07"
+      Value: "cdf99929-bcee-48f5-9d15-0e331a756733"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Anonymous
+        sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260216T205855Z
+      Value: 20260216T233005Z

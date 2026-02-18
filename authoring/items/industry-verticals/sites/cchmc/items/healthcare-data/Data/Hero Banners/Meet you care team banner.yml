@@ -1,16 +1,16 @@
 ﻿---
-ID: "5fea6b89-8a51-4a94-b79f-1591eab7abea"
+ID: "c6600133-8353-40d2-8e18-ddfb33cfd82a"
 Parent: "bb0285c9-002d-4bea-8717-ba6fdabdedbd"
 Template: "ac18eef2-f134-4985-8b74-6ad16cca6577"
-Path: "/sitecore/content/industry-verticals/cchmc/Data/Hero Banners/Home Hero Banner"
+Path: "/sitecore/content/industry-verticals/cchmc/Data/Hero Banners/Meet you care team banner"
 SharedFields:
 - ID: "00b71f70-411d-4ea1-a423-74ed20b60157"
   Hint: Image
   Value: |
-    <Image src="https://cchmc.sitecoresandbox.cloud/api/public/content/c8b4666eb5b345e6910c801db789f05e?v=1994ecba" dam-id="BHId7pcDSaOlcNRLLMFknQ" width="1920" height="800" alt="usnews-2025-desktop-1920x800.webp" dam-content-type="Image" thumbnailsrc="https://cchmc.sitecoresandbox.cloud/api/gateway/82723/thumbnail" />
+    <Image src="https://cchmc.sitecoresandbox.cloud/api/public/content/83002-HomepagePromoCTAs-1100x740?v=7b232c12" dam-id="QEcsJvjxRMe6lAttFBj6HA" width="1100" height="740" alt="doctor_upload.webp" dam-content-type="Image" thumbnailsrc="https://cchmc.sitecoresandbox.cloud/api/gateway/83002/thumbnail" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "26cc13d3-2c78-46e5-90d1-b5739595efd9"
+  Value: "40e532d0-6900-4f3c-8964-78fae7a6d63c"
 Languages:
 - Language: en
   Versions:
@@ -19,33 +19,31 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
-    - ID: "1dec177a-1a9b-41cf-a60c-d89f28fa41e8"
-      Hint: Description
-      Value: 
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20251112T153110Z
+      Value: 20260217T014908Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\kaitlyn.folsom@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\movin.tilakaratne@sitecore.com
+        sitecore\kaitlyn.folsom@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "be75e5d7-3a45-40a4-bc51-fc8856d79cbf"
+      Value: "4e06c5de-7550-4ac3-b92b-1862c29ce5c8"
     - ID: "985b877b-bfee-473e-aada-0a9f156dfecc"
       Hint: Title
-      Value: Nationally Ranked in all Pediatric Specialties
+      Value: Meet your trusted care team
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260217T010129Z
+      Value: 20260217T155220Z
     - ID: "e3c72e5d-cbf1-4af8-8a73-dc4d3c8590f3"
       Hint: CtaLink
-      Value: 
+      Value: |
+        <link linktype="external" url="#" text="Meet the Dedicated Team Caring for Your Little One"/>

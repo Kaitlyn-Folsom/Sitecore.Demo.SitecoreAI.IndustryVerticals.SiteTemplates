@@ -7,10 +7,10 @@ SharedFields:
 - ID: "d53d7eee-4d9a-46a9-afcf-bc46d0e6974d"
   Hint: LogoLight
   Value: |
-    <image mediaid="4544F642-3672-4239-8A2C-4B55A74CF089" />
+    <image mediaid="65ba8b76-2586-4c96-a346-ec5424a98b6d" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "414a2a4f-76fc-4c01-9ef6-ce1b7c093656"
+  Value: "a1159109-71a9-403d-94fb-fda81ccce59d"
 - ID: "fe72d918-559d-4a56-bc6d-1c108017d768"
   Hint: LogoDark
   Value: |
@@ -20,6 +20,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20251117T112755Z
@@ -33,7 +36,7 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2a5d25b6-e00e-4049-a622-d31925dd7691"
+      Value: "97f82827-841e-4c9d-ab64-ca5dff79267a"
     - ID: "b3731078-ddd2-4faa-9535-87138237566f"
       Hint: MailLink
       Value: |
@@ -44,7 +47,7 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260216T205852Z
+      Value: 20260216T220317Z
     - ID: "fcdd653f-a7af-41a9-b65b-be60ad68b640"
       Hint: PhoneLink
       Value: |

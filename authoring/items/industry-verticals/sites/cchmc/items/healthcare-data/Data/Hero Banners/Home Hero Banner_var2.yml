@@ -1,16 +1,16 @@
 ﻿---
-ID: "5fea6b89-8a51-4a94-b79f-1591eab7abea"
+ID: "8f59891c-f5e4-479a-8bed-2aef4ba2688e"
 Parent: "bb0285c9-002d-4bea-8717-ba6fdabdedbd"
 Template: "ac18eef2-f134-4985-8b74-6ad16cca6577"
-Path: "/sitecore/content/industry-verticals/cchmc/Data/Hero Banners/Home Hero Banner"
+Path: "/sitecore/content/industry-verticals/cchmc/Data/Hero Banners/Home Hero Banner_var2"
 SharedFields:
 - ID: "00b71f70-411d-4ea1-a423-74ed20b60157"
   Hint: Image
   Value: |
-    <Image src="https://cchmc.sitecoresandbox.cloud/api/public/content/c8b4666eb5b345e6910c801db789f05e?v=1994ecba" dam-id="BHId7pcDSaOlcNRLLMFknQ" width="1920" height="800" alt="usnews-2025-desktop-1920x800.webp" dam-content-type="Image" thumbnailsrc="https://cchmc.sitecoresandbox.cloud/api/gateway/82723/thumbnail" />
+    <Image src="https://cchmc.sitecoresandbox.cloud/api/public/content/75829-HomePageHero-2000x800?v=efbb1016" dam-id="zIts6yxATXKwbOmDFYM2bA" width="2000" height="800" alt="NCN11.jpg" dam-content-type="Image" thumbnailsrc="https://cchmc.sitecoresandbox.cloud/api/gateway/75829/thumbnail" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "26cc13d3-2c78-46e5-90d1-b5739595efd9"
+  Value: "cce0a433-929a-4730-b3c5-9a0177725110"
 Languages:
 - Language: en
   Versions:
@@ -21,7 +21,8 @@ Languages:
       Value: <r />
     - ID: "1dec177a-1a9b-41cf-a60c-d89f28fa41e8"
       Hint: Description
-      Value: 
+      Value: |
+        <div class="ck-content"><p><span style="color:hsl(0, 0%, 100%);">We want to make your visit as easy and meaningful as possible. The links below will help you schedule an appointment, manage your visit and connect you with our hospital resources.</span></p></div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20251112T153110Z
@@ -35,17 +36,17 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "be75e5d7-3a45-40a4-bc51-fc8856d79cbf"
+      Value: "6a5ccad9-70c2-4525-a570-53ffb0395b16"
     - ID: "985b877b-bfee-473e-aada-0a9f156dfecc"
       Hint: Title
-      Value: Nationally Ranked in all Pediatric Specialties
+      Value: Patients and Family
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260217T010129Z
+      Value: 20260217T011853Z
     - ID: "e3c72e5d-cbf1-4af8-8a73-dc4d3c8590f3"
       Hint: CtaLink
       Value: 
