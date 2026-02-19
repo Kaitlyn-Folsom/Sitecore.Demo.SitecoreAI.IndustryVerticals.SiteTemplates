@@ -6,13 +6,25 @@ Path: "/sitecore/content/industry-verticals/mgic/Settings/Site Grouping/mgic"
 SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
-  Value: "{BE357E9A-FD99-49EF-A5E6-5A1678588FE4}"
+  Value: be357e9afd9949efa5e65a1678588fe4
+- ID: "4e9e2ae5-36db-4955-9af1-5a1934a27c7d"
+  Hint: Language Embedding
+  Value: 0
 - ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
   Hint: ThumbnailsRootPath
   Value: "{A6E3336D-0714-4C48-84BC-534301166DAB}"
+- ID: "6e6da5b0-8d01-4514-b7dd-1940aff3e8cd"
+  Hint: FieldLanguageFallback
+  Value: 0
+- ID: "8c436235-b85d-4097-89cf-d5a4fa70cc0a"
+  Hint: ItemLanguageFallback
+  Value: 0
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: *
+- ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
+  Hint: POS
+  Value: en=mgic
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: mgic
@@ -21,10 +33,10 @@ SharedFields:
   Value: *
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "ba5114c4-b784-4628-8bdd-1b86dd2c9d5f"
+  Value: "5b5f70b7-326d-4076-b606-c275a91dcc71"
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
-  Value: Default
+  Value: mgic
 Languages:
 - Language: en
   Versions:
@@ -43,11 +55,11 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8bf2c89c-8511-49bc-8cf0-4eda116e8f28"
+      Value: "1c092dcd-9308-4df8-8909-e580267b781d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260218T025940Z
+      Value: 20260218T211538Z

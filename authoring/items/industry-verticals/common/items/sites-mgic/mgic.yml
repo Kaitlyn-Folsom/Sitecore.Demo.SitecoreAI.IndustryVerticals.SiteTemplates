@@ -37,10 +37,10 @@ SharedFields:
   Value: 0
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
-  Value: "<image mediaid='8BA9847A-0BA1-485D-8B4A-5DBD4AF4563B' />"
+  Value: "<image mediaid='e7b4242c-c5f9-47d3-a224-f4edd2e5af18' />"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "4c596f30-610a-449c-b5f8-c90ebf1de3c7"
+  Value: "2f48dc31-7d8b-455e-a964-57e92bb840c6"
 - ID: "e2bf3c8d-a12e-45f4-98d6-a37f13bcf375"
   Hint: SiteTemplate
   Value: "{2867D289-8951-458A-AF19-CE93A67BB494}"
@@ -65,14 +65,14 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6f58670e-66c7-48e0-b4e7-3b73aef155eb"
+      Value: "ed87f3e0-5f70-493d-896f-fe99668e001a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Anonymous
+        sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260218T025941Z
+      Value: 20260218T211513Z
 - Language: "es-ES"
   Versions:
   - Version: 1

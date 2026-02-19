@@ -8,8 +8,6 @@ import {
   Text,
 } from '@sitecore-content-sdk/nextjs';
 import React from 'react';
-import AccentLine from '@/assets/icons/accent-line/AccentLine';
-import { CommonStyles } from '@/types/styleFlags';
 
 interface Fields {
   data: {
@@ -54,7 +52,6 @@ const FeatureWrapper = (wrapperProps: FeatureWrapperProps) => {
 export const Default = (props: FeaturesProps) => {
   // results of the graphql
   const results = props.fields.data.datasource.children.results;
-  const hideAccentLine = props.params.styles?.includes(CommonStyles.HideAccentLine);
   const featureSectionTitle = props.fields.data.datasource.title;
 
   return (
@@ -63,7 +60,6 @@ export const Default = (props: FeaturesProps) => {
         <div className="mb-20 lg:mb-0">
           <h2 className="inline-block max-w-md font-bold max-lg:text-[42px]">
             <Text field={featureSectionTitle.jsonValue} />
-            {!hideAccentLine && <AccentLine className="w-full max-w-xs" />}
           </h2>
         </div>
         <div className="grid grid-cols-1 gap-16 md:grid-cols-2 md:gap-8 lg:grid-cols-3">

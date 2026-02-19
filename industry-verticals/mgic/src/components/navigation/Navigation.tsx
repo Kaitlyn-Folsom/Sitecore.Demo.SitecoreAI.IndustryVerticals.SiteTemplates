@@ -83,7 +83,7 @@ const NavigationListItem: React.FC<NavigationListItemProps> = ({
       role="menuitem"
       className={clsx(
         fields?.Styles?.join(' '),
-        'relative flex flex-col gap-x-8 gap-y-4 xl:gap-x-14',
+        'relative flex flex-col gap-x-8 gap-y-4 lg:gap-x-10 xl:gap-x-16',
         isRootItem && 'lg:flex-row',
         isLogoRootItem && 'shrink-0 max-lg:hidden',
         isLogoRootItem && isSimpleLayout && 'lg:mr-auto'
@@ -236,11 +236,14 @@ export const Default = ({ params, fields }: NavigationProps) => {
         <ul
           role="menubar"
           className={clsx(
-            'container flex flex-col items-center justify-center gap-x-8 gap-y-4 py-6 text-lg lg:flex-row xl:gap-x-16',
+            'text-md container flex flex-col items-center justify-between gap-x-6 gap-y-4 py-6 text-[14px] font-semibold lg:flex-row lg:gap-x-6 xl:gap-x-14',
             isSimpleLayout && !hasLogoRootItem && 'lg:justify-end'
           )}
         >
           {navigationItems}
+          <button className="min-w-[140px] rounded-full bg-[var(--color-pink)] px-4 py-2 text-sm text-white">
+            Get a quick quote
+          </button>
         </ul>
       </nav>
     </div>

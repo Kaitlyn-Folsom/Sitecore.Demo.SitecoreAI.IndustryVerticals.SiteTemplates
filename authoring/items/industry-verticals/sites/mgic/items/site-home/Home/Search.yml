@@ -18,14 +18,14 @@ SharedFields:
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/bec3d8cb26154982b6cad368820d21f6?v=53371e4b" dam-id="Oa_b1yC2RG6fhK7gFMdmyQ" width="861" height="675" alt="ShowroomLayout.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/66627/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 850
+  Value: 1100
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{100A6E77-7C26-447A-A4EA-93E5F5544441}" />
+    <image mediaid="{D0921E25-FFBF-4B46-95F2-288831C87969}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "9446be6a-9d97-451a-9017-b4a2f324020e"
+  Value: "242003ec-38e8-41ee-aa98-3ca3620e3307"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -74,7 +74,7 @@ Languages:
       Value: Explore the Forma Lux collection and find the perfect piece for your home. Search our range of handcrafted, sustainable furniture designed to bring warmth, balance, and timeless beauty to every space.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "534cf6e2-5109-43ea-bd43-ff117c36f2c0"
+      Value: "6137fe13-bb15-425e-a178-1e700f228b53"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -84,7 +84,7 @@ Languages:
       Value: The Forma Lux Search page helps you discover our curated selection of modern, sustainable furniture. Whether you’re looking for a modular sofa, an accent chair, or a refined table design, every piece reflects Forma Lux’s philosophy of intentional living and enduring craftsmanship.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260218T025915Z
+      Value: 20260219T174001Z
 - Language: "es-ES"
   Versions:
   - Version: 1

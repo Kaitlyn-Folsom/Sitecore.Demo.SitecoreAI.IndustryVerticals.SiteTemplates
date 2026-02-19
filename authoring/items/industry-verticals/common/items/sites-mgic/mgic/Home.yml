@@ -18,17 +18,17 @@ SharedFields:
 - ID: "25f9b35b-0c2c-4f43-ae2f-1d30eb1f2b6b"
   Hint: ogImage
   Value: |
-    <Image src="https://starter-verticals-v2.sitecoresandbox.cloud/api/public/content/acf95690b0af4d3dbe7f589d55396d37?v=01395091" dam-id="BjmtfBn_QsuaXxnEkNc_MA" width="139" height="25" alt="Forma Lux.svg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-v2.sitecoresandbox.cloud/api/gateway/76710/thumbnail" />
+    <image mediaid="c34a1e7b-aeb9-4817-8292-914d6ec839c2" alt="mgic-header-logo" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 0
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{E38C373C-DEC1-4D7C-A5FC-666BD02D39FB}" />
+    <image mediaid="{0320D05C-34C5-4EDA-8A56-E89D5C40F23C}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "afc05581-6986-4c14-a214-38dc91ecc0ae"
+  Value: "7b03ea9c-95b2-4071-a994-af5da42a2875"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -151,6 +151,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
@@ -160,6 +163,7 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{AE225B7C-0876-4FAE-A959-B3AFC8E0E91B}"
+              s:ds="43bf09d2-ee61-464b-b745-8f6c0f35bafc"
               s:par="FieldNames=%7BE94E97C7-A6D7-4C42-AF30-7EE102FE84B3%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B10578AE9-ED30-483A-925B-F8DAFE531B42%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0">
               <rls>
                 <ruleset
@@ -197,11 +201,35 @@ Languages:
               </rls>
             </r>
             <r
+              uid="{335D3948-776E-4A8D-B9AC-60E7FE730DC9}">
+              <p:d />
+            </r>
+            <r
+              uid="{3322063A-EBC7-4FE5-B3B2-0E084039FC58}"
+              p:after="r[@uid='{AE225B7C-0876-4FAE-A959-B3AFC8E0E91B}']"
+              s:ds="8ad05d49-8b8c-4597-9d01-2956765bea05" />
+            <r
+              uid="{9E9A7694-8CBD-488D-90F8-C88AE51B223A}">
+              <p:d />
+            </r>
+            <r
+              uid="{AAF0D7B4-60E9-4C86-9EEB-901A9FC4B2AC}">
+              <p:d />
+            </r>
+            <r
+              uid="{F827819F-D3D3-4FBD-8BAF-87D769468B06}">
+              <p:d />
+            </r>
+            <r
               uid="{D208AC42-DFB1-49D3-87F4-DDF7006DAA69}"
               s:par="FieldNames=%7B9695ACA6-8758-477B-93C6-A4921F3C3068%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B066DDF99-A407-43FD-AE9A-D072497C6F3C%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=11&amp;CurvedTop&amp;HideShapes=0&amp;Reversed=0&amp;ShowMultipleImages=0&amp;HideQuote=0&amp;HideCurveLine=1&amp;HideShadows=0&amp;CurvedBottom" />
             <r
+              uid="{ED5725EF-03DF-4D4F-BE30-78265C5A7D4F}">
+              <p:d />
+            </r>
+            <r
               uid="{8ABC8A08-490F-45DC-831B-27150008D7B7}"
-              p:after="r[@uid='{ED5725EF-03DF-4D4F-BE30-78265C5A7D4F}']"
+              p:after="r[@uid='{954AADCA-FC91-45B3-BB1D-21D3462F0236}']"
               s:id="{00000000-0000-0000-0000-000000000000}"
               s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=19" />
             <r
@@ -224,13 +252,13 @@ Languages:
       Value: 20250820T091624Z
     - ID: "32c603c2-c858-4138-8fcb-8e18a5ad8240"
       Hint: metadataTitle
-      Value: Forma Lux – Handcrafted Luxury Furniture Collections
+      Value: MGIC– Handcrafted Luxury Furniture Collections
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Home
     - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
       Hint: Title
-      Value: Forma Lux
+      Value: MGIC
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -247,7 +275,7 @@ Languages:
       Value: "Explore Forma Lux’s luxurious furniture collections: heritage craftsmanship meets modern, sustainable design for elegant living spaces."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "31526528-9442-4c2c-806c-67f2c8b98f4b"
+      Value: "163f4492-e808-4fab-9880-1464b3545767"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -257,7 +285,7 @@ Languages:
       Value: Forma Lux unites artisan heritage with contemporary design to create modular, sustainable furniture for elegant, livable spaces.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260218T025850Z
+      Value: 20260219T183543Z
 - Language: "es-ES"
   Versions:
   - Version: 2
