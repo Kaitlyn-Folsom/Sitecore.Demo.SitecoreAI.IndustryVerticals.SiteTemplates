@@ -31,10 +31,10 @@
 }
 
 .arrow-btn {
-  @apply border-b-accent text-accent inline-flex items-center justify-start gap-3 border-b leading-8;
+  @apply bg-accent text-background md:text-accent md:hover:border-b-accent md:hover:text-accent inline-flex items-center justify-start gap-3 rounded-full px-5 py-2.5 font-bold transition md:rounded-none md:bg-transparent md:px-0 md:py-0 md:hover:border-b;
 
   &::after {
-    @apply bg-accent inline-block h-3 w-11 mask-[url('./images/arrow.svg')] bg-contain bg-no-repeat mask-contain mask-center mask-no-repeat content-[''];
+    @apply md:border-l-accent inline-block h-0 w-0 border-y-[6px] border-l-[10px] border-y-transparent border-l-white content-[''];
   }
 }
 

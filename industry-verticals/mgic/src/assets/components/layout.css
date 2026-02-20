@@ -40,6 +40,28 @@
   }
 }
 
+.container-rose-background {
+  > .component-content {
+    @apply border-background-rose;
+  }
+
+  &:not(.container),
+  &.container > .component-content {
+    @apply bg-background-rose border-background-rose;
+  }
+}
+
+.container-blue-background {
+  > .component-content {
+    @apply border-background-pool;
+  }
+
+  &:not(.container),
+  &.container > .component-content {
+    @apply bg-background-pool border-background-pool;
+  }
+}
+
 .container-dark-background {
   > .component-content {
     @apply border-accent;

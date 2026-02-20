@@ -164,7 +164,7 @@ Languages:
             <r
               uid="{AE225B7C-0876-4FAE-A959-B3AFC8E0E91B}"
               s:ds="43bf09d2-ee61-464b-b745-8f6c0f35bafc"
-              s:par="FieldNames=%7BE94E97C7-A6D7-4C42-AF30-7EE102FE84B3%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B10578AE9-ED30-483A-925B-F8DAFE531B42%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0">
+              s:par="FieldNames=%7BE94E97C7-A6D7-4C42-AF30-7EE102FE84B3%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B10578AE9-ED30-483A-925B-F8DAFE531B42%7D%7C%7B21D112BA-486F-44F6-B98D-BBA5442E607F%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0">
               <rls>
                 <ruleset
                   s:pet="true">
@@ -212,6 +212,9 @@ Languages:
               uid="{9E9A7694-8CBD-488D-90F8-C88AE51B223A}">
               <p:d />
             </r>
+            <r
+              uid="{D362D8F7-42C9-488A-BE41-4E79A8C3868A}"
+              s:par="FieldNames=%7B2DAC9FCD-424F-4FD6-836B-C6911040175C%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B57BE3C60-8ADA-4DF9-9131-722B4CD8A2C8%7D%7C%7B9BF27CF9-0676-4440-958A-41DB13ADF914%7D%7C%7BA42EB8CB-19FB-4C99-B1C2-8132C838F729%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=2&amp;CurvedTop&amp;HideShapes=0&amp;Reversed=0&amp;ShowMultipleImages=0&amp;HideQuote=0&amp;HideCurveLine=0&amp;HideShadows=0&amp;CurvedBottom" />
             <r
               uid="{AAF0D7B4-60E9-4C86-9EEB-901A9FC4B2AC}">
               <p:d />
@@ -275,7 +278,7 @@ Languages:
       Value: "Explore Forma Lux’s luxurious furniture collections: heritage craftsmanship meets modern, sustainable design for elegant living spaces."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "163f4492-e808-4fab-9880-1464b3545767"
+      Value: "900d3900-46c3-45f7-92ec-e5f594544492"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -285,7 +288,7 @@ Languages:
       Value: Forma Lux unites artisan heritage with contemporary design to create modular, sustainable furniture for elegant, livable spaces.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260219T183543Z
+      Value: 20260220T193008Z
 - Language: "es-ES"
   Versions:
   - Version: 2

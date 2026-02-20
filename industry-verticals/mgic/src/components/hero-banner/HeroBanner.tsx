@@ -48,9 +48,9 @@ const HeroBannerCommon = ({
   }
 
   return (
-    <div className={`component hero-banner ${styles} relative flex items-center`} id={id}>
+    <div className={`component hero-banner ${styles} relative items-center md:flex`} id={id}>
       {/* Background Media */}
-      <div className="absolute inset-0 z-0">
+      <div className="inset-0 z-0 md:absolute">
         {!isPageEditing && fields?.Video?.value?.src ? (
           <video
             className="h-full w-full object-cover"
@@ -93,27 +93,24 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
     <HeroBannerCommon params={params} fields={fields} rendering={rendering}>
       {/* Content Container */}
       <div className="relative w-full">
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-6">
           <div
-            className={`flex min-h-238 w-full py-10 lg:w-1/2 lg:items-center ${reverseLayout ? 'lg:mr-auto' : 'lg:ml-auto'}`}
+            className={`flex py-12 lg:min-h-160 lg:w-1/2 lg:w-[40%] lg:items-center xl:min-h-180 ${reverseLayout ? 'lg:mr-auto' : 'lg:ml-auto'}`}
           >
-            <div className="max-w-182">
+            <div className="max-w-[620px] bg-white md:px-10 md:py-16">
               <div className={clsx({ shim: screenLayer })}>
                 {/* Title */}
-                <h1 className="text-center text-5xl leading-[110%] font-bold capitalize md:text-7xl md:leading-[130%] lg:text-left xl:text-[80px]">
+                <h1 className="text-magenta text-[32px] font-bold md:text-3xl md:leading-[130%]">
                   <ContentSdkText field={fields.Title} />
                 </h1>
 
                 {/* Description */}
-                <div className="mt-7 text-xl md:text-2xl">
-                  <ContentSdkRichText
-                    field={fields.Description}
-                    className="text-center lg:text-left"
-                  />
+                <div className="text-md mt-5">
+                  <ContentSdkRichText field={fields.Description} />
                 </div>
 
                 {/* CTA Link or Placeholder */}
-                <div className="mt-6 flex w-full justify-center lg:justify-start">
+                <div className="mt-6 flex w-full font-bold">
                   {withPlaceholder ? (
                     <Placeholder name={searchBarPlaceholderKey} rendering={rendering} />
                   ) : (

@@ -10,6 +10,8 @@
   --color-background-muted-dark: #666;
   --color-background-surface: #fafafa;
   --color-background-dark-blue: #153b5a;
+  --color-background-rose: #eeebee;
+  --color-background-pool: #d9edf7;
 
   --color-accent: #00205b;
 
@@ -18,7 +20,7 @@
   --color-dark-blue: #153b5a;
   --color-teal: #50b1de;
   --color-pink: #f20f81;
-
+  --color-magenta: #d0006f;
   --color-border: #e8e8e8;
 
   --font-heading: 'Source Sans 3', sans-serif;
