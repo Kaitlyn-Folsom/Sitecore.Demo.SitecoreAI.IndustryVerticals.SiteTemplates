@@ -20,7 +20,7 @@ Languages:
       Value: 20250904T103259Z
     - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
       Hint: FeatureDescription
-      Value: You can get a workspace of the highest quality at an affordable price and still enjoy the facilities that are only here.
+      Value: We give you an advantage by offering plans that best suit your borrowers' unique needs.
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,21 +31,21 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
       Hint: FeatureTitle
-      Value: Affordable Price
+      Value: Compare our MI premium plans
     - ID: "69536d16-4033-4ebf-9416-436f0f5a3cb6"
       Hint: FeatureLink
       Value: |
-        <link linktype="external" url="http://www.google.com" target="_blank" text="More Info" title="More Info" anchor=""/>
+        <link text="Compare premium plans" linktype="external" url="http://www.google.com" anchor="" title="More Info" target="_blank" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b197f50a-0289-44c6-b4b5-edba4a4c2ca4"
+      Value: "cc6d3c8a-cf34-4495-917a-203a6b11c66a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sanduni.galagoda@sitecore.com
+        sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251002T095626Z
+      Value: 20260224T014831Z
 - Language: "es-ES"
   Versions:
   - Version: 1

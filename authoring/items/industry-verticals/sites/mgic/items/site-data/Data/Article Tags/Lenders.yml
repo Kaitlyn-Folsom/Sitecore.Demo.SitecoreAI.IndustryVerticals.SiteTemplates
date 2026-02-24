@@ -1,8 +1,8 @@
 ﻿---
-ID: "a0b4e885-16ae-493e-af7f-5dcc24f6f185"
-Parent: "a445daac-b7fe-464e-9ae5-4ffe6b5fb6dc"
-Template: "3c4eae73-7e7f-4648-a863-bd250d76ccf8"
-Path: "/sitecore/content/industry-verticals/mgic/Data/Article Categories/Crafted"
+ID: "0fafde04-09b3-4bc6-9cbe-8d91121a2f64"
+Parent: "ddd7d05d-04fb-4deb-ac2d-9c2888588bb8"
+Template: "121ff042-8e7e-48e2-961d-d38d81e8edc6"
+Path: "/sitecore/content/industry-verticals/mgic/Data/Article Tags/Lenders"
 Languages:
 - Language: en
   Versions:
@@ -10,46 +10,49 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250923T121316Z
+      Value: 20250912T080402Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\sanduni.galagoda@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "655ee303-9aad-459c-9deb-a26afa86b46d"
+      Hint: Tag
+      Value: Home Décor
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "30a9986e-558b-40d3-a540-f39b14069644"
+      Value: "41c033bd-540b-459c-9072-235c8962b60d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sanduni.galagoda@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250923T122050Z
-    - ID: "f9fd853f-2691-40b4-81d1-00ccf1a6cc06"
-      Hint: Category
-      Value: Crafted
+      Value: 20250923T121935Z
 - Language: "es-ES"
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250923T121316Z
+      Value: 20250912T080402Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\sanduni.galagoda@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "655ee303-9aad-459c-9deb-a26afa86b46d"
+      Hint: Tag
+      Value: Decoración del Hogar
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "beaa2cc8-27cb-4eaa-8c2b-c8638d6846fc"
+      Value: "e648e732-1266-4633-86a1-9dff299c1eaa"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -60,27 +63,27 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20251219T104334Z
-    - ID: "f9fd853f-2691-40b4-81d1-00ccf1a6cc06"
-      Hint: Category
-      Value: Elaborado
 - Language: "fr-CA"
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250923T121316Z
+      Value: 20250912T080402Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\sanduni.galagoda@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "655ee303-9aad-459c-9deb-a26afa86b46d"
+      Hint: Tag
+      Value: Décoration intérieure
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7580c1d8-1336-4411-8345-8c777f5bba38"
+      Value: "db772c8f-bb33-48c9-9c51-1dad912ccf93"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -91,27 +94,27 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20251217T110143Z
-    - ID: "f9fd853f-2691-40b4-81d1-00ccf1a6cc06"
-      Hint: Category
-      Value: Fabriqué
 - Language: "fr-FR"
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20250923T121316Z
+      Value: 20250912T080402Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\sanduni.galagoda@sitecore.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "655ee303-9aad-459c-9deb-a26afa86b46d"
+      Hint: Tag
+      Value: Décoration d'intérieur
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "902d02ea-5de1-48fb-8dec-c88f2c42c95f"
+      Value: "d7f7b4d0-250a-41fe-b97f-0c1f7adfa39f"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -121,7 +124,4 @@ Languages:
         sitecore\isuru.bandara@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251217T104027Z
-    - ID: "f9fd853f-2691-40b4-81d1-00ccf1a6cc06"
-      Hint: Category
-      Value: Fabriqué
+      Value: 20251217T104028Z

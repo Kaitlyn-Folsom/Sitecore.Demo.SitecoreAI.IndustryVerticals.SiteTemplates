@@ -36,6 +36,14 @@
   &::after {
     @apply md:border-l-accent inline-block h-0 w-0 border-y-[6px] border-l-[10px] border-y-transparent border-l-white content-[''];
   }
+
+  &.text-white {
+    @apply text-accent inline-flex items-center justify-start gap-3 rounded-full bg-white px-5 py-2.5 font-bold transition md:rounded-none md:bg-transparent md:px-0 md:py-0 md:text-white md:hover:border-b md:hover:border-b-white md:hover:text-white;
+  }
+
+  &.text-white::after {
+    @apply border-l-accent inline-block h-0 w-0 border-y-[6px] border-l-[10px] border-y-transparent content-[''] md:border-l-white;
+  }
 }
 
 .carousel-btn {

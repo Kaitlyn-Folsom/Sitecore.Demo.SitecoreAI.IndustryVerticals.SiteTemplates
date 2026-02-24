@@ -242,3 +242,44 @@ export const ImageCardGrid = (props: FeaturesProps) => {
     </FeatureWrapper>
   );
 };
+
+export const NoImageCardGrid = (props: FeaturesProps) => {
+  const results = props.fields.data.datasource.children.results;
+
+  return (
+    <FeatureWrapper props={props}>
+      <div className="outline-non container grid max-w-6xl grid-cols-1 gap-12 py-24 md:grid-cols-2 md:gap-14 lg:grid-cols-3">
+        {results.map((item, index) => {
+          const title = item.featureTitle.jsonValue;
+          const description = item.featureDescription.jsonValue;
+          const link = item.featureLink.jsonValue;
+          let cardBgColor = 'bg-background-accent';
+
+          if (index === 0) {
+            cardBgColor = 'bg-[#006dc6]';
+          } else if (index === 1) {
+            cardBgColor = 'bg-[#003b5c]';
+          } else if (index === 2) {
+            cardBgColor = 'bg-[#ed1781]';
+          }
+
+          return (
+            <div className={`${cardBgColor} flex flex-col p-6`} key={index}>
+              {/* Title, Link and Description */}
+              <hr className="height-3 bg-white" />
+              <div className="mt-5 mb-4 text-2xl font-bold text-white">
+                <Text field={title} />
+              </div>
+              <div className="mb-3.5 flex-auto leading-7 text-white">
+                <Text field={description} />
+              </div>
+              <div>
+                <Link field={link} className="arrow-btn mt-10 text-sm text-[16px] text-white" />
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </FeatureWrapper>
+  );
+};

@@ -206,15 +206,37 @@ Languages:
             </r>
             <r
               uid="{3322063A-EBC7-4FE5-B3B2-0E084039FC58}"
-              p:after="r[@uid='{AE225B7C-0876-4FAE-A959-B3AFC8E0E91B}']"
-              s:ds="8ad05d49-8b8c-4597-9d01-2956765bea05" />
+              s:ds="8ad05d49-8b8c-4597-9d01-2956765bea05"
+              s:par="FieldNames=%7B08189EBF-3787-4873-B80C-0F05FF1C60E4%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B10578AE9-ED30-483A-925B-F8DAFE531B42%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D" />
             <r
               uid="{9E9A7694-8CBD-488D-90F8-C88AE51B223A}">
               <p:d />
             </r>
             <r
               uid="{D362D8F7-42C9-488A-BE41-4E79A8C3868A}"
-              s:par="FieldNames=%7B2DAC9FCD-424F-4FD6-836B-C6911040175C%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B57BE3C60-8ADA-4DF9-9131-722B4CD8A2C8%7D%7C%7B9BF27CF9-0676-4440-958A-41DB13ADF914%7D%7C%7BA42EB8CB-19FB-4C99-B1C2-8132C838F729%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=2&amp;CurvedTop&amp;HideShapes=0&amp;Reversed=0&amp;ShowMultipleImages=0&amp;HideQuote=0&amp;HideCurveLine=0&amp;HideShadows=0&amp;CurvedBottom" />
+              s:par="FieldNames=%7B2DAC9FCD-424F-4FD6-836B-C6911040175C%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B57BE3C60-8ADA-4DF9-9131-722B4CD8A2C8%7D%7C%7B9BF27CF9-0676-4440-958A-41DB13ADF914%7D%7C%7B066DDF99-A407-43FD-AE9A-D072497C6F3C%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=2&amp;CurvedTop&amp;HideShapes=0&amp;Reversed=0&amp;ShowMultipleImages=0&amp;HideQuote=0&amp;HideCurveLine=0&amp;HideShadows=0&amp;CurvedBottom" />
+            <r
+              uid="{5C245F3E-D832-4ED3-8DBB-88ABAB16ABC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{1B086346-531C-4C41-BC73-5CF1F0CFF9D0}">
+              <p:d />
+            </r>
+            <r
+              uid="{6749312F-8F01-4253-95E7-6A8A7E1BC986}"
+              p:after="r[@uid='{D362D8F7-42C9-488A-BE41-4E79A8C3868A}']"
+              s:ds="fde29924-2e35-45a4-941c-971cea6de9e4"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B2DAC9FCD-424F-4FD6-836B-C6911040175C%7D&amp;Styles=%7C%7BC8DCC694-2190-427D-913D-1CF318860BF0%7D%7C%7B57BE3C60-8ADA-4DF9-9131-722B4CD8A2C8%7D%7C%7B9BF27CF9-0676-4440-958A-41DB13ADF914%7D%7C%7B72C9C9AF-0CF2-4D51-B7B2-3B89FFF670E1%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+              s:ph="headless-main" />
+            <r
+              uid="{439C4C55-6B32-41B8-9503-4DE5618F5156}"
+              p:after="r[@uid='{6749312F-8F01-4253-95E7-6A8A7E1BC986}']"
+              s:ds="ec8e0977-50fc-4b47-b139-7a46c7e3dd07"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B2DAC9FCD-424F-4FD6-836B-C6911040175C%7D&amp;Styles=%7C%7B72C9C9AF-0CF2-4D51-B7B2-3B89FFF670E1%7D%7C%7B9BF27CF9-0676-4440-958A-41DB13ADF914%7D%7C%7B57BE3C60-8ADA-4DF9-9131-722B4CD8A2C8%7D%7C%7B066DDF99-A407-43FD-AE9A-D072497C6F3C%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=22"
+              s:ph="headless-main" />
             <r
               uid="{AAF0D7B4-60E9-4C86-9EEB-901A9FC4B2AC}">
               <p:d />
@@ -224,8 +246,17 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{D208AC42-DFB1-49D3-87F4-DDF7006DAA69}"
-              s:par="FieldNames=%7B9695ACA6-8758-477B-93C6-A4921F3C3068%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B066DDF99-A407-43FD-AE9A-D072497C6F3C%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=11&amp;CurvedTop&amp;HideShapes=0&amp;Reversed=0&amp;ShowMultipleImages=0&amp;HideQuote=0&amp;HideCurveLine=1&amp;HideShadows=0&amp;CurvedBottom" />
+              uid="{D208AC42-DFB1-49D3-87F4-DDF7006DAA69}">
+              <p:d />
+            </r>
+            <r
+              uid="{C30C0496-2855-442E-B969-F057DE7492E9}">
+              <p:d />
+            </r>
+            <r
+              uid="{F57656C8-E3F9-4BFC-87A9-EA4FF7627A02}">
+              <p:d />
+            </r>
             <r
               uid="{ED5725EF-03DF-4D4F-BE30-78265C5A7D4F}">
               <p:d />
@@ -278,7 +309,7 @@ Languages:
       Value: "Explore Forma Lux’s luxurious furniture collections: heritage craftsmanship meets modern, sustainable design for elegant living spaces."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "900d3900-46c3-45f7-92ec-e5f594544492"
+      Value: "ff485d42-247e-43dc-9a62-f6f526a2720f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -288,7 +319,7 @@ Languages:
       Value: Forma Lux unites artisan heritage with contemporary design to create modular, sustainable furniture for elegant, livable spaces.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260220T193008Z
+      Value: 20260223T153618Z
 - Language: "es-ES"
   Versions:
   - Version: 2

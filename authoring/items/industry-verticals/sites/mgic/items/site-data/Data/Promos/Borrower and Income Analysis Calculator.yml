@@ -2,7 +2,7 @@
 ID: "d23d7a90-4e60-49c0-827c-c17190e9d3e4"
 Parent: "e4a8c78f-2230-4b47-bc38-83947f56e622"
 Template: "08213afb-9cb4-4c1f-a5da-865b9a095601"
-Path: "/sitecore/content/industry-verticals/mgic/Data/Promos/Single Image Promo"
+Path: "/sitecore/content/industry-verticals/mgic/Data/Promos/Borrower and Income Analysis Calculator"
 SharedFields:
 - ID: "0d9bfa5d-ac4d-4dca-8477-78801227cf5c"
   Hint: PromoImageTwo
@@ -15,10 +15,10 @@ SharedFields:
 - ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
   Hint: PromoImageOne
   Value: |
-    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/79693-HomepagePromoCTAs-1100x740?v=59423734" dam-id="LH3yJOzhRICq8Rd348BquA" width="1100" height="740" alt="2e0c02e1ec82784896a5ba2a8ae7a2ddc864aad9 (1).jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79693/thumbnail" />
+    <Image src="https://fols-verticals-feb.sitecoresandbox.cloud/api/public/content/82717-HomepagePromoCTAs-1100x740?v=90bb2f6b" dam-id="NFCVFiRVSPiUpHNrAmHR7g" width="1100" height="740" alt="SEB_Homepage_Image_2000x1200_Jan26.png" dam-content-type="Image" thumbnailsrc="https://fols-verticals-feb.sitecoresandbox.cloud/api/gateway/82717/thumbnail" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "497d9726-7d23-42a9-a72d-64623e49232c"
+  Value: "786ae7e3-908b-4654-b91e-b4bb4b866724"
 Languages:
 - Language: en
   Versions:
@@ -51,14 +51,14 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9b43c93b-b672-4015-b579-58d2eaed7989"
+      Value: "adf52e5b-b833-4b8e-94bf-d26f653d0232"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260220T185405Z
+      Value: 20260220T212513Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
       Value: "Self-employed borrower and income analysis calculators"
