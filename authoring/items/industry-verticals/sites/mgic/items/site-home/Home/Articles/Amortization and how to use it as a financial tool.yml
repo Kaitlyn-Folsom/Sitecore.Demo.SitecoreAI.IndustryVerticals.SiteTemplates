@@ -4,10 +4,26 @@ Parent: "b01aa980-8877-4eb5-9882-ee8ffa38201e"
 Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
 Path: "/sitecore/content/industry-verticals/mgic/Home/Articles/Amortization and how to use it as a financial tool"
 SharedFields:
+- ID: "03ca09cf-9d31-4bbb-a71f-29dec7536586"
+  Hint: Author
+  Value: "{FDDF40EA-9C76-4C01-ADBD-64345E30D908}"
+- ID: "1a8bfd25-dc41-43ec-a561-d0635fb1958a"
+  Hint: Tags
+  Value: "{D9A3751C-0D55-4A68-AD3A-14B7C9250B74}"
+- ID: "5f90c361-338c-4896-b022-11dafa5c2241"
+  Hint: PublishedDate
+  Value: 20260225T000000Z
+- ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
+  Hint: Image
+  Value: |
+    <image mediaid="1b8c59eb-e9bf-4283-bbc8-7d5b1fdd2b92" alt="neutral horizontal pattern readynest-svg" />
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{4B845FFA-7AB9-4161-BA56-8DAED48E9BD5}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "bc70765e-f616-412d-a81b-f1e679115e49"
 Languages:
 - Language: en
   Fields:
@@ -20,6 +36,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260225T183218Z
@@ -30,20 +49,24 @@ Languages:
       Hint: __Owner
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p style="box-sizing:border-box;">Math.</p><p style="box-sizing:border-box;">It certainly wasn’t a subject I enjoyed or excelled at in high school. But I admit it came in handy when figuring out how much money I could save if I bought a sweater that was 30% off.</p><p style="box-sizing:border-box;">And once I became a homeowner, I continued to value math when I discovered what an amortization schedule was and how it could be used to make smart financial decisions that saved me money.</p><h2 class="h2-small" style="box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;GT Walsheim&quot;, sans-serif;font-size:25px;line-height:calc(1.3);">What is amortization?</h2><p>Amortization is a big word for the way a mortgage or car loan is repaid, i.e., the process of paying off the debt in equal installments over the term of your loan. Take a 30-year, fixed-rate mortgage, also called an amortized loan – each month for 30 years, you pay the same amount of money (not including homeowners insurance or property taxes).</p><p style="box-sizing:border-box;">The monthly payment gets divided into 2 unequal portions. One portion goes toward paying back the principal amount you borrowed (debt reduction), and the other part goes toward paying the interest. The amount of money that gets applied to each of those 2 portions changes over the years.&nbsp;</p><p style="box-sizing:border-box;">In the beginning, only a small part of the monthly payment is applied to the principal loan amount. A larger amount is applied to the interest because the interest is calculated on the amount of the loan, which is largest at the beginning. Over the course of your loan, more of your payment goes toward paying down the principal and, in essence, building equity in your mortgaged property.</p><p style="box-sizing:border-box;">You can keep track of how much of each month’s payment goes toward the principal and how much interest you’re paying by consulting an amortization schedule that your lender can provide.&nbsp;&nbsp;</p><h2 class="h2-small" style="box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;GT Walsheim&quot;, sans-serif;font-size:25px;line-height:calc(1.3);">Why does it matter?</h2><p>It’s important to understand your amortization schedule because you can use it as a tool to pay off your loan earlier and pay less interest while doing it.&nbsp;</p><p>&nbsp;</p><p style="box-sizing:border-box;">Because the interest is calculated as a percentage of the current loan balance each month, as the loan balance is reduced, the amount of interest shrinks. For example, 6.75% on $299,500 is less money than 6.75% on $300,000.</p><p style="box-sizing:border-box;">If you’re like me, figuring this out requires too much math. Lucky for us,&nbsp;<a style="background-color:transparent;box-sizing:border-box;color:rgb(15, 91, 193);cursor:pointer;font-weight:normal;text-decoration:none;transition:color 150ms;" href="https://www.bankrate.com/mortgages/amortization-calculator/" target="_blank" rel="noopener noreferrer" title="amortization calculators">amortization calculators</a> can show you how making an extra payment toward the principal will not only decrease your principal balance&nbsp;but also lower the amount of interest you pay. In effect, if you can afford to make extra payments, you can pay off your loan sooner and pay less interest over the course of your mortgage, depending on how much extra you pay toward your principal and how often you do it.</p><p style="box-sizing:border-box;"><em>Important tip: Make sure you indicate in the memo portion of your check that the extra payment should be applied to the principal loan balance. If you are paying digitally, ask the customer service of your financial institution how to apply extra payments to the principal balance online.</em></p><p style="box-sizing:border-box;">I did this for my mortgage and my auto loan and saved myself thousands of dollars in interest – plus paid off both loans sooner than originally planned.</p><p style="box-sizing:border-box;">In addition to making additional principal payments, an amortization calculator can also demonstrate how biweekly payments could shorten the term of your loan and the total amount of interest you pay.&nbsp;</p><p style="box-sizing:border-box;"><em>NOTE: Make sure your lender doesn’t charge a prepayment penalty.&nbsp;</em></p><p style="box-sizing:border-box;">Ask your lender or <a style="background-color:transparent;box-sizing:border-box;color:rgb(15, 91, 193);cursor:pointer;font-weight:normal;text-decoration:none;transition:color 150ms;" href="https://www.readynest.com/homebuyer-stories/what-does-it-mean-for-you-when-your-loan-is-sold-to-another-mortgage-loan-servicing-company">servicer</a>&nbsp;(the company that you send your mortgage payment to) for help exploring how you can use an amortization schedule as a tool to make financially beneficial decisions. People do this all the time, so there’s no need to feel awkward!</p><p style="box-sizing:border-box;">Because no one likes paying full price for a sweater – or a mortgage – if they can help it.&nbsp;</p></div>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2a540c17-c901-4293-9fba-6ed385045a81"
+      Value: "9d3da2ed-eeb4-445b-98cb-19542728c66a"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: New page
+      Value: Amortization and how to use it as a financial tool
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260225T183232Z
+      Value: 20260225T184233Z

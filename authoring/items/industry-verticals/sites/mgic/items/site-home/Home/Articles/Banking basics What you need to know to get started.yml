@@ -1,0 +1,72 @@
+﻿---
+ID: "a3934eb5-9e7b-4165-82a6-aef8b7ba5e13"
+Parent: "b01aa980-8877-4eb5-9882-ee8ffa38201e"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/mgic/Home/Articles/Banking basics What you need to know to get started"
+SharedFields:
+- ID: "03ca09cf-9d31-4bbb-a71f-29dec7536586"
+  Hint: Author
+  Value: "{28E9A08D-89BF-4F54-8FE9-E54E1C4CA4D2}"
+- ID: "1a8bfd25-dc41-43ec-a561-d0635fb1958a"
+  Hint: Tags
+  Value: "{D9A3751C-0D55-4A68-AD3A-14B7C9250B74}"
+- ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
+  Hint: Image
+  Value: |
+    <image mediaid="114dc306-9a98-4cdd-845a-6dd63875be89" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F88525BC-DBC5-4F2A-9CD3-FCD259A2171E}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "04b7ff37-68c0-4391-8efd-2ff762ac5fa8"
+- ID: "fe61849e-05c9-4da7-ba34-5780f95d0866"
+  Hint: Category
+  Value: "{A0B4E885-16AE-493E-AF7F-5DCC24F6F185}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "dd47faea-d6a9-4f77-94f4-64b6853d5436"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Banking basics: What you need to know to get started"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260225T184434Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New page
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p style="box-sizing:border-box;">Banks play a vital role in our everyday lives, even if we don’t always realize it. From storing money safely to helping us buy homes, banks are central to our economy. If you’ve ever wondered how banking works or why people talk about having a savings or checking account, you’re not alone. Banking can feel confusing at first, but once you understand a few core concepts, it all starts to make sense.&nbsp;</p><p style="box-sizing:border-box;">Whether you’re opening your first account or just want to understand how your money is managed, this article covers the basics of banking in a simple, straightforward way. If you want to dive deeper, our free financial literacy course, <a style="background-color:transparent;box-sizing:border-box;color:rgb(15, 91, 193);cursor:pointer;font-weight:normal;text-decoration:none;transition:color 150ms;" href="https://www.finallyhome.org/en/financial-basics/" target="_blank" rel="noopener noreferrer" title="Finally Home! Financial Basics">Finally Home! Financial Basics</a>, offers step-by-step guidance to help you become a banking pro.</p><h2 class="h2-small" style="box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;GT Walsheim&quot;, sans-serif;font-size:25px;line-height:calc(1.3);">Why banking matters</h2><p>Having a bank account is important to safely and efficiently manage your money. It provides a secure place to store your funds and makes it easier to pay bills, receive direct deposits, and track your spending.&nbsp;</p><p style="box-sizing:border-box;">A bank account also helps you build a financial history, which is important when qualifying for home and car loans, renting an apartment or even getting certain jobs.&nbsp;</p><h2 class="h2-small" style="box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;GT Walsheim&quot;, sans-serif;font-size:25px;line-height:calc(1.3);">What is a bank?</h2><p style="box-sizing:border-box;">A bank is a financial institution chartered to safely hold your money and to make loans. Beyond those 2 primary functions, banks offer a wide range of financial products, including:</p><ul style="box-sizing:border-box;"><li style="box-sizing:border-box;">Checking and savings accounts</li><li style="box-sizing:border-box;">Credit cards</li><li style="box-sizing:border-box;">Mortgages</li><li style="box-sizing:border-box;">Consumer loans</li><li style="box-sizing:border-box;">Investment products</li><li style="box-sizing:border-box;">Commercial loans</li></ul><p style="box-sizing:border-box;">When choosing a bank, it’s important to understand the benefits of each and how they might fit your lifestyle. There are 3 types of banks you’ll likely encounter:</p><ul style="box-sizing:border-box;"><li style="box-sizing:border-box;">National banks:&nbsp;These are banks that have locations nationwide. They offer a wide range of services and tend to have more standardized lending practices.</li><li style="box-sizing:border-box;">State banks, also sometimes referred to as community or regional banks:&nbsp;These are typically smaller banks with limited locations. They might not offer the same range of services as a national bank and typically focus on local residents or businesses.</li><li style="box-sizing:border-box;">Online banks:&nbsp;While most national and state banks offer digital services like online banking and mobile apps, online banks operate entirely through the internet and have no physical locations. They may offer lower-cost services, but this convenience often comes with limited personal interaction.</li></ul><p style="box-sizing:border-box;">Another option you might choose for banking is a credit union. While credit unions offer many of the same services as banks, they are not banks. They are cooperatives owned by their members that focus on serving their members. Credit unions tend to have fewer branch offices and might not provide the same services as a bank but might offer better interest rates or lower fees.&nbsp;&nbsp;</p><h2 class="h2-small" style="box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;GT Walsheim&quot;, sans-serif;font-size:25px;line-height:calc(1.3);">Types of bank accounts</h2><p>There are several types of bank accounts designed to meet your different financial needs. Most people start their banking journey with checking and savings accounts. Checking accounts are used for everyday transactions like paying bills, making purchases, or receiving direct deposits. They typically offer easy access through debit cards and online banking but may earn little or no interest.</p><p style="box-sizing:border-box;">Savings accounts are meant for storing money and earning interest over time, making them ideal for building emergency funds or meeting savings goals, like a down payment on a house. There are 4 types of savings accounts:</p><ul style="box-sizing:border-box;"><li style="box-sizing:border-box;">Standard savings account</li><li style="box-sizing:border-box;">High-yield savings account (HYSA)</li><li style="box-sizing:border-box;">Certificate of deposit (CD)</li><li style="box-sizing:border-box;">Money market account (MMA)</li></ul><p style="box-sizing:border-box;">It is important to research the different savings account options available to you. Different accounts cater to different financial needs and situations. Each option will come with certain conditions, requirements, and benefits that can affect your savings strategies. Taking time to understand those conditions can help you avoid accounts that won’t work for you.&nbsp;&nbsp;</p><h2 class="h2-small" style="box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;GT Walsheim&quot;, sans-serif;font-size:25px;line-height:calc(1.3);">How to choose the right bank</h2><p>Choosing the right bank account depends on your financial habits, goals, and priorities. When choosing a bank, ask yourself these questions:</p><ul style="box-sizing:border-box;"><li style="box-sizing:border-box;">What’s the main purpose of this account?</li><li style="box-sizing:border-box;">How often will I need to access my money?</li><li style="box-sizing:border-box;">Do I prefer in-person banking or online convenience?</li><li style="box-sizing:border-box;">What are the account fees?</li><li style="box-sizing:border-box;">Is there a minimum balance requirement?</li><li style="box-sizing:border-box;">Does the account offer interest earnings or other perks?</li><li style="box-sizing:border-box;">How easy is it to transfer money or pay bills?</li></ul><p style="box-sizing:border-box;">Answering these questions can help narrow down your options and guide you to an account that aligns with your financial needs and your lifestyle.&nbsp;&nbsp;</p><h2 class="h2-small" style="box-sizing:border-box;color:rgb(0, 0, 0);font-family:&quot;GT Walsheim&quot;, sans-serif;font-size:25px;line-height:calc(1.3);">Take charge of your financial future</h2><p>Knowing the basics of banking is one of the most valuable skills you can develop to create a secure future in a digital age. Whether it’s saving for a down payment on a home, opening a credit card, or understanding bank fees, the more you know about how banking works, the more confident and empowered you’ll feel in your financial decisions.</p><p style="box-sizing:border-box;">Ready to dig deeper? The <a style="background-color:transparent;box-sizing:border-box;color:rgb(15, 91, 193);cursor:pointer;font-weight:normal;text-decoration:none;transition:color 150ms;" href="https://www.finallyhome.org/en/financial-basics/" target="_blank" rel="noopener noreferrer" title="Finally Home! Financial Basics">Finally Home! Financial Basics</a> course provides detailed guidance and step-by-step strategies to help you manage, save and grow your money. Online research can be a great resource, but it shouldn’t be a substitute for professional financial, legal or tax advice. We encourage you to seek guidance from qualified professionals, which could include financial advisors, mortgage lenders/brokers, attorneys or certified public accountants (CPAs).&nbsp;</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2de80b5b-d516-4ac8-81bd-7c0dc87f9e3b"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "Banking basics: What you need to know to get started"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260225T185411Z
