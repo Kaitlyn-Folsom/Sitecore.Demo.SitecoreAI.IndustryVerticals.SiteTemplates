@@ -21,17 +21,17 @@ Languages:
         sitecore\isuru.bandara@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "30a9986e-558b-40d3-a540-f39b14069644"
+      Value: "3144012d-9222-4ffd-b615-8bfed30b070b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sanduni.galagoda@sitecore.com
+        sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250923T122050Z
+      Value: 20260224T213655Z
     - ID: "f9fd853f-2691-40b4-81d1-00ccf1a6cc06"
       Hint: Category
-      Value: Crafted
+      Value: Blog
 - Language: "es-ES"
   Versions:
   - Version: 1

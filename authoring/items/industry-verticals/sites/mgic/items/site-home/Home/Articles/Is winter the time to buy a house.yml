@@ -1,0 +1,78 @@
+﻿---
+ID: "491f3333-20a2-4438-99ca-fa8062b5372a"
+Parent: "b01aa980-8877-4eb5-9882-ee8ffa38201e"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/mgic/Home/Articles/Is winter the time to buy a house"
+SharedFields:
+- ID: "03ca09cf-9d31-4bbb-a71f-29dec7536586"
+  Hint: Author
+  Value: "{FDDF40EA-9C76-4C01-ADBD-64345E30D908}"
+- ID: "1a8bfd25-dc41-43ec-a561-d0635fb1958a"
+  Hint: Tags
+  Value: "{7DB898F0-7807-4E3F-8D3F-8B3E4890C382}"
+- ID: "5f90c361-338c-4896-b022-11dafa5c2241"
+  Hint: PublishedDate
+  Value: 20260225T000000Z
+- ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
+  Hint: Image
+  Value: |
+    <image mediaid="b771e14e-a015-4fa4-a421-721f510c1e9e" alt="Should-you-buy-a-home-in-winter-readynest-png" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8B58F4F9-4322-40AE-9A4E-858F2930774A}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "14451ba1-23f3-4b2c-905d-94c5117d532c"
+- ID: "fe61849e-05c9-4da7-ba34-5780f95d0866"
+  Hint: Category
+  Value: "{A0B4E885-16AE-493E-AF7F-5DCC24F6F185}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "10de50e3-72b6-46dd-a1a2-ea9c65aeba1d"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Is winter the time to buy a house?"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260220T181605Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Test Blog
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p style="box-sizing:border-box;">There’s no denying it: traditionally, spring and early summer are considered peak buying season in the real estate market. According to the <a style="background-color:transparent;box-sizing:border-box;color:rgb(15, 91, 193);cursor:pointer;font-weight:normal;text-decoration:none;transition:color 150ms;" href="https://www.nar.realtor/blogs/economists-outlook/navigating-the-housing-market-a-seasonal-perspective" target="_blank" rel="noopener noreferrer" title="National Association of Realtors">National Association of Realtors</a> (NAR), more than 18,000 homes are sold every day April through June, compared with approximately 13,000 per day December through February.&nbsp;</p><p style="box-sizing:border-box;">Often, more people put their homes for sale in peak months, which means you may have more options to choose from. But in winter, fewer people generally shop for homes, which means that you may face less competition as a homebuyer. Fewer people vying for homes and the attention of professionals in the homebuying process can offer advantages for the off-peak shopper. Here are a few reasons to consider buying a home in the winter months.</p><p style="box-sizing:border-box;">We’ve all heard stories of dream homes getting multiple offers within hours of going on the market. In the winter months, homes stay on the market slightly longer compared with the summer. For a first-time homebuyer, this may reduce some pressure to make a quick decision.</p><h4>Room for negotiation</h4><p style="box-sizing:border-box;">The off-peak season may be a good time to negotiate with sellers who are interested in getting out of their current homes but aren’t receiving as many offers. <a style="background-color:transparent;box-sizing:border-box;color:rgb(15, 91, 193);cursor:pointer;font-weight:normal;text-decoration:none;transition:color 150ms;" href="https://www.nar.realtor/blogs/economists-outlook/navigating-the-housing-market-a-seasonal-perspective" target="_blank" rel="noopener noreferrer" title="According to NAR">According to NAR</a>, home prices can be as much as 16% lower in the winter months compared to peak buying season. An experienced real estate agent in your area can advise you on how much negotiation might be possible.</p><h4>Experience of potential winter challenges</h4><p style="box-sizing:border-box;">While no one wants to think about dealing with issues, if you live in a climate where winters are harsh, a winter shopping experience gives you the opportunity to see issues that might only crop up when temperatures fall. You can look for spots where ice builds up on the property, check for drafty windows and get a feel for how well the neighborhood’s roads are cleared.</p><h4>Better scheduling</h4><p style="box-sizing:border-box;">From a practical standpoint, after you’ve made an offer and it’s time to work through the steps toward closing, some of the people you’ll work with may be less booked. Home inspectors and mortgage brokers or loan officers may have more availability to work with you in winter months than they do during busy seasons when they have many more closings to prepare for.&nbsp;&nbsp;</p><p style="box-sizing:border-box;">Each season offers its own pros and cons to the potential homebuyer. Ultimately, the best time for you to buy a home is when you’re ready!</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "844baf54-2f0e-42a5-8cab-5f596ea60c3e"
+      Hint: ReadTime
+      Value: 10
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a051bb2c-0a39-4100-8be6-9b74c2cf8a54"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "Is winter the time to buy a house?"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260225T183104Z

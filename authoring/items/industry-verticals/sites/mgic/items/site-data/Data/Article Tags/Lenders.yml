@@ -21,17 +21,17 @@ Languages:
         sitecore\sanduni.galagoda@sitecore.com
     - ID: "655ee303-9aad-459c-9deb-a26afa86b46d"
       Hint: Tag
-      Value: Home Décor
+      Value: Lenders
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "41c033bd-540b-459c-9072-235c8962b60d"
+      Value: "6ca7783b-7602-4c44-a115-e4a78cf5f975"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sanduni.galagoda@sitecore.com
+        sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250923T121935Z
+      Value: 20260224T215919Z
 - Language: "es-ES"
   Versions:
   - Version: 1

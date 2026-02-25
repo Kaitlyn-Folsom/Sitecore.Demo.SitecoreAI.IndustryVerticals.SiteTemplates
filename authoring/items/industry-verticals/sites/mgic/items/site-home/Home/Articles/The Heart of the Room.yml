@@ -11,7 +11,7 @@ SharedFields:
   Hint: Tags
   Value: |
     {7DB898F0-7807-4E3F-8D3F-8B3E4890C382}
-    {16A52A48-1233-4236-88BF-4497CAB16E4A}
+    {0FAFDE04-09B3-4BC6-9CBE-8D91121A2F64}
 - ID: "5f90c361-338c-4896-b022-11dafa5c2241"
   Hint: PublishedDate
   Value: 20260422T000000Z
@@ -32,7 +32,7 @@ SharedFields:
     <image mediaid="{8922AF48-C40D-49AC-925A-D4CC759F7CF8}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "e0cd7cb3-09d7-4d63-934d-cb28cd2a0444"
+  Value: "948391ea-b089-4efe-bc98-4e516dc70a16"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -50,7 +50,7 @@ SharedFields:
     </r>
 - ID: "fe61849e-05c9-4da7-ba34-5780f95d0866"
   Hint: Category
-  Value: "{FEBE65AE-F670-4665-81DC-70CB6581E2E2}"
+  Value: "{A0B4E885-16AE-493E-AF7F-5DCC24F6F185}"
 Languages:
 - Language: en
   Fields:
@@ -107,9 +107,12 @@ Languages:
         
         Raw linen drapes frame large windows, allowing golden light to spill across reclaimed oak furniture. A woolen rug anchors the seating area, while soft cushions and layered throws invite you to sink in and stay awhile.
         
+    - ID: "844baf54-2f0e-42a5-8cab-5f596ea60c3e"
+      Hint: ReadTime
+      Value: 5
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7ffbfeee-de29-4259-b1c3-c2ce85ea6be1"
+      Value: "2ba5124b-067f-4fa8-bedf-14b6296d4aa7"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
       Value: "The Heart of the Room: Fireplace"
@@ -119,7 +122,7 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260220T181521Z
+      Value: 20260224T202252Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: "The Heart of the Room: Fireplace & Lounge | Forma Lux Journal – Handmade Design with Warmth & Craft"

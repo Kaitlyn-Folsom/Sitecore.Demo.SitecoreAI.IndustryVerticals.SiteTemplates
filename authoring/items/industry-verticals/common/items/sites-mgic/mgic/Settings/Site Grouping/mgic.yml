@@ -33,7 +33,7 @@ SharedFields:
   Value: *
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "5b5f70b7-326d-4076-b606-c275a91dcc71"
+  Value: "354310c1-71de-40b3-ae0b-782d71fc208b"
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
   Value: mgic
@@ -55,11 +55,11 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1c092dcd-9308-4df8-8909-e580267b781d"
+      Value: "d96530a1-7277-4d16-b3f4-0adc64fe8628"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260218T211538Z
+      Value: 20260224T142226Z

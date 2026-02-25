@@ -13,12 +13,14 @@ import {
 import Head from 'next/head';
 import { useEffect, useState } from 'react';
 import SocialShare from '../non-sitecore/SocialShare';
+import type { Tag } from '@/types/article';
 
 interface Fields {
   Title: Field<string>;
   ShortDescription: Field<string>;
   Content: RichTextField;
   Image: ImageField;
+  Tags?: Tag[];
 }
 
 interface ArticleDetailsProps extends ComponentProps {
@@ -33,6 +35,7 @@ export const Default = ({ params, fields, rendering }: ArticleDetailsProps) => {
   const fullWidthPlaceholderKey = `article-details-full-width-${DynamicPlaceholderId}`;
   const isPageEditing = page.mode.isEditing;
   const hideShareWidget = isParamEnabled(params.HideShareWidget);
+  const articleTags = (fields?.Tags?.map((tag) => tag.fields.Tag.value) ?? []).join(', ');
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -79,7 +82,18 @@ export const Default = ({ params, fields, rendering }: ArticleDetailsProps) => {
               <ContentSdkImage field={fields.Image} className="h-full w-full object-cover" />
             </div>
 
-            <div className="col-span-12 mt-8 lg:col-span-8 lg:col-start-3">
+            <div className="col-span-12 mt-4 flex justify-start lg:col-span-9 lg:col-start-3">
+              {articleTags.split(',').map((tag: string) => (
+                <div
+                  key={tag.trim()}
+                  className="mr-4 rounded-full bg-[#153b5a] px-3 py-1.5 text-white"
+                >
+                  {tag.trim()}
+                </div>
+              ))}
+            </div>
+
+            <div className="col-span-12 mt-6 lg:col-span-8 lg:col-start-3">
               <h2>
                 <ContentSdkText field={fields.Title} />
               </h2>

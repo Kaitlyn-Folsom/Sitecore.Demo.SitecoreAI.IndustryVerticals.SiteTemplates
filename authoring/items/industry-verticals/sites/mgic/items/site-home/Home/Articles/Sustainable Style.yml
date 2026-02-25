@@ -4,6 +4,11 @@ Parent: "b01aa980-8877-4eb5-9882-ee8ffa38201e"
 Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
 Path: "/sitecore/content/industry-verticals/mgic/Home/Articles/Sustainable Style"
 SharedFields:
+- ID: "1a8bfd25-dc41-43ec-a561-d0635fb1958a"
+  Hint: Tags
+  Value: |
+    {0FAFDE04-09B3-4BC6-9CBE-8D91121A2F64}
+    {16A52A48-1233-4236-88BF-4497CAB16E4A}
 - ID: "61dfb6ba-1cd3-42ec-97d7-75ca2522920c"
   Hint: ogImage
   Value: |
@@ -15,10 +20,10 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{15E46F4A-BF82-4B7E-BBA7-7401443BE24A}" />
+    <image mediaid="{D2F9C065-DD16-4321-8A30-630B662F31A6}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f84ba797-1c14-4334-8b5e-2d0a206e2999"
+  Value: "bd66aa8c-9c5f-4c45-860d-3325b645e561"
 Languages:
 - Language: en
   Fields:
@@ -31,6 +36,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
       Value: "Discover how to choose furniture that looks good and does good. Explore responsibly-sourced wood, low-VOC finishes, recycled materials, and durable construction for a stylish, sustainable home."
@@ -60,7 +68,7 @@ Languages:
       Value: "Discover how to choose furniture that looks good and does good. Explore responsibly-sourced wood, low-VOC finishes, recycled materials, and durable construction for a stylish, sustainable home."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "96281e7a-aaf6-4d9e-a58a-f4937f84c23d"
+      Value: "0e8d879a-3813-44e9-a653-120558687400"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
       Value: "Sustainable Style: Modern Furniture That’s Good for the Planet"
@@ -70,7 +78,7 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260218T025913Z
+      Value: 20260224T220150Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
       Value: "Sustainable Furniture Choices: Modern Design That Reflects Your Values"

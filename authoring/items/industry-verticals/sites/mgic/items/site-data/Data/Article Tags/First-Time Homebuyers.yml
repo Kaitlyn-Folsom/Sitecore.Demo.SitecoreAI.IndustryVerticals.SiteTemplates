@@ -21,17 +21,17 @@ Languages:
         sitecore\sanduni.galagoda@sitecore.com
     - ID: "655ee303-9aad-459c-9deb-a26afa86b46d"
       Hint: Tag
-      Value: Wood
+      Value: "First-Time Homebuyers"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "849064d1-6c13-4083-88ee-1b12e01c3d40"
+      Value: "6f7d5f60-4d7a-4bab-a438-b8f21c3110fb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sanduni.galagoda@sitecore.com
+        sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250923T121900Z
+      Value: 20260224T215915Z
 - Language: "es-ES"
   Versions:
   - Version: 1
