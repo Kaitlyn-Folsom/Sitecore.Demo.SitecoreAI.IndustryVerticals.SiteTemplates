@@ -1,0 +1,151 @@
+﻿---
+ID: "6108d95a-ecbc-46c5-8e37-b2802f1a37aa"
+Parent: "dd6d9112-7d10-49dc-88ab-b472129e9f88"
+Template: "4aeaa1d5-0823-461d-8d2d-94286a5de0a6"
+Path: "/sitecore/content/industry-verticals/william-blair/Data/Customer Reviews/Testimonials Carousel"
+SharedFields:
+- ID: "4952a853-becb-4896-95db-c32559e99f99"
+  Hint: Reviews
+  Value: |
+    {669AEBAA-8697-411F-867D-E8390B3A73AB}
+    {430F93E0-A83E-46A5-B71A-BB53BB8ACAAA}
+    {FE1A911C-7E8B-44A7-8195-B32F805359E8}
+    {BF34B359-8309-442F-86D5-D4C7B820F1A0}
+    {31B3E239-6E86-486F-80A1-5BB129AE886C}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e72b8d66-609c-4fd0-bfda-cdf74230faf0"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251120T122514Z
+    - ID: "42ae28c2-1616-415c-bb0d-e79d7690f6f6"
+      Hint: Eyebrow
+      Value: Testimonials
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8f6f3ce-8ac2-4a69-a8cf-a7b0dc79c173"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260303T192721Z
+    - ID: "db8ea901-ced9-4d54-81c0-5e3cb48863c2"
+      Hint: Title
+      Value: Our client reviews
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251120T122514Z
+    - ID: "42ae28c2-1616-415c-bb0d-e79d7690f6f6"
+      Hint: Eyebrow
+      Value: Testimonios
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c02805f3-3042-422c-a91a-abc837df179d"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260303T192722Z
+    - ID: "db8ea901-ced9-4d54-81c0-5e3cb48863c2"
+      Hint: Title
+      Value: Opiniones de nuestros clientes
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251120T122514Z
+    - ID: "42ae28c2-1616-415c-bb0d-e79d7690f6f6"
+      Hint: Eyebrow
+      Value: Témoignages
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e463d21-cd7e-493d-9eba-4e77697baced"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260303T192723Z
+    - ID: "db8ea901-ced9-4d54-81c0-5e3cb48863c2"
+      Hint: Title
+      Value: Avis de nos clients
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251120T122514Z
+    - ID: "42ae28c2-1616-415c-bb0d-e79d7690f6f6"
+      Hint: Eyebrow
+      Value: Témoignages
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13c60a1f-60c0-4bc3-921f-5c3593b5e030"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260303T192722Z
+    - ID: "db8ea901-ced9-4d54-81c0-5e3cb48863c2"
+      Hint: Title
+      Value: Avis de nos clients

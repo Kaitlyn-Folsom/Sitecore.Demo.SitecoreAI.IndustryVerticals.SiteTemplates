@@ -51,6 +51,11 @@
             "path": "/gridwell",
             "scope": "SingleItem",
             "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/william-blair",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
           }
         ]
       },
@@ -73,6 +78,51 @@
       {
         "name": "sites-forma-lux",
         "path": "/sitecore/content/industry-verticals/forma-lux",
+        "rules": [
+          {
+            "path": "/home",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Media",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "/Data",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Dictionary",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Presentation",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Settings/Site Grouping",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Settings",
+            "scope": "ItemAndChildren",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "*",
+            "scope": "Ignored"
+          }
+        ]
+      },
+      {
+        "name": "sites-william-blair",
+        "path": "/sitecore/content/industry-verticals/william-blair",
         "rules": [
           {
             "path": "/home",
