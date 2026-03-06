@@ -1,0 +1,34 @@
+﻿---
+ID: "5ecead4e-804d-4824-8329-4ad021bc2e53"
+Parent: "b49fa99e-e95c-4792-af49-6bdeed70ed0b"
+Template: "121ff042-8e7e-48e2-961d-d38d81e8edc6"
+Path: "/sitecore/content/industry-verticals/william-blair/Data/Article Tags/Economy"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T214937Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "655ee303-9aad-459c-9deb-a26afa86b46d"
+      Hint: Tag
+      Value: Economy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ed33ceb-0311-485a-bf8f-0029bba206bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260305T214937Z

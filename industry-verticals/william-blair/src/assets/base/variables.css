@@ -1,24 +1,32 @@
 @theme {
+  /* William Blair brand: navy primary, gold accent */
+  --color-primary: #004165;
+  --color-primary-foreground: #fff;
+
+  --color-secondary: #007ac9;
+  --color-green: #7ab800;
+
   --color-foreground: #1e1e1e;
   --color-foreground-light: #505050;
   --color-foreground-muted: #9f9f9f;
 
   --color-background: #fff;
-  --color-background-accent: #faf3ea;
-  --color-background-muted: #f7f7f7;
+  --color-background-accent: #f5f3ef;
+  --color-background-muted: #f0f0f0;
   --color-background-muted-light: #7a7a7a;
   --color-background-muted-dark: #666;
   --color-background-surface: #fafafa;
 
-  --color-accent: #c1a25f;
+  --color-accent: #007ac9;
+  --color-accent-foreground: #1e1e1e;
 
   --color-success: #2ec1ac;
   --color-danger: #e97171;
 
-  --color-border: #e8e8e8;
+  --color-border: #004165;
 
-  --font-heading: 'Manrope', sans-serif;
-  --font-body: 'Manrope', sans-serif;
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Source Sans 3', sans-serif;
 
   --radius-base: 0.5rem;
 

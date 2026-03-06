@@ -63,7 +63,8 @@ export const Default = ({ params, fields, rendering }: ArticleDetailsProps) => {
 
       <article className={`component article-details ${styles}`} id={id}>
         <div className="container">
-          <div className="grid grid-cols-12 gap-4 py-11">
+          <div className="grid grid-cols-2 gap-4 py-11">Left column</div>
+          <div className="grid grid-cols-8 gap-4 py-11">
             {/* Social Share */}
             {!hideShareWidget && (
               <SocialShare
@@ -75,7 +76,7 @@ export const Default = ({ params, fields, rendering }: ArticleDetailsProps) => {
               />
             )}
 
-            <div className="col-span-12 aspect-video w-full overflow-hidden rounded-lg lg:col-span-10 lg:col-start-2">
+            <div className="col-span-12 aspect-video w-full overflow-hidden lg:col-span-10 lg:col-start-2">
               <ContentSdkImage field={fields.Image} className="h-full w-full object-cover" />
             </div>
 

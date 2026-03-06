@@ -1,0 +1,93 @@
+﻿---
+ID: "38bb00b7-330a-4192-9efe-57326ba436b8"
+Parent: "a11a24e1-698c-4d78-ad9b-864220d20632"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/william-blair/Home/Insights/Article testing"
+SharedFields:
+- ID: "5f90c361-338c-4896-b022-11dafa5c2241"
+  Hint: PublishedDate
+  Value: "2026-03-04"
+- ID: "61dfb6ba-1cd3-42ec-97d7-75ca2522920c"
+  Hint: ogImage
+  Value: "0ba012ef-8730-4107-b262-18b37e211dff"
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{1798FA4C-ADE8-49CE-9E61-DCE8F34ABDD9}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{E2F7BDE7-A0C0-4B9F-9802-580216125626}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4fca15c7-0da8-4eda-905f-ee90bb837205"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: A short test article used to validate page creation and metadata configuration for William Blair.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260304T141655Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Article testing
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur interdum, metus non posuere venenatis, tortor neque viverra enim, sit amet volutpat felis nulla et urna. Sed tempor, justo quis sollicitudin ultricies, neque nisl aliquet sapien, sed blandit erat augue non nunc.</p><p>Integer at risus nec lorem facilisis hendrerit. Duis auctor mauris at massa posuere, vitae dapibus arcu pulvinar. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus pharetra efficitur diam, vitae ultrices magna pretium in.</p><p>Maecenas finibus, erat non scelerisque cursus, erat arcu vulputate lorem, eu varius odio nibh in leo. Nulla facilisi. Integer non nibh vitae neque congue ultrices. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer nec dictum arcu.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: A brief overview of the test article with placeholder copy for validation.
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: This is a test article page with lorem ipsum content, created to verify page setup and metadata fields.
+    - ID: "844baf54-2f0e-42a5-8cab-5f596ea60c3e"
+      Hint: ReadTime
+      Value: 2 min
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc04eb98-2628-4362-95af-ef9cefd5055c"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Article testing
+    - ID: "b7bb63c4-ac9e-4536-9d96-c3c5e9d14ced"
+      Hint: Shares
+      Value: 0
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260305T215755Z
+    - ID: "de1b043b-cddd-48a7-b9c4-98251e188b30"
+      Hint: Likes
+      Value: 0
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: Article testing
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: Article testing, lorem ipsum, William Blair, content validation, test page

@@ -86,7 +86,7 @@ const NavigationListItem: React.FC<NavigationListItemProps> = ({
         'relative flex flex-col gap-x-8 gap-y-4 xl:gap-x-14',
         isRootItem && 'lg:flex-row',
         isLogoRootItem && 'shrink-0 max-lg:hidden',
-        isLogoRootItem && isSimpleLayout && 'lg:mr-auto'
+        isLogoRootItem && isSimpleLayout && ''
       )}
     >
       <div className="flex items-center justify-center gap-1">
@@ -94,7 +94,7 @@ const NavigationListItem: React.FC<NavigationListItemProps> = ({
           field={getLinkField(fields)}
           editable={page.mode.isEditing}
           onClick={clickHandler}
-          className="hover:text-foreground-light whitespace-nowrap transition-colors"
+          className="hover:text-foreground-light font-semibold whitespace-nowrap transition-colors"
         >
           {getLinkContent(fields, logoSrc)}
         </Link>
@@ -188,7 +188,7 @@ export const Default = ({ params, fields }: NavigationProps) => {
     ));
 
   return (
-    <div className={`component navigation bg-background ${styles}`} id={id}>
+    <div className={`component navigation bg-[#004165] ${styles}`} id={id}>
       <div
         className={clsx(
           'relative z-150 container flex items-center py-4 lg:hidden',
@@ -228,7 +228,7 @@ export const Default = ({ params, fields }: NavigationProps) => {
 
       <nav
         className={clsx(
-          'bg-background z-100 flex duration-300',
+          'z-100 flex bg-[#004165] duration-300',
           'max-lg:fixed max-lg:inset-0',
           !isMenuOpen && 'max-lg:-translate-y-full max-lg:opacity-0'
         )}
@@ -236,8 +236,8 @@ export const Default = ({ params, fields }: NavigationProps) => {
         <ul
           role="menubar"
           className={clsx(
-            'container flex flex-col items-center justify-center gap-x-8 gap-y-4 py-6 text-lg lg:flex-row xl:gap-x-16',
-            isSimpleLayout && !hasLogoRootItem && 'lg:justify-end'
+            'container flex flex-col items-center justify-center gap-x-8 gap-y-4 py-5 text-lg lg:flex-row xl:gap-x-16',
+            isSimpleLayout && hasLogoRootItem && 'lg:justify-start'
           )}
         >
           {navigationItems}

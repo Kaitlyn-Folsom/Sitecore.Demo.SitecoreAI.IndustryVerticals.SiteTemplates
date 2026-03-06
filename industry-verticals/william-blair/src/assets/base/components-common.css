@@ -5,13 +5,13 @@
   }
 }
 
-/* Add highlight */
+/* Add highlight – William Blair accent bar */
 .highlighted-top,
 .highlighted-bottom,
 .highlighted-left,
 .highlighted-right {
   > div {
-    @apply border-accent! my-6 p-6;
+    @apply border-accent! my-6 border-2 p-6;
   }
 }
 .highlighted-top > div {
@@ -31,11 +31,15 @@
 }
 
 .arrow-btn {
-  @apply border-b-accent text-accent inline-flex items-center justify-start gap-3 border-b leading-8;
+  @apply border-b-accent text-accent hover:text-accent/90 hover:border-accent/90 inline-flex items-center justify-start gap-3 border-b leading-8 transition-colors;
 
   &::after {
     @apply bg-accent inline-block h-3 w-11 mask-[url('./images/arrow.svg')] bg-contain bg-no-repeat mask-contain mask-center mask-no-repeat content-[''];
   }
+}
+
+.primary-btn {
+  @apply hover:bg-background hover:text-accent-foreground items-center justify-start gap-3 rounded-full border-b bg-[#007ac9] px-5 py-1 leading-8 text-white transition-colors hover:text-white;
 }
 
 .carousel-btn {
@@ -43,7 +47,7 @@
 }
 
 .surface-btn {
-  @apply bg-background-surface text-accent flex size-6 items-center justify-center rounded font-bold transition-shadow hover:shadow-md;
+  @apply bg-background-surface text-accent hover:text-accent/90 flex size-6 items-center justify-center rounded font-bold transition-shadow hover:shadow-md;
 
   &[disabled] {
     @apply pointer-events-none opacity-60;
@@ -55,13 +59,17 @@
 }
 
 .action-btn {
-  @apply text-accent hover:text-accent/80 hover:border-accent/80 border-accent flex h-10 items-center gap-3 border-b bg-transparent text-lg font-semibold;
+  @apply border-primary text-primary hover:border-primary/90 hover:text-primary/90 flex h-10 items-center gap-3 border-b bg-transparent text-lg font-semibold transition-colors;
 }
 
 .main-btn {
-  @apply bg-accent text-background hover:bg-accent/95 flex w-full items-center justify-center rounded-md p-3 text-center text-lg font-semibold transition-all hover:shadow-md;
+  @apply bg-primary text-primary-foreground hover:bg-primary/90 flex w-full items-center justify-center rounded-md p-3 text-center text-lg font-semibold transition-all hover:shadow-md;
 
   &[disabled] {
     @apply pointer-events-none opacity-60;
   }
+}
+
+.max-w-outer-content {
+  @apply max-w-[1440px];
 }
