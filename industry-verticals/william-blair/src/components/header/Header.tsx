@@ -1,6 +1,7 @@
 import React, { JSX } from 'react';
 import { ComponentProps } from '@/lib/component-props';
 import { Placeholder } from '@sitecore-content-sdk/nextjs';
+import Link from 'next/link';
 
 export type HeaderProps = ComponentProps & {
   params: { [key: string]: string };
@@ -40,7 +41,7 @@ export const Default = (props: HeaderProps): JSX.Element => {
                 </button>
                 <div data-component="NavList" className="flex flex-row items-center gap-10">
                   <div data-component="NavItem" className="flex gap-8">
-                    <a
+                    <Link
                       data-component="Button"
                       className="group copy-sm group-hover:decoration-surface hover:decoration-surface copy-sm primary p4 text-primaryblue flex w-fit items-center underline decoration-transparent duration-200 hover:underline"
                       target=""
@@ -48,7 +49,7 @@ export const Default = (props: HeaderProps): JSX.Element => {
                       href="/contact-us#intermediary-north-america-tab"
                     >
                       <span className="text-center">Contact Us</span>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>

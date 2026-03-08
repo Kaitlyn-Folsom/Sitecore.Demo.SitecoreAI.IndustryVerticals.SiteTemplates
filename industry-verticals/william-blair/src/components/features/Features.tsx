@@ -8,7 +8,6 @@ import {
   Text,
 } from '@sitecore-content-sdk/nextjs';
 import React from 'react';
-import { CommonStyles } from '@/types/styleFlags';
 
 interface Fields {
   data: {
@@ -239,6 +238,64 @@ export const ImageCardGrid = (props: FeaturesProps) => {
             </div>
           );
         })}
+      </div>
+    </FeatureWrapper>
+  );
+};
+
+export const FundGrid = (props: FeaturesProps) => {
+  const results = props.fields.data.datasource.children.results;
+  const featureSectionTitle = props.fields.data.datasource.title;
+
+  return (
+    <FeatureWrapper props={props}>
+      <div className="bg-green py-8 md:py-15">
+        <div className="flex w-full">
+          <div className="max-w-outer-content relative mx-auto w-full px-4 sm:px-8 md:px-15 lg:px-30">
+            <div className="mb-8 sm:mb-10 md:mb-13">
+              <h3 className="text-4xl">
+                <Text field={featureSectionTitle.jsonValue} />
+              </h3>
+            </div>
+            <div className="grid grid-cols-1 gap-12 md:grid-cols-2 lg:grid-cols-3">
+              {results.map((item, index) => {
+                const title = item.featureTitle.jsonValue;
+                const description = item.featureDescription.jsonValue;
+                const link = item.featureLink.jsonValue;
+                return (
+                  <div key={index}>
+                    <div className="featured-fund-card flex h-full flex-col bg-white p-5 shadow-sm print:p-0">
+                      <h4 className="h3 promo-ticker mb-5 font-bold">
+                        <Text field={title} />
+                      </h4>
+                      <div className="h6 mb-10 text-3xl text-black">
+                        <Text field={description} />
+                      </div>
+
+                      <div className="mt-auto">
+                        <Link
+                          field={link}
+                          className="text-content bg-surface hover:bg-surface/90 group-hover:bg-surface/90 flex max-h-12 w-fit items-center rounded-full bg-[#007ac9] px-5 py-2 text-center font-bold text-white duration-200"
+                          href="#"
+                        >
+                          View Fund
+                        </Link>
+                      </div>
+                    </div>
+
+                    {/* <h6>
+                      <Text field={title} />
+                    </h6> */}
+
+                    {/* <p className="text-foreground-muted mt-1 text-lg">
+                      <Text field={description} />
+                    </p> */}
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </div>
       </div>
     </FeatureWrapper>
   );

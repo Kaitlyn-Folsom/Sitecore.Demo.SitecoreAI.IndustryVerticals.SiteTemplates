@@ -17,7 +17,7 @@ import { useRef, useState } from 'react';
 import { Article } from '@/types/article';
 import Link from 'next/link';
 import { cn } from '@/shadcn/lib/utils';
-import { CommonStyles, LayoutStyles } from '@/types/styleFlags';
+import { LayoutStyles } from '@/types/styleFlags';
 
 interface Fields {
   Title: Field<string>;

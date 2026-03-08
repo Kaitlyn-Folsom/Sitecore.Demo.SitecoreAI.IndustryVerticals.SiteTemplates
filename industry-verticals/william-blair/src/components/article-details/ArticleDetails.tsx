@@ -34,6 +34,8 @@ export const Default = ({ params, fields, rendering }: ArticleDetailsProps) => {
   const isPageEditing = page.mode.isEditing;
   const hideShareWidget = isParamEnabled(params.HideShareWidget);
 
+  console.log('fields', fields);
+
   useEffect(() => {
     if (typeof window !== 'undefined') {
       setCurrentUrl(window.location.href);

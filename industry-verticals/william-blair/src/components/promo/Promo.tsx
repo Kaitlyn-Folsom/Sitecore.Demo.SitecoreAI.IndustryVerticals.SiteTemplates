@@ -12,7 +12,7 @@ import {
 import { ComponentProps } from 'lib/component-props';
 import clsx from 'clsx';
 import { Quote } from '@/assets/icons/quote/Quote';
-import { CommonStyles, LayoutStyles, PromoFlags } from '@/types/styleFlags';
+import { LayoutStyles, PromoFlags } from '@/types/styleFlags';
 
 interface Fields {
   PromoImageOne: ImageField;
