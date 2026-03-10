@@ -1,0 +1,43 @@
+﻿---
+ID: "741c34f8-e3b0-4208-886c-1bfd9f300b5d"
+Parent: "7347e161-f83b-486e-b51d-1b7181087335"
+Template: "35a8562c-3713-4ae7-8bc7-8770fe57b283"
+Path: "/sitecore/content/industry-verticals/william-blair/Home/Insights/how-to-stay-invested-during-market-volatility-practical-guide-individual-investors/Data/investor-newsletter-subscribe"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260309T173535Z
+    - ID: "4b87c00c-c58b-41a6-9e09-16610db8d8c5"
+      Hint: ButtonText
+      Value: Subscribe
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "63b13fd4-2c5f-43c2-be76-cb87fa206066"
+      Hint: ConsentText
+      Value: <p>By subscribing, you agree to receive email updates from William Blair. You may unsubscribe at any time.</p>
+    - ID: "73961b41-7cfe-4909-9593-1a695e998e38"
+      Hint: Title
+      Value: Subscribe to our investor newsletter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40219b8c-15c3-4fb0-a139-67394d6061d4"
+    - ID: "ad3b3717-d26f-4dfa-898f-5fd711343bfa"
+      Hint: HelperText
+      Value: "<p>Get research-driven guidance and market insights for individual investors—delivered regularly.</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260309T173536Z

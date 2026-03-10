@@ -1,0 +1,241 @@
+﻿---
+ID: "0d702415-0f7a-4f9d-8262-46706ab1a798"
+Parent: "a11a24e1-698c-4d78-ad9b-864220d20632"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/william-blair/Home/Insights/how-to-stay-invested-during-market-volatility-a-practical-guide-for-individual-investors"
+SharedFields:
+- ID: "03ca09cf-9d31-4bbb-a71f-29dec7536586"
+  Hint: Author
+  Value: "{6238E944-96DE-4825-A9A3-3F0D22CDDB6A}"
+- ID: "1a8bfd25-dc41-43ec-a561-d0635fb1958a"
+  Hint: Tags
+  Value: |
+    {5ECEAD4E-804D-4824-8329-4AD021BC2E53}
+    {ED0DC027-8B0A-4B9F-9549-68D0063AE04C}
+    {12CA5786-9115-4109-BC63-B23AFE7E4781}
+- ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+  Hint: ChangeFrequency
+  Value: 
+- ID: "5f90c361-338c-4896-b022-11dafa5c2241"
+  Hint: PublishedDate
+  Value: 20260309T104035Z
+- ID: "76fb6ffd-4487-4028-a1cf-705fbe360cba"
+  Hint: Priority
+  Value: 
+- ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
+  Hint: Image
+  Value: |
+    <Image src="https://fols-verticals-feb.sitecoresandbox.cloud/api/public/content/f6f5b06e13034ec2bfe3771dcfd1b2ae?v=8114a20d" dam-id="EWbUbnJoRzGlm1RIpmJZcA" width="5905" height="3937" alt="sajad-nori-LWD60a5a15I-unsplash.jpg" dam-content-type="Image" thumbnailsrc="https://fols-verticals-feb.sitecoresandbox.cloud/api/gateway/38991/thumbnail" />
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: |
+    investing during market volatility
+    long-term investing
+    asset allocation
+    diversification
+    rebalancing
+    behavioral finance
+    dollar-cost averaging
+    tax-efficient investing
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C06C7801-C37F-43FB-9641-CFEE6ABED5FA}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "17c43d77-66f2-452b-8bca-05ea48e78f0b"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "fe89f2b6-0756-4428-a5e5-79eeef2fd36b"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "How to Stay Invested During Market Volatility: A Practical Guide for Individual Investors"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C36CCB49-CAAF-4FC9-A149-81F9AE501326}"
+              s:ds="f29634c2-540d-49bc-a0af-046021e2ba12"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B30CB8859-2F5D-4FCB-BEAD-A042A62B81F7%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-articlecontent/article-details-full-width-1" />
+          </d>
+        </r>
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: "Market volatility is normal, but it can test investor discipline. This practical, research-driven framework outlines how to stay invested with a written plan, appropriate asset allocation, diversification, liquidity planning, and behavioral tools—plus a checklist for navigating turbulent markets."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260309T133824Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Stay Invested During Market Volatility
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <article class="blog-post">
+          <header>
+            <h1>How to Stay Invested During Market Volatility: A Practical Guide for Individual Investors</h1>
+            <p class="excerpt">A research-driven, practical guide for individual investors on staying invested during market volatility—covering planning, diversification, behavioral tools, and actionable steps.</p>
+          </header>
+        
+          <div class="content">
+            <p>Market volatility is a normal part of investing. Periods of price swings can feel unsettling, but for long-term investors, the most constructive response is usually a disciplined plan rather than an emotional reaction. This William Blair insight offers a research-driven, educational framework to help individual investors stay invested through turbulent markets while focusing on long-term goals.</p>
+        
+            <h2>Why volatility happens (briefly)</h2>
+            <p>Volatility reflects uncertainty about economic conditions, corporate earnings, central-bank policy, geopolitical events, and investor sentiment. Short-term price movements are driven by new information and changing expectations; those movements do not always correspond to underlying long-term fundamentals. Understanding that volatility is an expected market characteristic can help investors choose responses aligned with their objectives and time horizons.</p>
+        
+            <h2>Core principles for staying invested</h2>
+        
+            <h3>1. Start with a written plan</h3>
+            <ul>
+              <li>Define your financial goals (retirement, education, major purchases), time horizons, and risk tolerance.</li>
+              <li>A written plan helps convert emotions into process: when markets move, you review the plan rather than react to headlines.</li>
+            </ul>
+        
+            <h3>2. Match assets to time horizons</h3>
+            <ul>
+              <li>Use shorter-term, low-volatility instruments (cash, short-term bonds) for near-term needs.</li>
+              <li>Reserve stocks and other growth-oriented assets for goals with longer time horizons where price recovery is possible.</li>
+            </ul>
+        
+            <h3>3. Maintain a disciplined asset allocation and diversification</h3>
+            <ul>
+              <li>Asset allocation is the primary driver of portfolio outcomes over time. Diversification across asset classes, sectors, and geographies can reduce the impact of any single adverse event.</li>
+              <li>Rebalancing keeps your portfolio aligned with your risk profile by trimming assets that have grown overweight and adding to those that have lagged.</li>
+            </ul>
+        
+            <h3>4. Preserve liquidity and an emergency fund</h3>
+            <ul>
+              <li>Ensure you have an emergency cash reserve covering several months of essential expenses. This reduces the need to sell investments during a market downturn.</li>
+            </ul>
+        
+            <h3>5. Avoid market timing</h3>
+            <ul>
+              <li>Attempting to predict short-term market moves is difficult for professionals and amateurs alike. A plan based on time in the market—rather than timing the market—aligns actions with long-term goals.</li>
+            </ul>
+        
+            <h2>Actionable strategies to consider</h2>
+            <ul>
+              <li><strong>Dollar-cost averaging (systematic investing):</strong> Contributing a fixed amount on a regular schedule can reduce the risk of investing a large sum at an unfavorable moment and helps remove emotional decision-making.</li>
+              <li><strong>Strategic rebalancing rules:</strong> Decide in advance how often you will rebalance (e.g., annually or when allocations deviate by a set percentage). Automate rebalancing where possible.</li>
+              <li><strong>Use tax-advantaged accounts:</strong> Prioritize contributions to retirement accounts (IRAs, 401(k)s) when appropriate, because they can improve after-tax outcomes and encourage consistent investing.</li>
+              <li><strong>Consider diversified multi-asset strategies:</strong> Blending stocks, bonds, and other asset classes can smooth return variability over time while preserving exposure to growth.</li>
+              <li><strong>Harvest tax losses thoughtfully:</strong> In taxable accounts, selective loss harvesting can be a tool to manage tax liabilities; plan carefully to avoid unintended consequences (wash-sale rules, behavioral overtrading).</li>
+            </ul>
+        
+            <h2>Behavioral techniques to stay the course</h2>
+            <ul>
+              <li><strong>Pre-commit to rules:</strong> Written rules—such as rebalancing thresholds, contribution schedules, or a decision checklist—help remove emotion.</li>
+              <li><strong>Limit noise exposure:</strong> Reduce frequency of checking account balances and avoid sensational headlines. Use a reliable set of sources for information and perspective.</li>
+              <li><strong>Use perspective tools:</strong> Visualize progress toward goals with projected savings and expected contributions rather than daily price charts.</li>
+              <li><strong>Work with an advisor or trusted resource:</strong> A disciplined, independent advisor can provide personalized guidance, help with behavioral coaching, and offer an objective view during stress periods.</li>
+            </ul>
+        
+            <h2>When to review (not react)</h2>
+            <ul>
+              <li><strong>Major life changes:</strong> Job changes, inheritance, marriage, or a significant change in expenses warrant a portfolio review.</li>
+              <li><strong>Shift in time horizon or goals:</strong> If your time horizon shortens materially, consider adjusting asset allocation to reduce risk to principal.</li>
+              <li><strong>Evidence of plan failure:</strong> If your written plan consistently fails to meet objectives despite reasonable assumptions, reassess assumptions and strategy.</li>
+            </ul>
+            <p>Routine market moves alone generally do not meet these thresholds for structural change.</p>
+        
+            <h2>Practical checklist for volatile markets</h2>
+            <ul>
+              <li>Confirm your emergency fund is intact.</li>
+              <li>Review your written financial plan and goals.</li>
+              <li>Check that your asset allocation still fits your time horizon and risk tolerance.</li>
+              <li>Rebalance according to your pre-set rules—avoid impulsive, emotion-driven trades.</li>
+              <li>Continue regular contributions or systematic investing plans.</li>
+              <li>If uncertain, consult a qualified financial professional.</li>
+            </ul>
+        
+            <h2>Communicating with family and beneficiaries</h2>
+            <p>Volatility is stressful for many households. Discuss goals and the plan with family members or co-decision-makers so everyone understands the approach and timeframe. Clear communication can prevent short-term market moves from derailing long-term financial decisions.</p>
+        
+            <h2>The role of research and professional guidance</h2>
+            <p>William Blair believes disciplined, research-informed processes are essential. Investors benefit from understanding the rationale behind an asset allocation, the historical behavior of different asset classes, and the tax and behavioral implications of their choices. While past market behavior is not a guarantee of future outcomes, research can inform robust planning and risk-management processes.</p>
+        
+            <h2>Final thoughts and next steps</h2>
+            <p>Staying invested during periods of market volatility is less about predicting short-term moves and more about aligning decisions with long-term objectives, maintaining disciplined processes, and managing behavior. Use this framework to create or refine a written plan, implement rules that reduce emotional trading, and engage professional advice when needed.</p>
+            <p>For more insights and regular updates from William Blair, explore our related insights and consider subscribing to our investor newsletter to receive research-driven guidance tailored for individual investors.</p>
+            <hr />
+            <p>If you'd like practical tools—such as a portfolio checklist, rebalancing worksheet, or sample written-investment-plan template—visit William Blair's Insights hub or reach out to a William Blair advisor for personalized support.</p>
+          </div>
+        
+          <footer>
+            <section class="audience-info">
+              <h3>Target Audience</h3>
+              <p>Individual and retail investors seeking research-driven, educational insights on long-term investing and behavioral strategies.</p>
+            </section>
+          </footer>
+        </article>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: "A research-driven, practical guide for individual investors on staying invested during market volatility—covering planning, diversification, behavioral tools, and actionable steps."
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: "Practical, research-driven guidance for individual investors on staying invested during market volatility, with actionable strategies and behavioral tools."
+    - ID: "844baf54-2f0e-42a5-8cab-5f596ea60c3e"
+      Hint: ReadTime
+      Value: 7 min
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a723ffa-7797-4a6f-89e4-aa45a5c20e9d"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "How to Stay Invested During Market Volatility: A Practical Guide for Individual Investors"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260309T181614Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: "How to Stay Invested During Market Volatility: A Practical Guide"
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: |
+        investing during market volatility
+        stay invested
+        market volatility
+        asset allocation
+        diversification
+        rebalancing
+        dollar-cost averaging
+        behavioral finance
+        long-term investing
+        emergency fund
+        tax-advantaged accounts
+        tax-loss harvesting
+        financial plan
+        market timing

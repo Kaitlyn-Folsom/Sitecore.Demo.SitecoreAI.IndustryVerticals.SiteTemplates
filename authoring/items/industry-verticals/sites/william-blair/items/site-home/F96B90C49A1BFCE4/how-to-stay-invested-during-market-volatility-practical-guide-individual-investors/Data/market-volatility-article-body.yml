@@ -1,0 +1,125 @@
+﻿---
+ID: "2cecb2a8-8bca-4c51-b5ea-f31675657951"
+Parent: "7347e161-f83b-486e-b51d-1b7181087335"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/industry-verticals/william-blair/Home/Insights/how-to-stay-invested-during-market-volatility-practical-guide-individual-investors/Data/market-volatility-article-body"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260309T173535Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        # How to Stay Invested During Market Volatility: A Practical Guide for Individual Investors
+        
+        Market volatility is a normal part of investing. Periods of price swings can feel unsettling, but for long-term investors, the most constructive response is usually a disciplined plan rather than an emotional reaction. This William Blair insight offers a research-driven, educational framework to help individual investors stay invested through turbulent markets while focusing on long-term goals.
+        
+        ## Why volatility happens (briefly)
+        
+        Volatility reflects uncertainty about economic conditions, corporate earnings, central-bank policy, geopolitical events, and investor sentiment. Short-term price movements are driven by new information and changing expectations; those movements do not always correspond to underlying long-term fundamentals. Understanding that volatility is an expected market characteristic can help investors choose responses aligned with their objectives and time horizons.
+        
+        ## Core principles for staying invested
+        
+        1. Start with a written plan
+        
+        - Define your financial goals (retirement, education, major purchases), time horizons, and risk tolerance.
+        - A written plan helps convert emotions into process: when markets move, you review the plan rather than react to headlines.
+        
+        2. Match assets to time horizons
+        
+        - Use shorter-term, low-volatility instruments (cash, short-term bonds) for near-term needs.
+        - Reserve stocks and other growth-oriented assets for goals with longer time horizons where price recovery is possible.
+        
+        3. Maintain a disciplined asset allocation and diversification
+        
+        - Asset allocation is the primary driver of portfolio outcomes over time. Diversification across asset classes, sectors, and geographies can reduce the impact of any single adverse event.
+        - Rebalancing keeps your portfolio aligned with your risk profile by trimming assets that have grown overweight and adding to those that have lagged.
+        
+        4. Preserve liquidity and an emergency fund
+        
+        - Ensure you have an emergency cash reserve covering several months of essential expenses. This reduces the need to sell investments during a market downturn.
+        
+        5. Avoid market timing
+        
+        - Attempting to predict short-term market moves is difficult for professionals and amateurs alike. A plan based on time in the market—rather than timing the market—aligns actions with long-term goals.
+        
+        ## Actionable strategies to consider
+        
+        - Dollar-cost averaging (systematic investing): Contributing a fixed amount on a regular schedule can reduce the risk of investing a large sum at an unfavorable moment and helps remove emotional decision-making.
+        
+        - Strategic rebalancing rules: Decide in advance how often you will rebalance (e.g., annually or when allocations deviate by a set percentage). Automate rebalancing where possible.
+        
+        - Use tax-advantaged accounts: Prioritize contributions to retirement accounts (IRAs, 401(k)s) when appropriate, because they can improve after-tax outcomes and encourage consistent investing.
+        
+        - Consider diversified multi-asset strategies: Blending stocks, bonds, and other asset classes can smooth return variability over time while preserving exposure to growth.
+        
+        - Harvest tax losses thoughtfully: In taxable accounts, selective loss harvesting can be a tool to manage tax liabilities; plan carefully to avoid unintended consequences (wash-sale rules, behavioral overtrading).
+        
+        ## Behavioral techniques to stay the course
+        
+        - Pre-commit to rules: Written rules—such as rebalancing thresholds, contribution schedules, or a decision checklist—help remove emotion.
+        
+        - Limit noise exposure: Reduce frequency of checking account balances and avoid sensational headlines. Use a reliable set of sources for information and perspective.
+        
+        - Use perspective tools: Visualize progress toward goals with projected savings and expected contributions rather than daily price charts.
+        
+        - Work with an advisor or trusted resource: A disciplined, independent advisor can provide personalized guidance, help with behavioral coaching, and offer an objective view during stress periods.
+        
+        ## When to review (not react)
+        
+        - Major life changes: Job changes, inheritance, marriage, or a significant change in expenses warrant a portfolio review.
+        
+        - Shift in time horizon or goals: If your time horizon shortens materially, consider adjusting asset allocation to reduce risk to principal.
+        
+        - Evidence of plan failure: If your written plan consistently fails to meet objectives despite reasonable assumptions, reassess assumptions and strategy.
+        
+        Routine market moves alone generally do not meet these thresholds for structural change.
+        
+        ## Practical checklist for volatile markets
+        
+        - Confirm your emergency fund is intact.
+        - Review your written financial plan and goals.
+        - Check that your asset allocation still fits your time horizon and risk tolerance.
+        - Rebalance according to your pre-set rules—avoid impulsive, emotion-driven trades.
+        - Continue regular contributions or systematic investing plans.
+        - If uncertain, consult a qualified financial professional.
+        
+        ## Communicating with family and beneficiaries
+        
+        Volatility is stressful for many households. Discuss goals and the plan with family members or co-decision-makers so everyone understands the approach and timeframe. Clear communication can prevent short-term market moves from derailing long-term financial decisions.
+        
+        ## The role of research and professional guidance
+        
+        William Blair believes disciplined, research-informed processes are essential. Investors benefit from understanding the rationale behind an asset allocation, the historical behavior of different asset classes, and the tax and behavioral implications of their choices. While past market behavior is not a guarantee of future outcomes, research can inform robust planning and risk-management processes.
+        
+        ## Final thoughts and next steps
+        
+        Staying invested during periods of market volatility is less about predicting short-term moves and more about aligning decisions with long-term objectives, maintaining disciplined processes, and managing behavior. Use this framework to create or refine a written plan, implement rules that reduce emotional trading, and engage professional advice when needed.
+        
+        For more insights and regular updates from William Blair, explore our related insights and consider subscribing to our investor newsletter to receive research-driven guidance tailored for individual investors.
+        
+        ---
+        
+        If you'd like practical tools—such as a portfolio checklist, rebalancing worksheet, or sample written-investment-plan template—visit William Blair's Insights hub or reach out to a William Blair advisor for personalized support.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b2dacd3-4ebe-4e39-b40e-ccffd41eec22"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260309T173535Z

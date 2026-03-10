@@ -164,10 +164,30 @@ Languages:
             <r
               uid="{AE225B7C-0876-4FAE-A959-B3AFC8E0E91B}"
               s:ds="f326ffe1-f251-4594-9469-27a69b07ad8e"
-              s:par="FieldNames=%7B7A2D7D14-8CB5-4370-87B6-D4C71A926690%7D&amp;RenderingIdentifier&amp;Styles=%7C%7BD1994D1D-FBE3-4DD7-81F6-4768A2B14630%7D%7C%7BF9231187-9547-4C13-B6AF-7BE6D6A6E0AD%7D%7C%7B26068C94-48C6-4A81-A6D9-EBDD08D8C1BB%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0">
+              s:par="FieldNames=%7B7A2D7D14-8CB5-4370-87B6-D4C71A926690%7D&amp;RenderingIdentifier&amp;Styles=%7C%7BD1994D1D-FBE3-4DD7-81F6-4768A2B14630%7D%7C%7BF9231187-9547-4C13-B6AF-7BE6D6A6E0AD%7D%7C%7B26068C94-48C6-4A81-A6D9-EBDD08D8C1BB%7D%7C%7B826CEA58-8647-42BE-A368-4E5FD37C55A3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0">
               <rls>
                 <ruleset
                   s:pet="true">
+                  <rule
+                    uid="{698E8AAD-04AC-40DE-959E-DC9794A8B7D2}"
+                    s:name="79bdae8403484b26a25246c592081550">
+                    <conditions>
+                      <condition
+                        uid="5C5FC071A2684ADCAE7C786DE85D9612"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="79bdae8403484b26a25246c592081550" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{2CFDC23E-9EBD-4AC5-8F0C-1540B73DB80D}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="321e389f-71ab-4b92-a0b6-d82e51e6ee3c" />
+                      <action
+                        uid="{C4C37B3D-913D-492E-8CA1-E81C41D08AF3}"
+                        s:id="{525C7B5A-8FD2-4B99-89F6-4F3F6D23BB02}"
+                        s:Parameters="FieldNames=%7B7A2D7D14-8CB5-4370-87B6-D4C71A926690%7D&amp;RenderingIdentifier&amp;Styles=%7C%7BD1994D1D-FBE3-4DD7-81F6-4768A2B14630%7D%7C%7BF9231187-9547-4C13-B6AF-7BE6D6A6E0AD%7D%7C%7B26068C94-48C6-4A81-A6D9-EBDD08D8C1BB%7D%7C%7B826CEA58-8647-42BE-A368-4E5FD37C55A3%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0" />
+                    </actions>
+                  </rule>
                   <rule
                     uid="{961F0AB0-A481-49A0-B109-24E8BA52A08D}"
                     s:name="74d61166fb0e4362a491eeabb1519582">
@@ -201,14 +221,44 @@ Languages:
               </rls>
             </r>
             <r
-              uid="{3322063A-EBC7-4FE5-B3B2-0E084039FC58}"
-              s:par="FieldNames=%7BAB444C6E-20A5-442A-BC9B-87B18587835A%7D&amp;RenderingIdentifier&amp;Styles=%7C%7BB0DF65A7-805F-4E14-90A4-45E5C35037B9%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D" />
+              uid="{335D3948-776E-4A8D-B9AC-60E7FE730DC9}">
+              <p:d />
+            </r>
             <r
-              uid="{D208AC42-DFB1-49D3-87F4-DDF7006DAA69}"
-              s:par="FieldNames=%7BDF9F33A8-3A6A-4D17-976A-5EA8E93B2747%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B60BD9C9E-9475-411D-81A1-57084BA843D2%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=11&amp;CurvedTop&amp;HideShapes=0&amp;Reversed=0&amp;ShowMultipleImages=0&amp;HideQuote=0&amp;HideCurveLine=1&amp;HideShadows=0&amp;CurvedBottom" />
+              uid="{3322063A-EBC7-4FE5-B3B2-0E084039FC58}"
+              s:ds="642d102e-0552-4806-8014-304b2821f7ee"
+              s:par="FieldNames=%7B5D5DBFDF-B71E-40BF-A1E7-DCD9C29BCD93%7D&amp;RenderingIdentifier&amp;Styles=%7C%7BB0DF65A7-805F-4E14-90A4-45E5C35037B9%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D" />
+            <r
+              uid="{9E9A7694-8CBD-488D-90F8-C88AE51B223A}">
+              <p:d />
+            </r>
+            <r
+              uid="{5C245F3E-D832-4ED3-8DBB-88ABAB16ABC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{AAF0D7B4-60E9-4C86-9EEB-901A9FC4B2AC}">
+              <p:d />
+            </r>
+            <r
+              uid="{F827819F-D3D3-4FBD-8BAF-87D769468B06}">
+              <p:d />
+            </r>
+            <r
+              uid="{D208AC42-DFB1-49D3-87F4-DDF7006DAA69}">
+              <p:d />
+            </r>
+            <r
+              uid="{F57656C8-E3F9-4BFC-87A9-EA4FF7627A02}">
+              <p:d />
+            </r>
+            <r
+              uid="{ED5725EF-03DF-4D4F-BE30-78265C5A7D4F}">
+              <p:d />
+            </r>
             <r
               uid="{8ABC8A08-490F-45DC-831B-27150008D7B7}"
-              p:after="r[@uid='{ED5725EF-03DF-4D4F-BE30-78265C5A7D4F}']"
+              p:after="r[@uid='{954AADCA-FC91-45B3-BB1D-21D3462F0236}']"
               s:id="{00000000-0000-0000-0000-000000000000}"
               s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=19" />
             <r
@@ -254,7 +304,7 @@ Languages:
       Value: "Explore Forma Lux’s luxurious furniture collections: heritage craftsmanship meets modern, sustainable design for elegant living spaces."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "21180609-566d-4694-b74a-3e084793aa10"
+      Value: "a25ee163-a9f5-4d1f-b7e8-7ce72423c7d2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -264,7 +314,7 @@ Languages:
       Value: Forma Lux unites artisan heritage with contemporary design to create modular, sustainable furniture for elegant, livable spaces.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260305T214137Z
+      Value: 20260308T160240Z
 - Language: "es-ES"
   Versions:
   - Version: 2
