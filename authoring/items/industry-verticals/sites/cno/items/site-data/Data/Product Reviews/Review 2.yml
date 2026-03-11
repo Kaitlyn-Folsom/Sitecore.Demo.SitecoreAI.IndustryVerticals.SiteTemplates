@@ -1,0 +1,166 @@
+﻿---
+ID: "abb1d52e-55fa-43b0-ab71-2fc69a9cb335"
+Parent: "07945b4d-0f9f-4428-b03a-2c7f9506ef27"
+Template: "58a32680-fc59-49bc-890c-fd69f7a9cf1a"
+Path: "/sitecore/content/industry-verticals/cno/Data/Product Reviews/Review 2"
+SharedFields:
+- ID: "43cdbc7e-aa68-4d04-a13b-2d027ef29368"
+  Hint: Rating
+  Value: 4
+- ID: "63ff7a9b-580a-4df9-8135-6cc1fc25a489"
+  Hint: ReviewImage
+  Value: |
+    <image mediaid="{08AB1A15-A264-41A7-9E5B-1146DC8348E1}" />
+- ID: "9f389762-fc1e-4bb1-9fc9-5ae25a3e1f38"
+  Hint: Avatar
+  Value: |
+    <image mediaid="{4E8FBE7E-64F7-463E-9F06-358E067054AC}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "dde4211e-724f-43e3-a672-17d04b6f5a8e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110124Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: “There’s a quiet confidence in Forma Lux design. It’s minimalism with personality — understated, but impossible to ignore.”
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Interior Stylist, New York
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e765c45-7fef-45c7-895c-e2da82f0b4e8"
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Sophia R.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260311T202047Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110124Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: "“Hay una confianza tranquila en el diseño de Forma Lux. Es minimalismo con personalidad: discreto, pero imposible de ignorar.”"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Estilista de interiores, Nueva York
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd95d114-58e8-45d7-b283-9a68a3b1ba54"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Sophia R.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260311T202048Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110124Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: « Il y a une confiance tranquille dans le design de Forma Lux. C'est du minimalisme avec de la personnalité — discret, mais impossible à ignorer. »
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Styliste d'intérieur, New York
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c9d5218-ac7a-4429-a14c-04a09a5c6670"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Sophia R.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260311T202048Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110124Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: « Il y a une confiance tranquille dans le design de Forma Lux. C'est un minimalisme avec de la personnalité — discret, mais impossible à ignorer. »
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Styliste d'intérieur, New York
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97db7879-c30e-4aa4-a454-00b6f215ed57"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Sophia R.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260311T202048Z

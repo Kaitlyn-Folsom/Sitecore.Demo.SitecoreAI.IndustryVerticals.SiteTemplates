@@ -1,0 +1,15 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.Cno-Media",
+  "references": ["Project.IndustryVerticals"],
+  "items": {
+    "includes": [
+      {
+        "name": "retail-media",
+        "path": "/sitecore/Media Library/Project/industry-verticals/cno",
+        "scope": "DescendantsOnly",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

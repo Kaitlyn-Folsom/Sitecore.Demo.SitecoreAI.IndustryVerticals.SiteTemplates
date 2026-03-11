@@ -1,0 +1,166 @@
+﻿---
+ID: "4da103c6-5533-411f-a97a-458b0872bd27"
+Parent: "07945b4d-0f9f-4428-b03a-2c7f9506ef27"
+Template: "58a32680-fc59-49bc-890c-fd69f7a9cf1a"
+Path: "/sitecore/content/industry-verticals/cno/Data/Product Reviews/Review 5"
+SharedFields:
+- ID: "43cdbc7e-aa68-4d04-a13b-2d027ef29368"
+  Hint: Rating
+  Value: 2
+- ID: "63ff7a9b-580a-4df9-8135-6cc1fc25a489"
+  Hint: ReviewImage
+  Value: |
+    <image mediaid="{08AB1A15-A264-41A7-9E5B-1146DC8348E1}" />
+- ID: "9f389762-fc1e-4bb1-9fc9-5ae25a3e1f38"
+  Hint: Avatar
+  Value: |
+    <image mediaid="{4E8FBE7E-64F7-463E-9F06-358E067054AC}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "6b76f151-4bfa-469e-a463-9ca22be7dc03"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110226Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: “Every corner of my apartment now tells a story of sophistication and design. Forma Lux brought art, light, and balance into my everyday life.”
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Art Director, Paris
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d1d4303-4ffe-4521-8272-03b157f10feb"
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Marc Delacroix
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260311T202049Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110226Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: “Cada rincón de mi apartamento ahora cuenta una historia de sofisticación y diseño. Forma Lux trajo arte, luz y equilibrio a mi vida cotidiana.”
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Director de Arte, París
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86e7b008-e76a-4d5e-8c10-2cd334517e44"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Marc Delacroix
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260311T202049Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110226Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: « Chaque coin de mon appartement raconte maintenant une histoire de sophistication et de design. Forma Lux a apporté de l'art, de la lumière et de l'équilibre dans ma vie quotidienne. »
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Directeur artistique, Paris
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a47f0212-fa41-4185-9f62-489f1f04900b"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Marc Delacroix
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260311T202050Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110226Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: « Chaque recoin de mon appartement raconte désormais une histoire de sophistication et de design. Forma Lux a apporté de l'art, de la lumière et de l'équilibre dans ma vie quotidienne. »
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Directeur Artistique, Paris
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6acd367a-7f7c-4541-8a2d-43f7c4cbc79a"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Marc Delacroix
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260311T202049Z
