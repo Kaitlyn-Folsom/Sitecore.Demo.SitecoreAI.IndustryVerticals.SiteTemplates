@@ -22,8 +22,8 @@ type ReviewCardProps = SitecoreItem<{
 const ReviewCard = (props: ReviewCardProps) => {
   return (
     <>
-      <div className="aspect-square min-h-96 w-full rounded-2xl">
-        <ContentSdkImage className="image-cover rounded-2xl" field={props.fields.ReviewImage} />
+      <div className="aspect-square min-h-96 w-full">
+        <ContentSdkImage className="image-cover" field={props.fields.ReviewImage} />
       </div>
       <div className="px-5">
         <div className="bg-background relative -top-15 flex min-h-70 flex-col items-center justify-between rounded-2xl p-8 text-center shadow-xl">

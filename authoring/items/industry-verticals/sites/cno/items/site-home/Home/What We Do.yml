@@ -2,7 +2,7 @@
 ID: "20c4d2a2-94f5-4bfb-bee8-2692ed8c1725"
 Parent: "11729b2c-70d4-4fd5-b022-4c17560ea4ba"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
-Path: "/sitecore/content/industry-verticals/cno/Home/Decor"
+Path: "/sitecore/content/industry-verticals/cno/Home/What We Do"
 SharedFields:
 - ID: "25f9b35b-0c2c-4f43-ae2f-1d30eb1f2b6b"
   Hint: ogImage
@@ -14,7 +14,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{467E391D-25AF-4FC5-877B-92120E430EFF}" />
+    <image mediaid="{D03D1201-B02E-406D-9433-43B350FB9416}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "12b7b029-2109-4eb6-af02-4764ae95e14c"
@@ -60,13 +60,16 @@ Languages:
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
     Hint: __Unversioned revision
-    Value: "3608f367-b664-4f33-9de3-617931997bd1"
+    Value: "c6b82b6d-01ff-4c62-b415-4386e4f52971"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: Decor
+    Value: What We Do
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250821T102837Z
@@ -75,20 +78,20 @@ Languages:
       Value: Decor
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Decor
+      Value: What We Do
     - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
       Hint: Title
       Value: Contact us
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "854bd0ef-61ac-492c-92dc-314ab64ee229"
+      Value: "cf5892ba-1bab-498d-9de8-e07c3d89e1c6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260311T202003Z
+      Value: 20260312T131319Z
 - Language: "es-ES"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"

@@ -236,7 +236,7 @@ export const Default = ({ params, fields }: NavigationProps) => {
         <ul
           role="menubar"
           className={clsx(
-            'container flex flex-col items-center justify-center gap-x-8 gap-y-4 py-6 text-lg lg:flex-row xl:gap-x-16',
+            'text-md container flex flex-col items-center justify-center gap-x-8 gap-y-4 py-5 lg:flex-row xl:gap-x-14',
             isSimpleLayout && !hasLogoRootItem && 'lg:justify-end'
           )}
         >

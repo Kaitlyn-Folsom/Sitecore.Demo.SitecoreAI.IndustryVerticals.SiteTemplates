@@ -7,15 +7,18 @@ SharedFields:
 - ID: "2895a16e-c1b8-4e79-959a-802d5bc81a5a"
   Hint: Logo
   Value: |
-    <image mediaid="EBD4E08D-D9C3-4176-AA1A-398079392623" />
+    <image mediaid="4aa2478e-0723-4e40-a4e7-08d0ea3dd3b7" alt="CNO_LOGO" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "41b23d7f-6c1b-41a4-8e94-eeb644e8be46"
+  Value: "64a133f8-6df6-4eac-9c73-9f18c4a9a510"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250827T102830Z
@@ -32,16 +35,17 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "6e545c55-70f1-49ef-b75f-e10257f0845a"
       Hint: Description
-      Value: <span>Live Boldly. Style Deeply.</span>
+      Value: |
+        <div class="ck-content"><p>Bankers Life is the marketing brand of Bankers Life and Casualty Company, Medicare Supplement insurance policies sold by Washington National Insurance Company and select policies sold in New York by Bankers Conseco Life Insurance Company (BCLIC). BCLIC is authorized to sell insurance in New York. Administrative office: Chicago, Illinois.</p></div>
     - ID: "775b58bb-13a1-426d-86e5-765ad797e407"
       Hint: TitleOne
       Value: Furniture
     - ID: "79d2d2a7-b0d5-421c-89fb-b7d040f56d26"
       Hint: CopyrightText
-      Value: Copyright © 2025
+      Value: © 2026 CNO Financial Group. All rights reserved.2025
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f0670045-629c-47a4-8e98-9c7ba27a0d90"
+      Value: "d839623d-1934-4cbb-b9fc-fb0abb7b1b76"
     - ID: "9f2b5ebe-6b3a-4128-b6e9-6b7adf4e86da"
       Hint: PolicyText
       Value: |
@@ -55,13 +59,13 @@ Languages:
       Value: Services
     - ID: "d4ce5fe0-92df-4490-8b05-e704cf6f448e"
       Hint: TitleFour
-      Value: Follow Us
+      Value: 
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260311T202044Z
+      Value: 20260312T203319Z
     - ID: "e646865b-2d8d-4608-a43e-42c7f1d21675"
       Hint: TitleFive
-      Value: Install App
+      Value: 
     - ID: "ff56e380-2171-49bf-a693-84ee1bc9413b"
       Hint: TermsText
       Value: |

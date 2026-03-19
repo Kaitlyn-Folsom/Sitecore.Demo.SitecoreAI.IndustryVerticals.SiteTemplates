@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{FE3FFAA8-9467-4164-AC58-B493B04C7E64}" />
+    <image mediaid="{0D753B8F-460D-4B59-A6CA-EA607B385CD1}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "c722dc1b-8276-4aba-994c-ccf55bc214ca"
@@ -182,14 +182,14 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d96527f6-30ac-4c0b-8dd4-cae79b46ca7b"
+      Value: "cc686610-329b-4485-82b5-cd86a4782b51"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260311T202044Z
+      Value: 20260312T203319Z
 - Language: "es-ES"
   Versions:
   - Version: 1
@@ -207,14 +207,14 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7c89d1c5-e4cd-4ab5-80e8-22e8459bc5c7"
+      Value: "f83df292-a652-4ad3-a271-6e77f137aa88"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260311T202044Z
+      Value: 20260312T203319Z
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -257,11 +257,11 @@ Languages:
         sitecore\isuru.bandara@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a984d537-c4fe-487f-8b44-df2ca74e226e"
+      Value: "477d25b3-0905-4121-bdb8-ab376f1f0d46"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260311T202045Z
+      Value: 20260312T203319Z

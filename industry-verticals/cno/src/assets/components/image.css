@@ -1,6 +1,6 @@
 .component.image {
   img {
-    @apply h-auto w-full;
+    @apply h-auto w-full rounded-none;
   }
 
   a {
