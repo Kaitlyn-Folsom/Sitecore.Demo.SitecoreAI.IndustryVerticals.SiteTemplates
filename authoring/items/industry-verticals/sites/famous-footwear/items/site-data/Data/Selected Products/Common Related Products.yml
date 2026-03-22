@@ -1,0 +1,154 @@
+﻿---
+ID: "ac4257fc-2785-4553-a1dc-e17640c33296"
+Parent: "48f03843-835c-4820-8ae3-9e918bd88e43"
+Template: "0cb3fc95-fea8-40eb-9560-158e7d92a3a4"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Data/Selected Products/Common Related Products"
+SharedFields:
+- ID: "c3fb8c52-2f64-45bc-9970-ea340d7271fa"
+  Hint: ProductsList
+  Value: |
+    {1F84B393-9F05-4962-9489-3F1FD0406E89}
+    {20BA9E32-2785-4939-BF43-43603451781F}
+    {9CB012DF-5093-41BE-97CA-6298B7D92D2B}
+    {2ABB7A65-7CAC-4FBE-BBC1-63B3113122A4}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a98176d9-6af9-44da-969d-55559f926a59"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251002T110007Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "53d0df0a-b9c3-4a83-9150-37c68259f6ab"
+      Hint: Title
+      Value: Related Products
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
+      Hint: ProductsLink
+      Value: |
+        <link class="" querystring="" id="5AE8873F-FEE2-4607-9B0C-5D7588C0605E" anchor="" target="" title="" linktype="internal" text="View All" url="/industry-verticals/forma-lux/Home/Products" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "401728fa-333f-457f-a61a-6f7b54eb86f9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163039Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251002T110007Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "53d0df0a-b9c3-4a83-9150-37c68259f6ab"
+      Hint: Title
+      Value: Productos relacionados
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
+      Hint: ProductsLink
+      Value: |
+        <link class="" id="5AE8873F-FEE2-4607-9B0C-5D7588C0605E" querystring="" anchor="" target="" title="" linktype="internal" text="Ver todo" url="/industry-verticals/forma-lux/Home/Products" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9dd97931-d050-4e35-9837-c907a3f9f981"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163040Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251002T110007Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "53d0df0a-b9c3-4a83-9150-37c68259f6ab"
+      Hint: Title
+      Value: Produits connexes
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
+      Hint: ProductsLink
+      Value: |
+        <link class="" id="5AE8873F-FEE2-4607-9B0C-5D7588C0605E" querystring="" anchor="" target="" title="" linktype="internal" text="Voir tout" url="/industry-verticals/forma-lux/Home/Products" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bd8edb1-3db1-43a7-944f-694c7fb404b2"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163041Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251002T110007Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "53d0df0a-b9c3-4a83-9150-37c68259f6ab"
+      Hint: Title
+      Value: Produits connexes
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
+      Hint: ProductsLink
+      Value: |
+        <link class="" id="5AE8873F-FEE2-4607-9B0C-5D7588C0605E" querystring="" anchor="" target="" title="" linktype="internal" text="Voir tout" url="/industry-verticals/forma-lux/Home/Products" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b48af5e-de06-4516-b516-88f0c98eecfc"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163040Z

@@ -1,0 +1,155 @@
+﻿---
+ID: "6a7e624a-284d-4f4d-b61e-f6c530effa87"
+Parent: "48f03843-835c-4820-8ae3-9e918bd88e43"
+Template: "0cb3fc95-fea8-40eb-9560-158e7d92a3a4"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Data/Selected Products/Decor Related Products"
+SharedFields:
+- ID: "c3fb8c52-2f64-45bc-9970-ea340d7271fa"
+  Hint: ProductsList
+  Value: |
+    {1AE2E384-57D4-4D01-8852-06C6505E9BEB}
+    {F6A1BDAF-0EF6-413E-A0C3-85805DDDE23F}
+    {9CB012DF-5093-41BE-97CA-6298B7D92D2B}
+    {B9587ADE-373E-449D-8DCD-A396ADC5F0EA}
+    {EAF755E4-04BB-411D-96EE-F54150D84777}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4c7f4f9d-a93a-472e-9ce9-13bd7f32cfa7"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T093116Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "53d0df0a-b9c3-4a83-9150-37c68259f6ab"
+      Hint: Title
+      Value: Curated for the discerning eye
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
+      Hint: ProductsLink
+      Value: |
+        <link linktype="external" url="" target="" text="View All" title="" class=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3940a477-f324-4e4f-b42a-b5cb6662b7c9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163041Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T093116Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "53d0df0a-b9c3-4a83-9150-37c68259f6ab"
+      Hint: Title
+      Value: Curado para el ojo exigente
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
+      Hint: ProductsLink
+      Value: |
+        <link class="" target="" title="" linktype="external" text="Ver todo" url="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59a5073f-bf85-4c81-a817-be924e46b359"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163042Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T093116Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "53d0df0a-b9c3-4a83-9150-37c68259f6ab"
+      Hint: Title
+      Value: Sélectionné pour l'œil averti
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
+      Hint: ProductsLink
+      Value: |
+        <link class="" target="" title="" linktype="external" text="Voir tout" url="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8acb50d7-fe79-4e88-8502-aa7e03b8c8b3"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163043Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T093116Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "53d0df0a-b9c3-4a83-9150-37c68259f6ab"
+      Hint: Title
+      Value: Sélectionné pour l'œil averti
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
+      Hint: ProductsLink
+      Value: |
+        <link class="" target="" title="" linktype="external" text="Voir tout" url="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93079e70-b77f-48c4-a2f3-385b36d4936e"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163042Z

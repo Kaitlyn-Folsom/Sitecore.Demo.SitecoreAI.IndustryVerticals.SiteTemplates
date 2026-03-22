@@ -1,0 +1,179 @@
+﻿---
+ID: "596c3755-1a23-4fd9-b6f5-220f3700cd40"
+Parent: "d52deef3-4f81-4496-b845-55d7144a393c"
+Template: "c130ad19-8cf2-48ae-bc03-19c4d91c2629"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Data/Social Feeds/Social Feed Home"
+SharedFields:
+- ID: "2aacd5cd-fc77-4b96-9bc0-ae4991115ca6"
+  Hint: Image9
+  Value: |
+    <image mediaid="1A16A514-4FC4-40F5-93F9-57DD2CE8BD80" />
+- ID: "41d4803f-ca8f-47db-835d-5e947e1ed558"
+  Hint: Image2
+  Value: |
+    <image mediaid="9056077D-7A5D-46A5-928B-C6BDB0BAC6E8" />
+- ID: "5e0aa7e5-78d0-4ead-88fe-bebe282b9005"
+  Hint: Image8
+  Value: |
+    <image mediaid="8D64E96A-9D62-4AF4-88B0-01C569D6DC9E" />
+- ID: "825b569b-b2c0-4bd6-8677-12b0f36e470f"
+  Hint: Image4
+  Value: |
+    <image mediaid="E7551693-9417-457E-9368-993937FFFC82" />
+- ID: "9477b449-c25a-4228-98d8-ae3435ab19b1"
+  Hint: Image7
+  Value: |
+    <image mediaid="6C714A53-33AB-43AC-9747-926FEB75366A" />
+- ID: "9c11a6a4-e9b5-4f36-9a65-65fad7daf14b"
+  Hint: Image6
+  Value: |
+    <image mediaid="643D84B4-5245-4191-850F-2668AEF3DFFD" />
+- ID: "b6adc497-e361-47ce-a977-88c6531ad798"
+  Hint: Image3
+  Value: |
+    <image mediaid="7A6AEFCA-B313-4B49-925F-A96AA327C2E7" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "874521ed-4738-47e0-a0a2-81f86b579720"
+- ID: "f63f1078-d0c6-45f6-a237-c3a588f495bd"
+  Hint: Image1
+  Value: |
+    <image mediaid="1B6A68B9-CB31-4424-8845-02219BB35586" />
+- ID: "f771cbc7-e4db-4232-ba17-4400c11a1625"
+  Hint: Image5
+  Value: |
+    <image mediaid="1A296904-3BD0-4603-BAF2-0D825CBDEAB1" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250916T071650Z
+    - ID: "4d62e9d8-ceaf-4d6d-a3f3-89744b715490"
+      Hint: Heading
+      Value: #FormaLuxDécor
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eab5401c-ed3a-4560-b401-2b9169482b40"
+    - ID: "a652162f-5821-4fe0-b373-2c7a03ab362d"
+      Hint: Eyebrow
+      Value: Share your own setup with
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163310Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250916T071650Z
+    - ID: "4d62e9d8-ceaf-4d6d-a3f3-89744b715490"
+      Hint: Heading
+      Value: #FormaLuxDécor
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc602f90-6b33-401d-8cc0-9013cbf7fac0"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "a652162f-5821-4fe0-b373-2c7a03ab362d"
+      Hint: Eyebrow
+      Value: Comparte tu propia configuración con
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163310Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250916T071650Z
+    - ID: "4d62e9d8-ceaf-4d6d-a3f3-89744b715490"
+      Hint: Heading
+      Value: #FormaLuxDécor
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61a54f11-d945-4d6c-ab33-708d75b210b7"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "a652162f-5821-4fe0-b373-2c7a03ab362d"
+      Hint: Eyebrow
+      Value: Partagez votre propre configuration avec
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163310Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250916T071650Z
+    - ID: "4d62e9d8-ceaf-4d6d-a3f3-89744b715490"
+      Hint: Heading
+      Value: #FormaLuxDécor
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c826836-53e0-486d-acf8-0cbefcf2717c"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "a652162f-5821-4fe0-b373-2c7a03ab362d"
+      Hint: Eyebrow
+      Value: Partagez votre propre configuration avec
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163310Z

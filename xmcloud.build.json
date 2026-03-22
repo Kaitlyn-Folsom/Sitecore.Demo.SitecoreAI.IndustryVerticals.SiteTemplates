@@ -62,7 +62,9 @@
           "Project.Travel-Media",
           "Project.Travel-Content",
           "Project.Energy-Media",
-          "Project.Energy-Content"
+          "Project.Energy-Content",
+          "Project.FamousFootwear-Media",
+          "Project.FamousFootwear-Content"
         ]
       },
       "warmUpCm": {

@@ -1,0 +1,183 @@
+﻿---
+ID: "f2b2a6a5-3b59-4388-8193-c0b4b8feeffc"
+Parent: "3f28874e-7f82-4e18-9c1c-b8d56e0ffa64"
+Template: "0a39f168-834c-46c5-8866-65a60764c0a4"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Data/Features/Features Features/Feature 2"
+BranchID: "82ac1f90-61f1-4812-9553-e1a4c81405fe"
+SharedFields:
+- ID: "83bc80ee-e97a-474b-8c05-a2559394eebe"
+  Hint: FeatureImage
+  Value: |
+    <image mediaid="21C80659-D899-4027-9E96-E672BD0367EC" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "286c3e74-c1ca-4bce-b2cd-c793e1ce8692"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{FC2A5072-99B8-4D58-B5E0-B96C40680096}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250904T103649Z
+    - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
+      Hint: FeatureDescription
+      Value: Over 2 years
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
+      Hint: FeatureTitle
+      Value: Warranty Protection
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "904d76cf-4faf-4136-960c-e6ce34e3f817"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163257Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250910T094336Z
+    - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
+      Hint: FeatureDescription
+      Value: Más de 2 años
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
+      Hint: FeatureTitle
+      Value: Protección de garantía
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e24dd658-34c1-4398-bdcb-048c7f6d9c17"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250910T100653Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250904T103649Z
+    - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
+      Hint: FeatureDescription
+      Value: Más de 2 años
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
+      Hint: FeatureTitle
+      Value: Protección de garantía
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "661d4d19-c040-4454-9aba-901476d52815"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163257Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250904T103649Z
+    - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
+      Hint: FeatureDescription
+      Value: Plus de 2 ans
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
+      Hint: FeatureTitle
+      Value: Protection de garantie
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1456505c-81b3-46fa-bf3e-845a62db3a26"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163257Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250910T094535Z
+    - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
+      Hint: FeatureDescription
+      Value: Plus de 2 ans
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeral.sandeeptha@sitecore.com
+    - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
+      Hint: FeatureTitle
+      Value: Garantie
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bf3b3a5-1abf-4d02-8f94-58fdf8937317"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163257Z

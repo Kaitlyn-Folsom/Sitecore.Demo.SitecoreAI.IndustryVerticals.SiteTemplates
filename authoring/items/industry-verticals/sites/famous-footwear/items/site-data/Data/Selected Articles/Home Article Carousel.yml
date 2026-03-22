@@ -1,0 +1,189 @@
+﻿---
+ID: "c26c21fd-d06f-4321-8a55-36ab605223c7"
+Parent: "ef4bc2fc-3c40-48c5-b150-f09db62fcdbf"
+Template: "30a718e4-b5b1-49df-aea6-ad761528b5c5"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Data/Selected Articles/Home Article Carousel"
+SharedFields:
+- ID: "9097fa39-7bba-4e25-92f0-0b25d187509d"
+  Hint: ExploreLink
+  Value: |
+    <link class="" id="5AE8873F-FEE2-4607-9B0C-5D7588C0605E" querystring="" anchor="" target="" title="" linktype="internal" text="Explorez plus" url="/industry-verticals/forma-lux/Home/Products" />
+- ID: "a6a4a7d3-4017-4996-9264-27b1d3030273"
+  Hint: Articles
+  Value: |
+    {7243C4BB-13A3-4AF2-A427-283476EFA1C1}
+    {5C18793A-4F18-48D9-8FC8-26969BBC255A}
+    {CE020CDF-F68D-4951-BA77-814EA99D1CE0}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "c0793eab-bbe5-4249-90dd-4377635f5b16"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "173353d6-b07d-442c-b2f0-5b95c498f794"
+      Hint: Description
+      Value: |
+        <div class="ck-content"><p>Our designer already made a lot of beautiful prototype of rooms that inspire you</p></div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T112159Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "7e4e530b-eb83-4515-801c-4cc914d2605a"
+      Hint: Title
+      Value: 50+ Beautiful room inspirations
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0289b40-523d-48eb-8f0c-c7d3e8dcfb63"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163032Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "173353d6-b07d-442c-b2f0-5b95c498f794"
+      Hint: Description
+      Value: Nuestro dise&ntilde;ador ya ha creado muchos prototipos hermosos de habitaciones que te inspiran<br />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251007T074858Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "7e4e530b-eb83-4515-801c-4cc914d2605a"
+      Hint: Title
+      Value: Más de 50 hermosas inspiraciones para habitaciones
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f78e0e85-9d75-418a-b781-3ec1c3f1de55"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20251127T103506Z
+  - Version: 2
+    Fields:
+    - ID: "173353d6-b07d-442c-b2f0-5b95c498f794"
+      Hint: Description
+      Value: |
+        <div class="ck-content"><p>Nuestro diseñador ya ha creado muchos hermosos prototipos de habitaciones que te inspiran</p></div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T112159Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "7e4e530b-eb83-4515-801c-4cc914d2605a"
+      Hint: Title
+      Value: Más de 50 inspiraciones de habitaciones hermosas
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "692c177f-1328-407e-bb0d-3d6a12005768"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163032Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "173353d6-b07d-442c-b2f0-5b95c498f794"
+      Hint: Description
+      Value: |
+        <div class="ck-content"><p>Notre designer a déjà créé de nombreux prototypes de chambres magnifiques qui vous inspirent</p></div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T112159Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "7e4e530b-eb83-4515-801c-4cc914d2605a"
+      Hint: Title
+      Value: 50+ inspirations de chambres magnifiques
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2159faca-b599-4d64-8a84-9fba185c22ce"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163032Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "173353d6-b07d-442c-b2f0-5b95c498f794"
+      Hint: Description
+      Value: |
+        <div class="ck-content"><p>Notre designer a déjà créé de nombreux prototypes de chambres magnifiques qui vous inspirent</p></div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T112159Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "7e4e530b-eb83-4515-801c-4cc914d2605a"
+      Hint: Title
+      Value: Plus de 50 inspirations de chambres magnifiques
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46e6b629-1460-4ccf-bcab-88d6c72038cf"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163032Z

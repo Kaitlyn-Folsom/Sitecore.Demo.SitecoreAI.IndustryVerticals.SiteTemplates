@@ -1,0 +1,166 @@
+﻿---
+ID: "64a115bc-5147-4917-9ec2-6dec2beceb90"
+Parent: "a5c27ace-7d26-487d-8d47-07f05d2774bf"
+Template: "58a32680-fc59-49bc-890c-fd69f7a9cf1a"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Data/Product Reviews/Review 4"
+SharedFields:
+- ID: "43cdbc7e-aa68-4d04-a13b-2d027ef29368"
+  Hint: Rating
+  Value: 3
+- ID: "63ff7a9b-580a-4df9-8135-6cc1fc25a489"
+  Hint: ReviewImage
+  Value: |
+    <image mediaid="{B5C1C0A7-82E4-430A-8E26-03AA3F27D468}" />
+- ID: "9f389762-fc1e-4bb1-9fc9-5ae25a3e1f38"
+  Hint: Avatar
+  Value: |
+    <image mediaid="{16821228-A8B9-4C20-B771-19767C7EB061}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "0751fa5a-7cff-479a-a3f6-2e345d531560"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110205Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: “Forma Lux helped me express myself through my space. It’s not just furniture — it’s a lifestyle, curated with care and bold taste.”
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Entrepreneur, London
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de53f22d-55b9-4053-89d3-377d5ef39476"
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Ava L.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163306Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110205Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: “Forma Lux me ayudó a expresarme a través de mi espacio. No es solo mobiliario, es un estilo de vida, curado con cuidado y un gusto audaz.”
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Emprendedora, Londres
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7fbdd7a2-d37b-454c-bcf2-96c8722ccd84"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Ava L.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163306Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110205Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: « Forma Lux m'a aidé à m'exprimer à travers mon espace. Ce n'est pas juste des meubles — c'est un style de vie, conçu avec soin et goût audacieux. »
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Entrepreneure, Londres
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b473b58-f67c-4fd9-a147-e4406311224a"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Ava L.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163306Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251121T110205Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
+      Hint: Description
+      Value: « Forma Lux m'a aidé à m'exprimer à travers mon espace. Ce n'est pas juste des meubles — c'est un style de vie, conçu avec soin et goût audacieux. »
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\isuru.bandara@sitecore.com
+    - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
+      Hint: Caption
+      Value: Entrepreneur, Londres
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51771503-3014-4a1a-937b-8a1e93c51f77"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
+      Hint: ReviewerName
+      Value: Ava L.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260322T163306Z
