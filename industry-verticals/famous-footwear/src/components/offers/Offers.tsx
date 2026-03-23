@@ -43,10 +43,10 @@ export const Default = (props: OfferProps) => {
   }
 
   return (
-    <div className={`component offers ${styles}`} id={id}>
+    <div className={`component offers ${styles} bg-accent`} id={id}>
       <div className="mx-auto flex w-full max-w-3xl items-center justify-center gap-5 p-2">
         <button
-          className={`swiper-btn-prev-${uid}`}
+          className={`swiper-btn-prev-${uid} text-white`}
           name="previous-offer"
           aria-label="Previous offer"
         >
@@ -77,13 +77,17 @@ export const Default = (props: OfferProps) => {
           className="mx-0! w-full transition-all"
         >
           {datasource.map((offer) => (
-            <SwiperSlide key={offer.id} className="no-swiping text-center">
+            <SwiperSlide key={offer.id} className="no-swiping text-center text-white">
               <Text field={offer.fields.OfferText} />
             </SwiperSlide>
           ))}
         </Swiper>
 
-        <button className={`swiper-btn-next-${uid}`} name="next-offer" aria-label="Next offer">
+        <button
+          className={`swiper-btn-next-${uid} text-white`}
+          name="next-offer"
+          aria-label="Next offer"
+        >
           <ChevronRight />
         </button>
       </div>
