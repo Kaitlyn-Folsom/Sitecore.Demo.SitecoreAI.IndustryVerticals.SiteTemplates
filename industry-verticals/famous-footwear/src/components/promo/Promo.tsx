@@ -11,9 +11,8 @@ import {
 } from '@sitecore-content-sdk/nextjs';
 import { ComponentProps } from 'lib/component-props';
 import clsx from 'clsx';
-import AccentLine from '@/assets/icons/accent-line/AccentLine';
 import { Quote } from '@/assets/icons/quote/Quote';
-import { CommonStyles, LayoutStyles, PromoFlags } from '@/types/styleFlags';
+import { LayoutStyles, PromoFlags } from '@/types/styleFlags';
 
 interface Fields {
   PromoImageOne: ImageField;
@@ -37,11 +36,9 @@ export type PromoProps = ComponentProps & {
   fields: Fields;
 };
 
-const isShadowClassActive = (val: boolean) => (val ? 'shadow-2xl' : '');
+const isShadowClassActive = (val: boolean) => (val ? '' : '');
 
 export const PromoContent = ({ ...props }) => {
-  const isAccentLineVisible = !props?.params?.styles?.includes(CommonStyles.HideAccentLine);
-
   return (
     <div className="space-y-5">
       <div className="eyebrow">
@@ -50,7 +47,6 @@ export const PromoContent = ({ ...props }) => {
 
       <h2 className="inline-block max-w-md">
         <Text field={props.fields.PromoTitle} />
-        {isAccentLineVisible && <AccentLine className="w-full max-w-xs" />}
       </h2>
 
       <div className="max-w-lg text-lg">
@@ -64,22 +60,15 @@ export const PromoContent = ({ ...props }) => {
 
 export const SingleImageContainer = ({
   PromoImageOne,
-  withShapes,
   withShadows,
 }: PromoImageGroupProps): JSX.Element => {
   const shadowClass = isShadowClassActive(withShadows ?? false);
   return (
     <>
-      {withShapes && (
-        <div className="bg-background-muted absolute top-0 left-0 z-0 aspect-6/5 w-2/3 rounded-2xl"></div>
-      )}
       <div>
-        <div className={clsx({ 'm-4 md:m-9 md:mb-6 xl:m-15 xl:mb-8': withShapes })}>
-          {withShapes && (
-            <div className="bg-background-muted absolute top-1/2 right-0 z-0 aspect-5/3 w-3/4 -translate-y-1/2 transform rounded-2xl"></div>
-          )}
+        <div className={clsx({ 'm-4 md:m-9 md:mb-6 xl:m-15 xl:mb-8': '' })}>
           <div
-            className={`relative z-10 aspect-4/3 w-full max-w-4xl overflow-hidden rounded-2xl ${shadowClass}`}
+            className={`relative z-10 aspect-4/3 w-full max-w-4xl overflow-hidden ${shadowClass}`}
           >
             <ContentSdkImage field={PromoImageOne} className="h-full w-full object-cover" />
           </div>
@@ -93,11 +82,9 @@ export const MultipleImageContainer = ({
   PromoImageOne,
   PromoImageTwo,
   PromoImageThree,
-  withShapes,
   withShadows,
 }: PromoImageGroupProps): JSX.Element => {
   const shadowClass = isShadowClassActive(withShadows ?? false);
-  const marginClass = withShapes ? 'mr-4' : '';
 
   return (
     <>
@@ -119,10 +106,7 @@ export const MultipleImageContainer = ({
           </div>
         </div>
         <div className="relative w-full md:w-2/3">
-          {withShapes && (
-            <div className="bg-background-muted absolute right-0 z-0 aspect-[495/422] w-3/4 rounded-2xl md:-top-10 xl:-top-15"></div>
-          )}
-          <div className={`relative aspect-3/2 overflow-visible rounded-2xl ${marginClass} z-10`}>
+          <div className={`relative z-10 aspect-3/2 overflow-visible rounded-2xl`}>
             <div
               className={`relative z-10 h-full w-full overflow-hidden rounded-2xl ${shadowClass}`}
             >
@@ -144,7 +128,6 @@ export const Default = (props: PromoProps): JSX.Element => {
     ? ''
     : 'order-last';
   const showSingleImage = !props?.params?.styles?.includes(PromoFlags.ShowMultipleImages);
-  const withShapes = !props?.params?.styles?.includes(PromoFlags.HidePromoShapes);
   const withShadows = !props?.params?.styles?.includes(PromoFlags.HidePromoShadows);
 
   const justifyContentClass = !showSingleImage ? 'justify-self-start' : '';
@@ -158,7 +141,6 @@ export const Default = (props: PromoProps): JSX.Element => {
           {showSingleImage ? (
             <SingleImageContainer
               PromoImageOne={props.fields.PromoImageOne}
-              withShapes={withShapes}
               withShadows={withShadows}
             />
           ) : (
@@ -166,7 +148,6 @@ export const Default = (props: PromoProps): JSX.Element => {
               PromoImageOne={props.fields.PromoImageOne}
               PromoImageTwo={props.fields.PromoImageTwo}
               PromoImageThree={props.fields.PromoImageThree}
-              withShapes={withShapes}
               withShadows={withShadows}
             />
           )}

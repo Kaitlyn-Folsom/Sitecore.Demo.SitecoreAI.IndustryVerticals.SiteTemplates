@@ -9,7 +9,6 @@ export enum LayoutStyles {
 export enum PromoFlags {
   PromoReversed = 'promo-reversed',
   ShowMultipleImages = 'show-multiple-images',
-  HidePromoShapes = 'hide-promo-shapes',
   HidePromoShadows = 'hide-promo-shadows',
   HidePromoQuotes = 'hide-promo-quotes',
 }

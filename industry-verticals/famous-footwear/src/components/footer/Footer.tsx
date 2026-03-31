@@ -73,7 +73,7 @@ export const Default = (props: FooterProps) => {
 
   return (
     <section className={`component footer relative ${props.params.styles} overflow-hidden`} id={id}>
-      <div className="bg-background-muted">
+      <div className="bt-3 b-accent bg-[#f0f0f0]">
         <div className="container grid gap-12 py-28.5 lg:grid-cols-[1fr_3fr]">
           <div className="flex flex-col gap-7">
             <div className="sm:max-w-34">

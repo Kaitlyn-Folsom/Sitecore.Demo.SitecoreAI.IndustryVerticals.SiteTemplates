@@ -35,6 +35,7 @@ export const Default = (props: ProductDetailsProps) => {
   const ShowAddtoWishlistButton = isParamEnabled(props?.params?.ShowAddtoWishlistButton);
 
   const relatedProductsPlaceholderKey = `related-products-${props?.params?.DynamicPlaceholderId}`;
+  const productReviewsPlaceholderKey = `product-reviews-${props?.params?.DynamicPlaceholderId}`;
 
   const [selectedColor, setSelectedColor] = useState(product?.Color?.[0]);
   const [selectedSize, setSelectedSize] = useState(product?.Size?.[0]);
@@ -65,6 +66,7 @@ export const Default = (props: ProductDetailsProps) => {
 
           {/* Right product info */}
           <div className="max-w-xl space-y-4 pb-4 lg:px-10">
+            <Placeholder name={productReviewsPlaceholderKey} rendering={props.rendering} />
             <ProductDescription product={product} />
 
             <div className="flex flex-wrap justify-between gap-4 py-5">
