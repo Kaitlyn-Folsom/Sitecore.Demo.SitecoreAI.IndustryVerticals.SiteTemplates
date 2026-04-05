@@ -1,0 +1,96 @@
+﻿---
+ID: "075a6787-eb20-4341-a76d-8f589cbcbee7"
+Parent: "ca4ac59a-3faf-4cbb-9631-f4c4beaa9d47"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Home/Products/Sneakers/TrailNova XT"
+SharedFields:
+- ID: "4194f0b1-8aac-49c1-8e93-129877fe4c79"
+  Hint: Tags
+  Value: |
+    {CAE8188F-21BC-48CF-B6D7-FD2B17DCF21B}
+    {8EEC566E-F58B-4085-9391-83744923A08D}
+- ID: "58d111ab-b286-42ab-bb35-8daadd6ab480"
+  Hint: SKU
+  Value: SNK0005
+- ID: "63c1b6e8-05bb-459d-ae43-a7d06951eb25"
+  Hint: ogImage
+  Value: |
+    <image mediaid="{B2F8244C-54F9-4407-AE3B-18B612767B0E}" alt="TrailNova XT" />
+- ID: "6d624193-14b5-4076-b1d6-b6cac9888298"
+  Hint: Color
+  Value: |
+    {F12787DA-DF6F-4E62-BD2A-F1BD9BDDB19D}
+    {65A61C4D-53D2-4153-AFDB-22C29D6F9190}
+- ID: "998ad31d-a023-4c69-8654-9b70de07a7f3"
+  Hint: Size
+  Value: |
+    {337796F9-022A-480B-9EC0-CECF235923DD}
+    {6FC75516-EAEF-4B71-87D0-32DFAF0A35F3}
+    {D48AC751-D342-4520-AF74-EDD44AF9289A}
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <image mediaid="{B2F8244C-54F9-4407-AE3B-18B612767B0E}" alt="TrailNova XT" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C525460C-D2E8-4550-9D40-75669BBE6D8D}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{CA4AC59A-3FAF-4CBB-9631-F4C4BEAA9D47}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "59853215-53c7-4a49-bc8b-e0662688a3b5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260401T181815Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: TrailNova XT | Famous Footwear
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: "A rugged sneaker with trail-inspired traction for active weekends and all-weather wear."
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: TrailNova XT, trail sneaker, rugged sneaker, all weather sneaker, active lifestyle shoes, famous footwear sneakers
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 99.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: TrailNova XT
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: "Shop the TrailNova XT at Famous Footwear for rugged traction, cushioned comfort, and trail-inspired sneaker style."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79a2af5a-27f0-4131-b7c8-854ff231f5f7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: TrailNova XT
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260401T192010Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: "<p>TrailNova XT brings outdoor-inspired utility into an everyday sneaker with durable overlays, dependable traction, and cushioned support. Whether the day calls for a longer walk, travel comfort, or weekend errands, it is designed to deliver confident wear across changing conditions.</p>"
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: "TrailNova XT mixes trail-inspired durability with everyday sneaker comfort. With grip-focused traction, supportive cushioning, and a rugged profile, it gives Famous Footwear shoppers a dependable style for active weekends, changing weather, and on-the-go routines."

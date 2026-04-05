@@ -1,0 +1,90 @@
+﻿---
+ID: "d970dee1-c67b-47e7-970f-6477850347a1"
+Parent: "0ddfb5c0-dfc1-4848-a09c-61f65854339c"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Home/Products/Boots/Midtown Zip Bootie"
+SharedFields:
+- ID: "58d111ab-b286-42ab-bb35-8daadd6ab480"
+  Hint: SKU
+  Value: BTS0003
+- ID: "63c1b6e8-05bb-459d-ae43-a7d06951eb25"
+  Hint: ogImage
+  Value: |
+    <image mediaid="{B2F8244C-54F9-4407-AE3B-18B612767B0E}" alt="Midtown Zip Bootie" />
+- ID: "6d624193-14b5-4076-b1d6-b6cac9888298"
+  Hint: Color
+  Value: |
+    {CF3DAAC0-F13E-494A-88E5-468C6B397084}
+    {EA0C8466-903F-4ADE-A0BF-C70FF740907C}
+- ID: "998ad31d-a023-4c69-8654-9b70de07a7f3"
+  Hint: Size
+  Value: |
+    {6FC75516-EAEF-4B71-87D0-32DFAF0A35F3}
+    {337796F9-022A-480B-9EC0-CECF235923DD}
+- ID: "bf3fd6d5-2930-40a0-9c22-b4fe37f6717f"
+  Hint: Image1
+  Value: |
+    <image mediaid="{B2F8244C-54F9-4407-AE3B-18B612767B0E}" alt="Midtown Zip Bootie" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{AA9D4609-F943-4A60-8E28-7A6E297C4748}" />
+- ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
+  Hint: Category
+  Value: "{0DDFB5C0-DFC1-4848-A09C-61F65854339C}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "23bc232a-ceee-463b-97e1-d54cf2540e6a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260401T201032Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Midtown Zip Bootie | Famous Footwear
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: "A sleek ankle bootie with side-zip convenience and day-to-night versatility."
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Midtown Zip Bootie, ankle boots, booties, famous footwear boots
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 84.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Midtown Zip Bootie
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: "Find the Midtown Zip Bootie at Famous Footwear for sleek ankle-boot style, cushioned comfort, and easy side-zip wear."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a6339eb-9e5e-4ccb-a706-30c77d41aaa3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Midtown Zip Bootie
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260401T201033Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>The Midtown Zip Bootie is designed for easy styling with denim, dresses, and workwear alike. Its streamlined profile, inside zipper, and cushioned insole deliver a comfortable fit that keeps pace with busy days.</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: A clean ankle silhouette and easy zipper entry make the Midtown Zip Bootie a reliable favorite for polished everyday outfits.

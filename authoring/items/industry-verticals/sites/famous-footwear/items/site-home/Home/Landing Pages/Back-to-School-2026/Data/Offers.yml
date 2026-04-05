@@ -1,0 +1,31 @@
+﻿---
+ID: "9496f02b-828c-4b23-b7d0-e97289ef05d0"
+Parent: "0460e041-55e2-4fe4-857d-7f3486b10739"
+Template: "56dc3dfd-48b8-4dbf-811f-c0cdfaaea31a"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Home/Landing Pages/Back-to-School-2026/Data/Offers"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260329T150101Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0858b53-815f-43b0-a646-ac46996bc7e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260329T150101Z

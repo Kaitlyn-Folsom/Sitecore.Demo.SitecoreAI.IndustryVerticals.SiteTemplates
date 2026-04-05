@@ -48,12 +48,15 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250916T071650Z
     - ID: "4d62e9d8-ceaf-4d6d-a3f3-89744b715490"
       Hint: Heading
-      Value: #FormaLuxDécor
+      Value: #StepIntoSpring
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -64,17 +67,17 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eab5401c-ed3a-4560-b401-2b9169482b40"
+      Value: "9bd345a7-9267-4bad-a174-936e094db67e"
     - ID: "a652162f-5821-4fe0-b373-2c7a03ab362d"
       Hint: Eyebrow
-      Value: Share your own setup with
+      Value: Share your own sTyle with
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260322T163310Z
+      Value: 20260322T201206Z
 - Language: "es-ES"
   Versions:
   - Version: 1

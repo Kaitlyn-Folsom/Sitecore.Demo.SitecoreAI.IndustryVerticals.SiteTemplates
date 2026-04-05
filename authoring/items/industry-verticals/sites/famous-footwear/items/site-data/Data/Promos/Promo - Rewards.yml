@@ -1,0 +1,53 @@
+﻿---
+ID: "a462693f-95da-42d4-851e-511c69d9ddb1"
+Parent: "5ad6d068-bd1c-40f7-9d07-e9f472eaa34a"
+Template: "08213afb-9cb4-4c1f-a5da-865b9a095601"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Data/Promos/Promo - Rewards"
+SharedFields:
+- ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
+  Hint: PromoImageOne
+  Value: |
+    <Image src="https://caleres.sitecoresandbox.cloud/api/public/content/817090ee1f4e40a8b0b783eae19b6920?v=f78e1834" dam-id="AktFi-EfQ3Smw9aDBnM6ew" width="1200" height="966" alt="block3_s26.jpg" dam-content-type="Image" thumbnailsrc="https://celeres.sitecoresandbox.cloud/api/gateway/84779/thumbnail" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "106fa3ee-78f7-4c95-92bd-64ed75761f8d"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260402T130310Z
+    - ID: "453ed40c-5232-4e90-b023-7a3cee2bcfe8"
+      Hint: PromoMoreInfo
+      Value: |
+        <link linktype="external" url="#" text="JOIN NOW"/>
+    - ID: "4fc0c7b3-bcfb-4a9d-834d-59f6836e5fd6"
+      Hint: PromoDescription
+      Value: |
+        <div class="ck-content"><p class="p1">$5 Reward Cash for every 100 points. Free Shipping every day, no minimum Birthday Rewards for your special day And so much more!</p></div>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4440ae3f-7a15-4616-9bb2-b8e3b8ff2107"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260402T131310Z
+    - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
+      Hint: PromoTitle
+      Value: FAMOUSLY YOU REWARDS

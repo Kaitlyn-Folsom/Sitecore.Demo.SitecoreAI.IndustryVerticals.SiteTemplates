@@ -1,0 +1,64 @@
+﻿---
+ID: "e51679fe-0032-4b47-bc7b-5b9a32fdfa9e"
+Parent: "5ae8873f-fee2-4607-9b0c-5d7588c0605e"
+Template: "4d2b49e6-1130-444a-b22c-5c7e25d01b56"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Home/Products/Sandals"
+SharedFields:
+- ID: "c17f3d69-c947-45a0-b4f5-cbcdf58e805c"
+  Hint: ogImage
+  Value: |
+    <image mediaid="{B2F8244C-54F9-4407-AE3B-18B612767B0E}" alt="Sandals" />
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{849866C3-7BBA-4655-995C-66FD5901D743}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "bf39bdcc-a361-4e43-b9bb-987f567b792a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bdb1624-90c5-46d5-968f-0c17c9a816c4"
+      Hint: metadataKeywords
+      Value: famous footwear sandals, casual sandals, strappy sandals, slide sandals, summer shoes, everyday sandals
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260401T193246Z
+    - ID: "2b03e37f-61d7-4f3c-95fa-7277bfcbff6d"
+      Hint: metadataTitle
+      Value: Sandals | Famous Footwear
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sandals
+    - ID: "4ff0b19e-04d3-454f-9e63-421c84e00477"
+      Hint: pageSummary
+      Value: "The sandals collection is built for sunny days, easy styling, and everyday comfort. From lightweight slides to versatile walkable pairs, each style is selected to bring breathable comfort and on-trend versatility to warm-weather wardrobes."
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5cad19bf-f251-4273-9578-1393c0f00d5d"
+      Hint: Title
+      Value: Sandals
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46db4162-45e4-4386-9401-835902a26018"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "ca87ddf9-ad6a-47ad-aaea-f411377684a1"
+      Hint: metadataDescription
+      Value: "Shop versatile sandals for warm-weather style, from sporty slides to everyday strappy pairs built for comfort and easy wear."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260401T193247Z
+    - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
+      Hint: CategoryName
+      Value: Sandals

@@ -1,0 +1,165 @@
+﻿---
+ID: "e384d8f5-786b-4d07-9e5c-39fda8fbd274"
+Parent: "39d9abd1-e8aa-485b-961a-96945e933086"
+Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
+Path: "/sitecore/content/industry-verticals/famous-footwear/Home/Landing Pages/Back-to-School-2026"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DD9C27B1-BF73-484F-8A2F-C1C51BB3C171}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "5689281c-7244-4a62-ac58-5b9cfb1a450f"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A1C152EA-0D87-467B-812F-F6494C76E84C}"
+              p:before="*"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{BA9593BE-07A2-44FF-83CA-69D0049F230B}"
+              p:after="r[@uid='{A1C152EA-0D87-467B-812F-F6494C76E84C}']"
+              s:ds="28a6e3a2-d748-4f69-ab1d-b53404e05ede"
+              s:id="{B49CF2D7-7CB2-4918-8F38-2607D956D995}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B453F19E9-D898-432B-BBE5-423F862314A5%7D&amp;Styles=%7C%7BE3561663-2B55-4BED-8C45-DE415F1E2A1D%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-2" />
+            <r
+              uid="{34428CB8-31E7-491C-B84D-F3CAFA7C186C}"
+              p:after="r[@uid='{BA9593BE-07A2-44FF-83CA-69D0049F230B}']"
+              s:ds="a462693f-95da-42d4-851e-511c69d9ddb1"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B3CA8424B-8B74-4878-A9CE-018324A5CD79%7D&amp;Styles=%7C%7BD0460D41-6041-4798-ACE7-1DA9F87C5144%7D%7C%7B0927694A-F875-4E91-A328-37A3BA739B6A%7D%7C%7B9889A70D-D6B8-415D-B586-E1ABC0308E6D%7D%7C%7B409731A0-E488-4E84-B38F-1112A7647DD9%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-2" />
+            <r
+              uid="{5EB01F4A-CF8B-486B-8459-7D5FDAACC1E5}"
+              p:after="*[1=2]"
+              s:ds="0f081d69-1ef8-43e3-9d2e-b3543816f693"
+              s:id="{C7FDF764-5C05-4544-BB1F-A0E11F37E222}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BF42F9DFB-DFB2-4D3D-AE60-A9DEBC1F1169%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-2" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260329T150000Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Back-to-School-2026"
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: "Back-to-School-2026"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9dc652c0-5497-4b28-b503-1d9dac273282"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260402T132135Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B3D8DDE1-3CB2-453D-A971-7E78C91ACD46}"
+              s:ds="28a6e3a2-d748-4f69-ab1d-b53404e05ede"
+              s:id="{B49CF2D7-7CB2-4918-8F38-2607D956D995}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B453F19E9-D898-432B-BBE5-423F862314A5%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{73D28B44-D0C9-432E-AFAE-513A7FD85CED}"
+                    s:name="b3d8dde13cb2453da9717e78c91acd46_9bdbe8612d8443d58916cab6bdd22cf4">
+                    <conditions>
+                      <condition
+                        uid="FDC4EDD3C796423D9BAC87BA7C3B0006"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="b3d8dde13cb2453da9717e78c91acd46_9bdbe8612d8443d58916cab6bdd22cf4" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{ABD00D00-6F2C-4FCF-BC6E-B26D478C9D54}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="c5b1462c-8af7-4a4f-85ed-675c4edd0774" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="1F39567E437542ECB814715B1F15FFED"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260402T132232Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Back-to-School-2026"
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: "Back-to-School-2026"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cf916c1-667b-4351-93a3-c44ae2c5dfc1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260402T132232Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260402T192315Z

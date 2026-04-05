@@ -6,13 +6,25 @@ Path: "/sitecore/content/industry-verticals/famous-footwear/Settings/Site Groupi
 SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
-  Value: "{A2D596CF-DE52-4FB4-9DC3-6C3ED208661A}"
+  Value: a2d596cfde524fb49dc36c3ed208661a
+- ID: "4e9e2ae5-36db-4955-9af1-5a1934a27c7d"
+  Hint: Language Embedding
+  Value: 0
 - ID: "6dd8a774-2ce5-4c9e-be7f-1eaf65789956"
   Hint: ThumbnailsRootPath
   Value: "{45B46D24-9911-4470-9090-FDEBE549A1A3}"
+- ID: "6e6da5b0-8d01-4514-b7dd-1940aff3e8cd"
+  Hint: FieldLanguageFallback
+  Value: 0
+- ID: "8c436235-b85d-4097-89cf-d5a4fa70cc0a"
+  Hint: ItemLanguageFallback
+  Value: 0
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
   Value: *
+- ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
+  Hint: POS
+  Value: "en=famous-footwear"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: "famous-footwear"
@@ -21,10 +33,10 @@ SharedFields:
   Value: *
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "88261079-f57d-4d71-a953-c071016049fb"
+  Value: "60c163d1-d85b-4d0f-80a1-030617deee93"
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
-  Value: Default
+  Value: "famous-footwear"
 Languages:
 - Language: en
   Versions:
@@ -43,11 +55,11 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "73d67766-2088-4641-bf12-141057ae2fc6"
+      Value: "7fa807bc-82c4-4cf6-8cd7-4f3ed54f6254"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260322T163317Z
+      Value: 20260401T135307Z
