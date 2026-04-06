@@ -1,5 +1,5 @@
 @theme {
-  --color-foreground: #1e1e1e;
+  --color-foreground: #333333;
   --color-foreground-light: #505050;
   --color-foreground-muted: #9f9f9f;
 
@@ -10,17 +10,25 @@
   --color-background-muted-dark: #666;
   --color-background-surface: #fafafa;
 
-  --color-accent: #002d72;
-  --color-accent-secondary: #da291c;
+  /* Editorial / headings */
+  --color-accent: #003366;
+  /* CTAs, nav/footer links, arrow links, filled buttons (#002d72) */
+  --color-interactive: #002d72;
+  --color-accent-secondary: #e31b23;
   --color-success: #2ec1ac;
-  --color-danger: #da291c;
+  --color-danger: #e31b23;
 
   --color-border: #e8e8e8;
 
-  --font-heading: 'Nunito Sans', sans-serif;
-  --font-body: 'Nunito Sans', sans-serif;
+  --font-heading: 'Source Sans 3', sans-serif;
+  --font-body: 'Source Sans 3', sans-serif;
 
-  --radius-base: 0.25rem;
+  /* CNO: sharp corners (0–2px); scales derive from this in Tailwind theme */
+  --radius-base: 0.125rem;
+
+  /* Section vertical rhythm; use in SectionWrapper / promos (md+ ≈ 80px) */
+  --spacing-section-y: 2.5rem;
+  --spacing-section-y-lg: 5rem;
 
   /*
   This does not show in the theme editor

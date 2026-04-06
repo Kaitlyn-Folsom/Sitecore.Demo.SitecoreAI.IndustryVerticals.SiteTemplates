@@ -64,9 +64,17 @@ const findFontLinks = (fontData: FontOptions, selectedNames: string[]) => {
 
 export const Default = (props: ThemeEditorProps): JSX.Element => {
   const customCssValue = props.fields.CustomCSS?.value || '';
+  const themeDefaultsValue = props.fields.ThemeDefaults?.value || '';
   const fontOptionsValue = props.fields.FontOptions?.value || '';
 
-  const varMap = parseCssVariables(customCssValue);
+  /** ThemeDefaults match built tokens; CustomCSS overrides per site. */
+  const varMap = useMemo(
+    () => ({
+      ...parseCssVariables(themeDefaultsValue),
+      ...parseCssVariables(customCssValue),
+    }),
+    [themeDefaultsValue, customCssValue]
+  );
 
   const fonts = useMemo(() => {
     try {

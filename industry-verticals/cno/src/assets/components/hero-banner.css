@@ -1,0 +1,117 @@
+/* Hero full-bleed: chevron/grid texture (no bitmap) */
+.hero-banner__pattern {
+  opacity: 0.08;
+  background-image: repeating-linear-gradient(
+    -35deg,
+    transparent,
+    transparent 6px,
+    color-mix(in srgb, var(--color-background) 55%, transparent) 6px,
+    color-mix(in srgb, var(--color-background) 55%, transparent) 7px
+  );
+}
+
+/* Dark scrim aligned to content side (see overlay placement classes) */
+.hero-banner__scrim--left {
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--color-interactive) 88%, transparent) 0%,
+    color-mix(in srgb, var(--color-interactive) 45%, transparent) 55%,
+    transparent 100%
+  );
+}
+
+.hero-banner__scrim--right {
+  background: linear-gradient(
+    270deg,
+    color-mix(in srgb, var(--color-interactive) 88%, transparent) 0%,
+    color-mix(in srgb, var(--color-interactive) 45%, transparent) 55%,
+    transparent 100%
+  );
+}
+
+.hero-banner__scrim--center {
+  background: radial-gradient(
+    ellipse 85% 75% at 50% 42%,
+    color-mix(in srgb, var(--color-interactive) 78%, transparent) 0%,
+    color-mix(in srgb, var(--color-interactive) 35%, transparent) 62%,
+    transparent 100%
+  );
+}
+
+/* L-bracket corners (accent secondary) */
+.hero-frame {
+  @apply relative;
+}
+
+.hero-frame__inner {
+  @apply relative z-[1];
+}
+
+.hero-frame__corner {
+  @apply border-accent-secondary pointer-events-none absolute z-0;
+  width: 1.75rem;
+  height: 1.75rem;
+}
+
+.hero-frame__corner--tl {
+  @apply top-0 left-0 border-t-2 border-l-2;
+}
+
+.hero-frame__corner--br {
+  @apply right-0 bottom-0 border-r-2 border-b-2;
+}
+
+/* Typographic block on dark scrim */
+.hero-banner__title {
+  @apply text-background;
+}
+
+.hero-banner__richtext {
+  @apply text-background/90;
+
+  & a {
+    @apply text-background decoration-background/50 hover:decoration-background underline underline-offset-2 transition-colors;
+  }
+}
+
+/* CTA text link on dark hero */
+.hero-banner .arrow-btn {
+  @apply border-b-background/80 text-background;
+
+  &::after {
+    @apply bg-accent-secondary;
+  }
+}
+
+.hero-banner .shim {
+  @apply border-background/15 bg-background/10 border backdrop-blur-sm;
+}
+
+/* CMS option: no scrim — dark type + navy frame for legibility on photography */
+.hero-banner--no-overlay .hero-banner__title {
+  @apply text-foreground;
+}
+
+.hero-banner--no-overlay .hero-banner__richtext {
+  @apply text-foreground-light;
+
+  & a {
+    @apply text-interactive decoration-interactive/40 hover:decoration-interactive underline underline-offset-2 transition-colors;
+  }
+}
+
+.hero-banner--no-overlay .arrow-btn {
+  @apply border-b-interactive text-interactive;
+
+  &::after {
+    @apply bg-accent-secondary;
+  }
+}
+
+.hero-banner--no-overlay .shim {
+  @apply border-border bg-background/50;
+}
+
+.hero-banner--no-overlay .hero-frame__corner {
+  @apply border-interactive;
+}

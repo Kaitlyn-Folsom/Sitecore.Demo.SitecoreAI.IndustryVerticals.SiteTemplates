@@ -11,7 +11,7 @@
 .highlighted-left,
 .highlighted-right {
   > div {
-    @apply border-accent! my-6 p-6;
+    @apply border-interactive! my-6 p-6;
   }
 }
 .highlighted-top > div {
@@ -30,20 +30,21 @@
   @apply border-r;
 }
 
+/* CNO: uppercase text link, interactive navy rule + accent-secondary chevron glyph */
 .arrow-btn {
-  @apply border-b-accent text-accent inline-flex items-center justify-start gap-3 border-b leading-8;
+  @apply border-b-interactive text-interactive inline-flex items-center justify-start gap-3 border-b text-sm leading-8 font-semibold tracking-wide uppercase;
 
   &::after {
-    @apply bg-accent inline-block h-3 w-11 mask-[url('./images/arrow.svg')] bg-contain bg-no-repeat mask-contain mask-center mask-no-repeat content-[''];
+    @apply bg-accent-secondary inline-block h-3 w-11 mask-[url('./images/arrow.svg')] bg-contain bg-no-repeat mask-contain mask-center mask-no-repeat content-[''];
   }
 }
 
 .carousel-btn {
-  @apply text-foreground! bg-background z-10 size-12 content-center rounded-full shadow-md;
+  @apply text-foreground! border-border bg-background hover:border-accent-secondary hover:text-interactive z-10 size-12 content-center rounded-sm border shadow-none transition-colors;
 }
 
 .surface-btn {
-  @apply bg-background-surface text-accent flex size-6 items-center justify-center rounded font-bold transition-shadow hover:shadow-md;
+  @apply bg-background-surface text-interactive border-border hover:border-accent-secondary flex size-6 items-center justify-center rounded-sm border font-bold transition-colors;
 
   &[disabled] {
     @apply pointer-events-none opacity-60;
@@ -55,13 +56,47 @@
 }
 
 .action-btn {
-  @apply text-accent hover:text-accent/80 hover:border-accent/80 border-accent flex h-10 items-center gap-3 border-b bg-transparent text-lg font-semibold;
+  @apply text-interactive hover:text-accent-secondary hover:border-accent-secondary border-interactive flex h-10 items-center gap-3 border-b bg-transparent text-base font-semibold tracking-wide uppercase transition-colors;
 }
 
 .main-btn {
-  @apply bg-accent text-background hover:bg-accent/95 flex w-full items-center justify-center rounded-sm p-3 text-center text-lg font-semibold transition-all hover:shadow-md;
+  @apply bg-interactive text-background hover:bg-interactive/92 flex w-full items-center justify-center rounded-sm p-3 text-center text-base font-semibold tracking-wide uppercase transition-colors;
 
   &[disabled] {
     @apply pointer-events-none opacity-60;
   }
+}
+
+/* Promo: screenshot reference — charcoal title, gray body, solid navy CTA (~5px radius), no shadow */
+.promo-content {
+  @apply w-full;
+}
+
+.promo-body {
+  @apply text-foreground-light text-lg leading-relaxed;
+
+  :where(p, li) {
+    @apply text-foreground-light leading-relaxed;
+  }
+
+  :where(p:not(:last-child)) {
+    @apply mb-4;
+  }
+
+  :where(a) {
+    @apply text-interactive hover:text-accent-secondary underline underline-offset-2 transition-colors;
+  }
+}
+
+.promo-cta {
+  @apply bg-interactive text-background hover:bg-interactive/90 focus-visible:ring-interactive mt-1 inline-flex w-fit items-center justify-center rounded-[0.3125rem] px-8 py-3.5 text-center text-sm font-bold tracking-wide uppercase no-underline shadow-none transition-colors focus-visible:ring-2 focus-visible:outline-none;
+}
+
+/* Features: match promo section typography (reuse promo-body / promo-cta in TSX) */
+.features-section-title {
+  @apply text-foreground text-3xl leading-tight font-bold tracking-tight md:text-4xl lg:text-[2.25rem] lg:leading-snug;
+}
+
+.features-item-title {
+  @apply text-foreground text-xl leading-snug font-bold tracking-tight md:text-2xl;
 }

@@ -48,7 +48,7 @@ export const Default = (props: ProductDetailsProps) => {
 
   if (!props.fields?.Title) {
     return isPageEditing ? (
-      <div className={`component article-listing py-6 ${styles}`} id={id}>
+      <div className={`component article-listing py-10 md:py-16 ${styles}`} id={id}>
         [Product Details]
       </div>
     ) : (
@@ -57,7 +57,7 @@ export const Default = (props: ProductDetailsProps) => {
   }
 
   return (
-    <section className={`component article-listing py-6 ${styles}`} id={id}>
+    <section className={`component article-listing py-10 md:py-16 ${styles}`} id={id}>
       <div className="container">
         <div className="grid grid-cols-1 lg:grid-cols-2">
           {/* Left image section */}

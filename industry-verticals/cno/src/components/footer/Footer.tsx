@@ -11,7 +11,6 @@ import {
   Text,
   TextField,
 } from '@sitecore-content-sdk/nextjs';
-import React from 'react';
 
 interface Fields {
   TitleOne: TextField;
@@ -32,36 +31,55 @@ type FooterProps = {
   fields: Fields;
 };
 
+const footerLinkClass =
+  'text-interactive font-semibold transition-colors hover:text-accent-secondary hover:underline';
+
 export const Default = (props: FooterProps) => {
-  // rendering item id
   const id = props.params.RenderingIdentifier;
 
   return (
     <section className={`component footer relative ${props.params.styles} overflow-hidden`} id={id}>
-      <div className="bg-background-muted">
-        <div className="container grid max-w-7xl gap-12 py-16">
-          <div className="flex flex-col gap-7">
+      <div className="border-border bg-background-muted border-t">
+        <div className="container mx-auto max-w-7xl gap-14 px-4 py-20">
+          <div className="flex flex-col gap-8">
             <div className="sm:max-w-50">
               <Image field={props.fields.Logo} />
             </div>
-            <div className="text-bold">
+            <div className="text-interactive font-semibold">
               <Text field={props.fields.CopyrightText} />
             </div>
-            <RichText field={props.fields.Description} />
+            <RichText
+              field={props.fields.Description}
+              className="text-foreground-light [&_a]:text-interactive [&_a]:hover:text-accent-secondary max-w-3xl"
+            />
           </div>
-          <div className="container flex items-center justify-between max-sm:flex-col max-sm:items-start max-sm:gap-10">
-            <div className="text-accent flex items-center justify-between gap-5 max-lg:gap-10 max-sm:order-1 max-sm:flex-col max-sm:items-start max-sm:gap-5">
-              <Link field={props.fields.TermsText} className="font-bold hover:underline" /> |
-              <Link field={props.fields.PolicyText} className="font-bold hover:underline" /> |
-              <div className="text-accent font-bold hover:underline">Sitemap</div> |
-              <div className="text-accent font-bold hover:underline">Contact Us</div> |
-              <div className="text-accent font-bold hover:underline">Bankers Life Agency, Inc.</div>
+
+          <nav
+            className="border-border mt-14 flex flex-wrap items-center gap-x-5 gap-y-3 border-t pt-12 text-sm max-sm:flex-col max-sm:items-start"
+            aria-label="Footer"
+          >
+            <Link field={props.fields.TermsText} className={footerLinkClass} />
+            <span className="text-border max-sm:hidden" aria-hidden>
               |
-              <div className="text-accent font-bold hover:underline">
-                Notification and Disaster Information
-              </div>
-            </div>
-          </div>
+            </span>
+            <Link field={props.fields.PolicyText} className={footerLinkClass} />
+            <span className="text-border max-sm:hidden" aria-hidden>
+              |
+            </span>
+            <span className={footerLinkClass}>Sitemap</span>
+            <span className="text-border max-sm:hidden" aria-hidden>
+              |
+            </span>
+            <span className={footerLinkClass}>Contact Us</span>
+            <span className="text-border max-sm:hidden" aria-hidden>
+              |
+            </span>
+            <span className={footerLinkClass}>Bankers Life Agency, Inc.</span>
+            <span className="text-border max-sm:hidden" aria-hidden>
+              |
+            </span>
+            <span className={footerLinkClass}>Notification and Disaster Information</span>
+          </nav>
         </div>
       </div>
     </section>

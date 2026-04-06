@@ -86,7 +86,8 @@ const NavigationListItem: React.FC<NavigationListItemProps> = ({
         'relative flex flex-col gap-x-8 gap-y-4 xl:gap-x-14',
         isRootItem && 'lg:flex-row',
         isLogoRootItem && 'shrink-0 max-lg:hidden',
-        isLogoRootItem && isSimpleLayout && 'lg:mr-auto'
+        isLogoRootItem && isSimpleLayout && 'lg:mr-auto',
+        isLogoRootItem && '[.component.header_&]:lg:mr-auto'
       )}
     >
       <div className="flex items-center justify-center gap-1">
@@ -94,7 +95,7 @@ const NavigationListItem: React.FC<NavigationListItemProps> = ({
           field={getLinkField(fields)}
           editable={page.mode.isEditing}
           onClick={clickHandler}
-          className="hover:text-foreground-light whitespace-nowrap transition-colors"
+          className="text-interactive hover:text-accent-secondary whitespace-nowrap transition-colors"
         >
           {getLinkContent(fields, logoSrc)}
         </Link>
@@ -115,9 +116,8 @@ const NavigationListItem: React.FC<NavigationListItemProps> = ({
           >
             <ChevronDown
               className={clsx(
-                'size-4 transition-transform duration-300',
-                isActive && 'rotate-180',
-                'navigation-dropdown-trigger'
+                'navigation-dropdown-trigger text-accent-secondary size-4 transition-transform duration-300',
+                isActive && 'rotate-180'
               )}
             />
           </button>
@@ -133,7 +133,7 @@ const NavigationListItem: React.FC<NavigationListItemProps> = ({
               clsx(
                 'z-110 text-base max-lg:border-b max-lg:pb-4 max-lg:text-sm',
                 'lg:absolute lg:top-full lg:left-1/2 lg:-translate-x-1/2 lg:p-6 lg:transition-all lg:duration-300',
-                'lg:bg-background lg:rounded-xl lg:shadow-md',
+                'lg:bg-background lg:border-border lg:rounded-none lg:border lg:shadow-none',
                 isActive
                   ? 'max-lg:flex'
                   : 'max-lg:hidden lg:pointer-events-none lg:translate-y-2 lg:scale-95 lg:opacity-0'
@@ -237,7 +237,8 @@ export const Default = ({ params, fields }: NavigationProps) => {
           role="menubar"
           className={clsx(
             'text-md container flex flex-col items-center justify-center gap-x-8 gap-y-4 py-5 lg:flex-row xl:gap-x-14',
-            isSimpleLayout && !hasLogoRootItem && 'lg:justify-end'
+            isSimpleLayout && !hasLogoRootItem && 'lg:justify-end',
+            '[.component.header_&]:lg:w-full [.component.header_&]:lg:justify-end'
           )}
         >
           {navigationItems}

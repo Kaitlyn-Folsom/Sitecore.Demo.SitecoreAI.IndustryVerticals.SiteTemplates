@@ -8,11 +8,11 @@
     @apply w-full;
   }
 
-  /* bordered */
+  /* bordered — sharp CNO chrome */
   .sxa-bordered {
     @apply rounded-sm;
     > .component-content {
-      @apply rounded-sm border p-6;
+      @apply border-border rounded-sm border p-6;
     }
   }
 }

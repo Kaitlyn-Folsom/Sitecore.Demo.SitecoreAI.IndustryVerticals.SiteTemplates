@@ -21,8 +21,8 @@ export const ProductSizeControl = ({
           onClick={() => onSelect(size)}
           className={`size-8 rounded text-sm transition-colors ${
             selectedSize?.id === size.id
-              ? 'bg-accent text-background'
-              : 'bg-background-accent hover:bg-accent/20'
+              ? 'bg-interactive text-background'
+              : 'bg-background-accent hover:bg-interactive/20'
           }`}
         >
           {size.fields?.ProductSize?.value ?? '-'}

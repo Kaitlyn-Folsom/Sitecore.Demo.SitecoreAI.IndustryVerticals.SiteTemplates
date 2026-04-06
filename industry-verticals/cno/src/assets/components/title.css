@@ -2,8 +2,12 @@
   @apply my-8;
 
   h1,
+  h2,
+  h3,
+  h4,
+  h5,
   .field-title {
-    @apply cursor-pointer no-underline;
+    @apply text-interactive cursor-pointer no-underline;
 
     > a,
     > span {

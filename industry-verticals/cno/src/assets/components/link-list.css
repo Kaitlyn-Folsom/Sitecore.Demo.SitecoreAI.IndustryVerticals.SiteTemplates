@@ -12,8 +12,12 @@
     @apply flex flex-row flex-wrap gap-4;
   }
 
+  a {
+    @apply text-interactive font-medium transition-colors;
+  }
+
   a:hover {
-    @apply underline;
+    @apply text-accent-secondary underline;
   }
 }
 

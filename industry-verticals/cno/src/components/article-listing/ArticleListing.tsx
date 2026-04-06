@@ -81,7 +81,7 @@ export const Default = (props: ArticleListingProps) => {
 
   return (
     <section
-      className={`component article-listing py-6 ${props?.params?.styles?.trimEnd()}`}
+      className={`component article-listing py-10 md:py-16 lg:py-20 ${props?.params?.styles?.trimEnd()}`}
       id={id}
     >
       <div className="container grid grid-cols-1 gap-12 lg:grid-cols-[3fr_1fr]">
@@ -196,7 +196,7 @@ export const Default = (props: ArticleListingProps) => {
                   setSelectedCategory(null);
                   setCurrentPage(1);
                 }}
-                className={`flex-1 text-left ${!selectedCategory ? 'text-accent font-bold' : ''}`}
+                className={`flex-1 text-left ${!selectedCategory ? 'text-interactive font-bold' : ''}`}
               >
                 {t('show_all_text') || 'Show All'}
               </button>
@@ -210,7 +210,7 @@ export const Default = (props: ArticleListingProps) => {
                     setCurrentPage(1);
                   }}
                   className={`flex-1 text-left ${
-                    selectedCategory === category.name ? 'text-accent font-bold' : ''
+                    selectedCategory === category.name ? 'text-interactive font-bold' : ''
                   }`}
                 >
                   {category.name}

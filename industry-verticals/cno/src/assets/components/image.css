@@ -8,7 +8,7 @@
   }
 
   .image-caption {
-    @apply block py-1 text-sm;
+    @apply text-foreground-muted block py-1 text-sm;
   }
 }
 

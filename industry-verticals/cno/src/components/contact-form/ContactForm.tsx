@@ -26,7 +26,7 @@ export default function ContactForm(props: ContactFormProps): JSX.Element {
 
   return (
     <section className={`component contact-form group ${styles ?? ''}`} id={id || undefined}>
-      <div className="container py-8 md:max-w-2xl md:py-12 lg:max-w-3xl xl:max-w-4xl">
+      <div className="container py-10 md:max-w-2xl md:py-16 lg:max-w-3xl xl:max-w-4xl">
         <form className="grid gap-6 md:gap-8">
           <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
             <div className="grid gap-2">

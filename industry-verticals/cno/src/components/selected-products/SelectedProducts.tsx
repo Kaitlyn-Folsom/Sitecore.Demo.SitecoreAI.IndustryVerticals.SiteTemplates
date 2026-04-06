@@ -25,8 +25,8 @@ export const Default = (props: RelatedProductsProps): JSX.Element => {
   const loop = isParamEnabled(props.params.Loop);
 
   return (
-    <section className={`component related-products ${styles}`} id={id || undefined}>
-      <div className="container flex flex-col items-center p-8 md:p-10">
+    <section className={`component related-products py-10 md:py-16 ${styles}`} id={id || undefined}>
+      <div className="container flex flex-col items-center px-4 md:px-8">
         <h2 className="mb-10 inline-block">
           <Text field={props.fields?.Title} />
           {!hideAccentLine && <AccentLine className="mx-auto !h-4 w-[8ch]" />}

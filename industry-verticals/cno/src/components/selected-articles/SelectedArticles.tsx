@@ -135,7 +135,7 @@ export const Default = (props: CarouselProps) => {
                                   <div className="flex items-end">
                                     <div className="bg-background/75 max-w-full space-y-1 overflow-hidden p-5 text-ellipsis">
                                       <div className="flex items-center gap-1 overflow-hidden text-xs font-extralight text-ellipsis whitespace-nowrap">
-                                        <div className="h-[1px] w-7 bg-black"></div>
+                                        <div className="bg-accent-secondary h-px w-7" />
                                         <div className="text-foreground/75">
                                           <Text
                                             editable={false}
@@ -149,7 +149,7 @@ export const Default = (props: CarouselProps) => {
                                         </h6>
                                       </div>
                                     </div>
-                                    <div className="bg-accent inline-block p-2">
+                                    <div className="bg-interactive inline-block p-2">
                                       <ArrowRight
                                         size={16}
                                         strokeWidth={1}
@@ -213,7 +213,7 @@ export const Default = (props: CarouselProps) => {
                         <div className="inline-flex flex-row items-center gap-5">
                           <div className="flex items-center">
                             <button
-                              className={`swiper-btn-prev text-accent ${
+                              className={`swiper-btn-prev text-interactive ${
                                 currentIndex === 0 && 'article-carousel-btn-disabled'
                               }`}
                               disabled={currentIndex === 0}
@@ -228,7 +228,7 @@ export const Default = (props: CarouselProps) => {
                           <div className="flex items-center">
                             <button
                               disabled={currentIndex === articles.length - 1}
-                              className={`swiper-btn-prev text-accent ${
+                              className={`swiper-btn-prev text-interactive ${
                                 currentIndex === articles.length - 1 &&
                                 'article-carousel-btn-disabled'
                               }`}
