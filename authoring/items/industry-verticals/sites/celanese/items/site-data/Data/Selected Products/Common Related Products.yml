@@ -36,17 +36,17 @@ Languages:
     - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
       Hint: ProductsLink
       Value: |
-        <link class="" querystring="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" anchor="" target="" title="" linktype="internal" text="View All" url="/industry-verticals/forma-lux/Home/Products" />
+        <link class="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" querystring="" anchor="" target="" title="" linktype="internal" text="View All" url="/industry-verticals/celanese/Home/Products" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "00500988-0d3f-44cf-a557-0f96bef9a35b"
+      Value: "cdfce2fa-21b5-4c46-8e4e-aa26083473fc"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260406T161518Z
+      Value: 20260407T124858Z
 - Language: "es-ES"
   Versions:
   - Version: 1
@@ -68,10 +68,10 @@ Languages:
     - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
       Hint: ProductsLink
       Value: |
-        <link class="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" querystring="" anchor="" target="" title="" linktype="internal" text="Ver todo" url="/industry-verticals/forma-lux/Home/Products" />
+        <link class="" querystring="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" anchor="" target="" title="" linktype="internal" text="Ver todo" url="/industry-verticals/celanese/Home/Products" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b3306fb6-5b31-4c8c-8fbd-b882d63ea571"
+      Value: "250c969b-2503-4964-9589-caefda6878f9"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -81,7 +81,7 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260406T161519Z
+      Value: 20260407T124858Z
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -103,10 +103,10 @@ Languages:
     - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
       Hint: ProductsLink
       Value: |
-        <link class="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" querystring="" anchor="" target="" title="" linktype="internal" text="Voir tout" url="/industry-verticals/forma-lux/Home/Products" />
+        <link class="" querystring="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" anchor="" target="" title="" linktype="internal" text="Voir tout" url="/industry-verticals/celanese/Home/Products" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ef08a506-3af7-4a8c-b620-866d7817d889"
+      Value: "583ed676-6040-431b-b626-0f97344de23f"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -116,7 +116,7 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260406T161519Z
+      Value: 20260407T124858Z
 - Language: "fr-FR"
   Versions:
   - Version: 1
@@ -138,10 +138,10 @@ Languages:
     - ID: "7a6784c9-46c6-4781-86c3-c482f3ef62e6"
       Hint: ProductsLink
       Value: |
-        <link class="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" querystring="" anchor="" target="" title="" linktype="internal" text="Voir tout" url="/industry-verticals/forma-lux/Home/Products" />
+        <link class="" querystring="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" anchor="" target="" title="" linktype="internal" text="Voir tout" url="/industry-verticals/celanese/Home/Products" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "62f21e0a-8c1d-4302-a951-e944b3453142"
+      Value: "d2e2aeea-645e-49da-aacc-dc69dff65bf7"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -151,4 +151,4 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260406T161518Z
+      Value: 20260407T124858Z

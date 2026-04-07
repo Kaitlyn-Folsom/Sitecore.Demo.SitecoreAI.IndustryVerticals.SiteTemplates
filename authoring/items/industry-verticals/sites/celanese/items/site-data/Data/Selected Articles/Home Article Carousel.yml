@@ -7,7 +7,7 @@ SharedFields:
 - ID: "9097fa39-7bba-4e25-92f0-0b25d187509d"
   Hint: ExploreLink
   Value: |
-    <link class="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" querystring="" anchor="" target="" title="" linktype="internal" text="Explorez plus" url="/industry-verticals/forma-lux/Home/Products" />
+    <link class="" querystring="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" anchor="" target="" title="" linktype="internal" text="Explorez plus" url="/industry-verticals/celanese/Home/Products" />
 - ID: "a6a4a7d3-4017-4996-9264-27b1d3030273"
   Hint: Articles
   Value: |
@@ -16,7 +16,7 @@ SharedFields:
     {396527B1-258F-4B2A-85AE-80FE963DCB96}
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "33c5d656-764b-44bf-a1e8-f1c09927356d"
+  Value: "9490f305-d90f-44a9-ae02-459c869d8de1"
 Languages:
 - Language: en
   Versions:
@@ -42,14 +42,14 @@ Languages:
       Value: 50+ Beautiful room inspirations
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "58070d47-f224-457c-b6d2-86ba97a5e2aa"
+      Value: "b08017e1-e651-4a4d-b922-557d23889548"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260406T161510Z
+      Value: 20260407T124858Z
 - Language: "es-ES"
   Versions:
   - Version: 1

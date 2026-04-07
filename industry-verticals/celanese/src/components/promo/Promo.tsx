@@ -11,9 +11,8 @@ import {
 } from '@sitecore-content-sdk/nextjs';
 import { ComponentProps } from 'lib/component-props';
 import clsx from 'clsx';
-import AccentLine from '@/assets/icons/accent-line/AccentLine';
 import { Quote } from '@/assets/icons/quote/Quote';
-import { CommonStyles, LayoutStyles, PromoFlags } from '@/types/styleFlags';
+import { LayoutStyles, PromoFlags } from '@/types/styleFlags';
 
 interface Fields {
   PromoImageOne: ImageField;
@@ -37,11 +36,9 @@ export type PromoProps = ComponentProps & {
   fields: Fields;
 };
 
-const isShadowClassActive = (val: boolean) => (val ? 'shadow-2xl' : '');
+const isShadowClassActive = (val: boolean) => (val ? 'shadow-md' : '');
 
 export const PromoContent = ({ ...props }) => {
-  const isAccentLineVisible = !props?.params?.styles?.includes(CommonStyles.HideAccentLine);
-
   return (
     <div className="space-y-5">
       <div className="eyebrow">
@@ -50,7 +47,6 @@ export const PromoContent = ({ ...props }) => {
 
       <h2 className="inline-block max-w-md">
         <Text field={props.fields.PromoTitle} />
-        {isAccentLineVisible && <AccentLine className="w-full max-w-xs" />}
       </h2>
 
       <div className="max-w-lg text-lg">
@@ -71,15 +67,15 @@ export const SingleImageContainer = ({
   return (
     <>
       {withShapes && (
-        <div className="bg-background-muted absolute top-0 left-0 z-0 aspect-6/5 w-2/3 rounded-2xl"></div>
+        <div className="bg-background-accent absolute top-0 left-0 z-0 aspect-6/5 w-2/3"></div>
       )}
       <div>
         <div className={clsx({ 'm-4 md:m-9 md:mb-6 xl:m-15 xl:mb-8': withShapes })}>
           {withShapes && (
-            <div className="bg-background-muted absolute top-1/2 right-0 z-0 aspect-5/3 w-3/4 -translate-y-1/2 transform rounded-2xl"></div>
+            <div className="bg-background-accent absolute top-1/2 right-0 z-0 aspect-5/3 w-3/4 -translate-y-1/2 transform"></div>
           )}
           <div
-            className={`relative z-10 aspect-4/3 w-full max-w-4xl overflow-hidden rounded-2xl ${shadowClass}`}
+            className={`relative z-10 aspect-4/3 w-full max-w-4xl overflow-hidden ${shadowClass}`}
           >
             <ContentSdkImage field={PromoImageOne} className="h-full w-full object-cover" />
           </div>
@@ -103,29 +99,23 @@ export const MultipleImageContainer = ({
     <>
       <div className="flex flex-col items-center gap-8 md:flex-row">
         <div className="flex flex-col gap-10 md:w-1/3">
-          <div className="relative aspect-square overflow-visible rounded-2xl">
-            <div
-              className={`relative z-10 h-full w-full overflow-hidden rounded-2xl ${shadowClass}`}
-            >
+          <div className="relative aspect-square overflow-visible">
+            <div className={`relative z-10 h-full w-full overflow-hidden ${shadowClass}`}>
               <ContentSdkImage field={PromoImageTwo} className="h-full w-full object-cover" />
             </div>
           </div>
-          <div className="relative aspect-2/3 overflow-visible rounded-2xl">
-            <div
-              className={`relative z-10 h-full w-full overflow-hidden rounded-2xl ${shadowClass}`}
-            >
+          <div className="relative aspect-2/3 overflow-visible">
+            <div className={`relative z-10 h-full w-full overflow-hidden ${shadowClass}`}>
               <ContentSdkImage field={PromoImageThree} className="h-full w-full object-cover" />
             </div>
           </div>
         </div>
         <div className="relative w-full md:w-2/3">
           {withShapes && (
-            <div className="bg-background-muted absolute right-0 z-0 aspect-[495/422] w-3/4 rounded-2xl md:-top-10 xl:-top-15"></div>
+            <div className="bg-background-accent absolute right-0 z-0 aspect-[495/422] w-3/4 md:-top-10 xl:-top-15"></div>
           )}
-          <div className={`relative aspect-3/2 overflow-visible rounded-2xl ${marginClass} z-10`}>
-            <div
-              className={`relative z-10 h-full w-full overflow-hidden rounded-2xl ${shadowClass}`}
-            >
+          <div className={`relative aspect-3/2 overflow-visible ${marginClass} z-10`}>
+            <div className={`relative z-10 h-full w-full overflow-hidden ${shadowClass}`}>
               <ContentSdkImage
                 field={PromoImageOne}
                 className="absolute inset-0 h-full w-full object-cover"
@@ -189,7 +179,7 @@ export const WithFullImage = (props: PromoProps): JSX.Element => {
   return (
     <section className={`${props.params.styles} py-20`} id={id ? id : undefined}>
       <div className={`container flex ${isPromoReversed}`}>
-        <div className="relative my-10 aspect-[1232/608] overflow-hidden rounded-2xl">
+        <div className="relative my-10 aspect-[1232/608] overflow-hidden">
           <ContentSdkImage
             field={props.fields.PromoImageTwo}
             className="h-full w-full object-cover"
@@ -197,7 +187,7 @@ export const WithFullImage = (props: PromoProps): JSX.Element => {
         </div>
 
         <div className="space-y-5">
-          <div className="text-foreground-light font-semibold uppercase">
+          <div className="text-primary text-xs font-semibold tracking-[0.2em] uppercase">
             <Text field={props.fields.PromoSubTitle} />
           </div>
 
@@ -239,7 +229,7 @@ export const WithQuote = (props: PromoProps): JSX.Element => {
     >
       {withQuote && (
         <div
-          className={`absolute left-5 md:top-[10%] lg:top-[25%] lg:left-1/2 lg:-translate-x-1/2 ${classesWhenReversed.quoteFlip} } text-background-accent! z-20`}
+          className={`text-primary/15 absolute left-5 z-20 md:top-[10%] lg:top-[25%] lg:left-1/2 lg:-translate-x-1/2 ${classesWhenReversed.quoteFlip}`}
         >
           <Quote className="h-10 md:h-20 lg:h-25 xl:h-30" />
         </div>
@@ -260,7 +250,7 @@ export const WithQuote = (props: PromoProps): JSX.Element => {
             >
               <ContentSdkImage
                 field={props.fields.PromoImageOne}
-                className="absolute inset-0 h-full w-full rounded-2xl object-cover"
+                className="absolute inset-0 h-full w-full object-cover"
               />
             </div>
           </div>

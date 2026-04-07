@@ -1,5 +1,5 @@
 .global-input-wrapper.global-input-wrapper.global-input-wrapper {
-  @apply border-border focus-within:border-accent rounded-none border-0 border-b-2 focus-within:!outline-none;
+  @apply border-border focus-within:border-primary rounded-none border-0 border-b-2 focus-within:!outline-none;
 }
 
 .global-checkbox-element.global-checkbox-element.global-checkbox-element {
@@ -7,7 +7,7 @@
 }
 
 .global-radio-element.global-radio-element.global-radio-element {
-  @apply border-foreground/10 bg-background focus-within:outline-accent checked:outline-accent before:bg-accent border-2 checked:outline-1;
+  @apply border-foreground/10 bg-background focus-within:outline-primary checked:outline-primary before:bg-primary border-2 checked:outline-1;
 }
 
 .form-select-option-container.form-select-option-container.form-select-option-container {
@@ -15,7 +15,7 @@
 }
 
 .form-select-option.form-select-option.form-select-option {
-  @apply text-foreground hover:bg-accent aria-selected:bg-foreground/9 cursor-pointer text-sm hover:border-0;
+  @apply text-foreground hover:bg-primary/10 aria-selected:bg-background-accent cursor-pointer text-sm hover:border-0;
 }
 
 .submit-button.submit-button.submit-button {

@@ -105,10 +105,10 @@ export default function ContactForm(props: ContactFormProps): JSX.Element {
             />
           </div>
 
-          <div className="mt-4 text-center">
+          <div className="mt-4">
             <button
               type="submit"
-              className="arrow-btn inline-flex cursor-pointer items-center gap-2"
+              className="main-btn inline-flex w-auto min-w-44 cursor-pointer px-8"
             >
               <Text field={SubmitText} />
             </button>

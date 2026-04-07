@@ -8,8 +8,6 @@ import {
   Text,
 } from '@sitecore-content-sdk/nextjs';
 import React from 'react';
-import AccentLine from '@/assets/icons/accent-line/AccentLine';
-import { CommonStyles } from '@/types/styleFlags';
 
 interface Fields {
   data: {
@@ -54,33 +52,33 @@ const FeatureWrapper = (wrapperProps: FeatureWrapperProps) => {
 export const Default = (props: FeaturesProps) => {
   // results of the graphql
   const results = props.fields.data.datasource.children.results;
-  const hideAccentLine = props.params.styles?.includes(CommonStyles.HideAccentLine);
   const featureSectionTitle = props.fields.data.datasource.title;
 
   return (
     <FeatureWrapper props={props}>
-      <div className="container grid grid-cols-1 py-20 lg:grid-cols-[1fr_2fr] lg:gap-10">
-        <div className="mb-20 lg:mb-0">
-          <h2 className="inline-block max-w-md font-bold max-lg:text-[42px]">
+      <div className="container grid grid-cols-1 py-16 md:py-20 lg:grid-cols-[1fr_2fr] lg:gap-12">
+        <div className="mb-16 lg:mb-0">
+          <h2 className="inline-block max-w-md font-medium max-lg:text-3xl lg:text-4xl">
             <Text field={featureSectionTitle.jsonValue} />
-            {!hideAccentLine && <AccentLine className="w-full max-w-xs" />}
           </h2>
         </div>
-        <div className="grid grid-cols-1 gap-16 md:grid-cols-2 md:gap-8 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-12 md:grid-cols-2 md:gap-10 lg:grid-cols-3">
           {results.map((item, index) => {
             const title = item.featureTitle.jsonValue;
             const description = item.featureDescription.jsonValue;
             const link = item.featureLink.jsonValue;
             return (
-              <div className="flex flex-col" key={index}>
-                {/* Title, Link and Description */}
-                <div className="mb-5 text-2xl font-bold">
+              <div
+                className="border-border bg-background flex flex-col border p-6 transition-shadow"
+                key={index}
+              >
+                <div className="text-foreground mb-4 text-xl font-semibold">
                   <Text field={title} />
                 </div>
-                <div className="text-foreground mb-3.5 flex-auto leading-7">
+                <div className="text-foreground-light mb-4 flex-auto leading-relaxed">
                   <Text field={description} />
                 </div>
-                <div>
+                <div className="mt-auto">
                   <Link field={link} className="arrow-btn" />
                 </div>
               </div>
@@ -126,15 +124,15 @@ export const ThreeColGridCentered = (props: FeaturesProps) => {
           return (
             <div className="flex flex-col items-center justify-start 2xl:w-80" key={index}>
               {/* Image */}
-              <div className="bg-accent mb-7 flex h-20 w-20 items-center justify-center rounded-full">
+              <div className="bg-teal text-background mb-7 flex h-20 w-20 items-center justify-center rounded-full">
                 <Image field={image} />
               </div>
               {/* Title and Description */}
               <div className="flex flex-col items-center justify-center">
                 <div className="mb-2 leading-0.5">
-                  <Text tag="h5" className="text-accent" field={title} />
+                  <Text tag="h5" className="text-primary" field={title} />
                 </div>
-                <div className="text-background-muted-light text-center">
+                <div className="text-foreground-light text-center">
                   <Text field={description} />
                 </div>
               </div>
@@ -152,25 +150,23 @@ export const NumberedGrid = (props: FeaturesProps) => {
 
   return (
     <FeatureWrapper props={props}>
-      <div className="container grid grid-cols-1 gap-4 py-24 md:grid-cols-2 lg:grid-cols-3">
+      <div className="container grid grid-cols-1 gap-6 py-16 md:grid-cols-2 md:py-20 lg:grid-cols-3">
         {results.map((item, index) => {
           const title = item?.featureTitle.jsonValue;
           const description = item?.featureDescription.jsonValue;
           return (
             <div
-              className="group text-background hover:bg-accent cursor-pointer rounded-xl p-6"
+              className="group border-border bg-background-teal-tint text-foreground hover:border-brand-teal-deep hover:bg-brand-teal-deep cursor-pointer border p-6 transition-colors"
               key={index}
             >
-              {/* Generated Number */}
-              <h1 className="group-hover:text-background text-background-muted-dark mb-2 text-7xl leading-24">
+              <h1 className="text-teal group-hover:text-background mb-2 text-6xl leading-none font-bold md:text-7xl">
                 {generateIndexes(index)}
               </h1>
-              {/* Title and Description */}
               <div>
-                <div className="text-accent group-hover:text-background mb-4 text-2xl leading-8 font-bold">
+                <div className="group-hover:text-background text-foreground mb-3 text-xl leading-snug font-semibold">
                   <Text field={title} />
                 </div>
-                <div className="text-background-muted-dark group-hover:text-background leading-7">
+                <div className="text-foreground-light group-hover:text-background/90 leading-relaxed">
                   <Text field={description} />
                 </div>
               </div>
@@ -228,15 +224,15 @@ export const ImageCardGrid = (props: FeaturesProps) => {
           const image = item.featureImage.jsonValue;
           return (
             <div key={index}>
-              <div className="mb-7 aspect-4/3 w-full overflow-hidden rounded-lg bg-white">
+              <div className="border-border bg-background mb-6 aspect-4/3 w-full overflow-hidden border shadow-sm">
                 <Image field={image} className="h-full w-full object-cover" />
               </div>
 
-              <h6>
+              <h6 className="text-foreground font-semibold">
                 <Text field={title} />
               </h6>
 
-              <p className="text-foreground-muted mt-1 text-lg">
+              <p className="text-foreground-muted border-accent mt-2 border-b-2 pb-4 text-base leading-relaxed">
                 <Text field={description} />
               </p>
             </div>

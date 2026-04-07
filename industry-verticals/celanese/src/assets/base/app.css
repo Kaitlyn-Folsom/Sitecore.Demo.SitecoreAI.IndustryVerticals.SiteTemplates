@@ -9,6 +9,11 @@ body {
   overflow-x: hidden;
 }
 
+.component.header {
+  position: relative;
+  border-bottom: 1px solid var(--color-border);
+}
+
 .xa-variable {
   border: 0px;
   padding: 1px;

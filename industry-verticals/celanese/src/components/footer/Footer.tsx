@@ -73,32 +73,39 @@ export const Default = (props: FooterProps) => {
 
   return (
     <section className={`component footer relative ${props.params.styles} overflow-hidden`} id={id}>
-      <div className="bg-background-muted">
-        <div className="container grid gap-12 py-28.5 lg:grid-cols-[1fr_3fr]">
-          <div className="flex flex-col gap-7">
-            <div className="sm:max-w-34">
+      <div className="bg-footer text-background">
+        <div className="container grid gap-12 py-16 md:py-20 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,3fr)] lg:gap-16">
+          <div className="flex flex-col gap-6">
+            <div className="max-w-xs [&_img]:brightness-0 [&_img]:invert">
               <Image field={props.fields.Logo} />
             </div>
-            <RichText field={props.fields.Description} />
+            <RichText
+              field={props.fields.Description}
+              className="text-background/85 [&_a]:text-background text-sm leading-relaxed md:text-base [&_a]:underline"
+            />
           </div>
-          <div className="grid gap-13 sm:grid-cols-3 lg:grid-cols-5 lg:gap-5 xl:gap-12">
+          <div className="grid gap-10 sm:grid-cols-2 sm:gap-x-8 lg:grid-cols-5 lg:gap-6 xl:gap-10">
             {sections.map(({ key, title, content }) => (
               <div key={key}>
-                <div className="text-accent mb-8 text-lg font-bold">{title}</div>
-                <div className="space-y-4">{content}</div>
+                <div className="text-background mb-5 text-xs font-semibold tracking-[0.12em] uppercase">
+                  {title}
+                </div>
+                <div className="text-background/80 [&_a]:text-background/90 hover:[&_a]:text-accent space-y-3 text-sm [&_a]:transition-colors">
+                  {content}
+                </div>
               </div>
             ))}
           </div>
         </div>
       </div>
-      <div className="bg-background">
-        <div className="container flex items-center justify-between py-8.5 max-sm:flex-col max-sm:items-start max-sm:gap-10">
-          <div className="max-sm:order-2">
+      <div className="bg-footer-bottom border-t border-white/10">
+        <div className="text-background/65 container flex flex-col gap-6 py-8 text-sm md:flex-row md:items-center md:justify-between">
+          <div>
             <Text field={props.fields.CopyrightText} />
           </div>
-          <div className="flex items-center justify-between gap-20 max-lg:gap-10 max-sm:order-1 max-sm:flex-col max-sm:items-start max-sm:gap-5">
-            <Link field={props.fields.TermsText} className="hover:underline" />
-            <Link field={props.fields.PolicyText} className="hover:underline" />
+          <div className="flex flex-wrap items-center gap-x-10 gap-y-3">
+            <Link field={props.fields.TermsText} className="hover:text-accent transition-colors" />
+            <Link field={props.fields.PolicyText} className="hover:text-accent transition-colors" />
           </div>
         </div>
       </div>

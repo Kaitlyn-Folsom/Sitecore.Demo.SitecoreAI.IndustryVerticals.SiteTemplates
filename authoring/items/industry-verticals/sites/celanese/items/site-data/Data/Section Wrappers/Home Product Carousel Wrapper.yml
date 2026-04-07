@@ -17,7 +17,7 @@ Languages:
     - ID: "3d343ddf-0de2-41e7-8bf5-fadeafd484c7"
       Hint: Link
       Value: |
-        <link class="" querystring="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" anchor="" target="" title="" linktype="internal" text="View All" url="/industry-verticals/forma-lux/Home/Products" />
+        <link class="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" querystring="" anchor="" target="" title="" linktype="internal" text="View All" url="/industry-verticals/celanese/Home/Products" />
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,14 +28,14 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8997eaf5-0dea-43cc-8319-3793e289619d"
+      Value: "8c9291af-ba9e-4ae4-ba48-cff5ca379606"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260406T161508Z
+      Value: 20260407T124858Z
 - Language: "es-ES"
   Versions:
   - Version: 1
@@ -79,7 +79,7 @@ Languages:
     - ID: "3d343ddf-0de2-41e7-8bf5-fadeafd484c7"
       Hint: Link
       Value: |
-        <link class="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" querystring="" anchor="" target="" title="" linktype="internal" text="Ver todo" url="/industry-verticals/forma-lux/Home/Products" />
+        <link class="" querystring="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" anchor="" target="" title="" linktype="internal" text="Ver todo" url="/industry-verticals/celanese/Home/Products" />
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -90,7 +90,7 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9c894278-089f-4548-84e7-b8ba720ecdce"
+      Value: "fae101d9-3b71-4cd5-960b-e29957a8d5bc"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -103,7 +103,7 @@ Languages:
       Value: 
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260406T161508Z
+      Value: 20260407T124857Z
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -117,7 +117,7 @@ Languages:
     - ID: "3d343ddf-0de2-41e7-8bf5-fadeafd484c7"
       Hint: Link
       Value: |
-        <link class="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" querystring="" anchor="" target="" title="" linktype="internal" text="Voir tout" url="/industry-verticals/forma-lux/Home/Products" />
+        <link class="" querystring="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" anchor="" target="" title="" linktype="internal" text="Voir tout" url="/industry-verticals/celanese/Home/Products" />
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -128,7 +128,7 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d3057f08-9997-43ff-8190-495452b93855"
+      Value: "4402fc38-c2d3-4411-a58b-72389c2050ce"
     - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
       Hint: __Version Name
       Value: AI translated
@@ -138,7 +138,7 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260406T161508Z
+      Value: 20260407T124857Z
 - Language: "fr-FR"
   Versions:
   - Version: 1
@@ -152,7 +152,7 @@ Languages:
     - ID: "3d343ddf-0de2-41e7-8bf5-fadeafd484c7"
       Hint: Link
       Value: |
-        <link class="" querystring="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" anchor="" target="" title="" linktype="internal" text="Tout afficher" url="/industry-verticals/forma-lux/Home/Products" />
+        <link class="" id="4935EC42-09ED-42B2-AB31-1BBFC671ED07" querystring="" anchor="" target="" title="" linktype="internal" text="Tout afficher" url="/industry-verticals/celanese/Home/Products" />
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -163,11 +163,11 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5d52b0f4-8a5d-4d7b-aaac-c46bec780d44"
+      Value: "9f11a99c-84b4-4867-aaed-4ae0715f6cd3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260406T161508Z
+      Value: 20260407T124858Z

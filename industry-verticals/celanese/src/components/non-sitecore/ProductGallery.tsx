@@ -30,8 +30,8 @@ export const ProductGallery = ({ product }: ProductGalleryProps) => {
               onClick={() => setMainImageIndex(idx)}
               disabled={isActive}
               aria-label={`View image ${idx + 1}`}
-              className={`bg-background-muted focus:ring-accent size-15 overflow-hidden rounded focus:ring-2 focus:outline-none xl:size-18 ${
-                isActive ? 'cursor-not-allowed opacity-50' : 'hover:ring-accent hover:ring-2'
+              className={`bg-background-muted focus:ring-primary size-15 overflow-hidden rounded-sm focus:ring-2 focus:outline-none xl:size-18 ${
+                isActive ? 'cursor-not-allowed opacity-50' : 'hover:ring-primary hover:ring-2'
               }`}
             >
               <ContentSdkImage field={img} className="h-full w-full object-cover" />
