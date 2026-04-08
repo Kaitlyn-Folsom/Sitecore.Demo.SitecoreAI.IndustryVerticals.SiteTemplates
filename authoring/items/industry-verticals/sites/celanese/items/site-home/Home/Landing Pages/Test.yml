@@ -31,6 +31,12 @@ Languages:
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B130FD905-2FC7-4113-9D71-2DAC97AA8156%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="headless-main" />
             <r
+              uid="{E6DAA97E-2F85-42A1-A4AF-DA528DBCA1AF}"
+              p:after="r[@uid='{D754FEA1-E5C2-4FC2-90C2-C91BE948689B}']"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
               uid="{B1A8E3AF-3232-4AFE-98AD-2BBBDAF25F34}"
               p:after="*[1=2]"
               s:ds="8a58fd83-e213-4db5-b6aa-43509c5d3bf7"
@@ -58,11 +64,11 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "38ec1d9a-d7e1-4f25-ac01-aa1c796d0da3"
+      Value: "475ad72b-f719-43fa-a71f-e099588ab14c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260407T161649Z
+      Value: 20260407T205742Z

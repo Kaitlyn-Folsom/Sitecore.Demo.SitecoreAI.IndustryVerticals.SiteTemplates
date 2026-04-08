@@ -25,7 +25,7 @@ Languages:
     - ID: "1dec177a-1a9b-41cf-a60c-d89f28fa41e8"
       Hint: Description
       Value: |
-        <div class="ck-content"><p>Celanese commissions one of world’s largest carbon capture to chemicals projects; converts captured CO2 industrial emissions into low-carbon methanol.</p></div>
+        <div class="ck-content"><p><span style="color:hsl(0, 0%, 100%);">Celanese commissions one of world’s largest carbon capture to chemicals projects; converts captured CO2 industrial emissions into low-carbon methanol.</span></p></div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250904T165442Z
@@ -39,7 +39,7 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "de62f260-2b88-4c8c-a4ce-71da1c912b68"
+      Value: "531d4594-ef03-4b2a-88f7-30224cd15d2f"
     - ID: "985b877b-bfee-473e-aada-0a9f156dfecc"
       Hint: Title
       Value: Advancing sustainable solutions with Carbon Capture and Utilization
@@ -49,7 +49,7 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260407T160736Z
+      Value: 20260407T205618Z
     - ID: "e3c72e5d-cbf1-4af8-8a73-dc4d3c8590f3"
       Hint: CtaLink
       Value: |
