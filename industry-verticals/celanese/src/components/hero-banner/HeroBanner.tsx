@@ -89,7 +89,6 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
   const styles = params.styles || '';
   const withPlaceholder = styles.includes(HeroBannerStyles.WithPlaceholder);
   const reverseLayout = styles.includes(LayoutStyles.Reversed);
-  const screenLayer = styles.includes(HeroBannerStyles.ScreenLayer);
   const searchBarPlaceholderKey = `hero-banner-search-bar-${params.DynamicPlaceholderId}`;
 
   return (
@@ -97,12 +96,11 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
       <div className="relative z-10 w-full">
         <div className="container mx-auto px-4 py-10 md:py-14 lg:pt-30 lg:pb-0">
           <div
-            className={`flex min-h-64 w-full md:min-h-80 lg:min-h-96 lg:w-6/12 lg:items-center ${reverseLayout ? 'lg:mr-auto lg:ml-0' : 'lg:ml-0'}`}
+            className={`flex min-h-64 w-full md:min-h-80 lg:min-h-96 lg:w-6/12 lg:items-center ${reverseLayout ? 'lg:mr-auto' : 'lg:ml-auto'}`}
           >
             <div
               className={clsx(
-                'bg-brand-teal-deep text-background w-full max-w-xl border border-white/10 px-6 py-8 shadow-lg md:px-10 md:py-10 lg:max-w-3xl lg:shadow-xl',
-                { shim: screenLayer }
+                'bg-brand-teal-deep text-background w-full max-w-xl border border-white/10 px-6 py-8 shadow-lg md:px-10 md:py-10 lg:max-w-3xl lg:shadow-xl'
               )}
             >
               <h1 className="text-background text-left text-xl leading-[1.15] font-bold text-balance capitalize md:text-2xl lg:text-3xl">
@@ -120,7 +118,7 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
                   <>
                     <Link
                       field={fields.CtaLink}
-                      className="mr-3 flex items-center text-xl font-bold"
+                      className="mr-3 flex items-center text-xl font-bold text-white"
                     />
                     <div className="flex items-center gap-2 rounded-full border border-white bg-white p-2 text-black">
                       <svg
@@ -151,7 +149,6 @@ export const TopContent = ({ params, fields, rendering }: HeroBannerProps) => {
   const styles = params.styles || '';
   const withPlaceholder = styles.includes(HeroBannerStyles.WithPlaceholder);
   const reverseLayout = styles.includes(LayoutStyles.Reversed);
-  const screenLayer = styles.includes(HeroBannerStyles.ScreenLayer);
   const searchBarPlaceholderKey = `hero-banner-search-bar-${params.DynamicPlaceholderId}`;
 
   return (
@@ -162,16 +159,13 @@ export const TopContent = ({ params, fields, rendering }: HeroBannerProps) => {
             className={`flex w-full max-w-3xl flex-col items-center ${reverseLayout ? 'justify-end' : 'justify-start'}`}
           >
             <div
-              className={clsx(
-                'bg-brand-teal-deep text-background w-full border border-white/10 px-6 py-8 text-center shadow-lg md:px-12 md:py-10',
-                { shim: screenLayer }
-              )}
+              className={clsx('bg-brand-teal-deep w-full px-6 py-8 text-center md:px-12 md:py-10')}
             >
-              <h1 className="text-background text-xl leading-[1.15] font-bold capitalize md:text-2xl lg:text-2xl">
+              <h1 className="text-background text-xl font-bold capitalize md:text-2xl lg:text-2xl">
                 <ContentSdkText field={fields.Title} />
               </h1>
 
-              <div className="[&_a]:text-background mt-5 leading-relaxed text-white md:text-lg">
+              <div className="[&_a]:text-background mt-5 leading-relaxed md:text-lg">
                 <ContentSdkRichText field={fields.Description} className="text-center" />
               </div>
 
@@ -179,7 +173,26 @@ export const TopContent = ({ params, fields, rendering }: HeroBannerProps) => {
                 {withPlaceholder ? (
                   <Placeholder name={searchBarPlaceholderKey} rendering={rendering} />
                 ) : (
-                  <Link field={fields.CtaLink} className="arrow-btn hero-arrow-btn" />
+                  <>
+                    <Link
+                      field={fields.CtaLink}
+                      className="mr-3 flex items-center text-xl font-bold text-white"
+                    />
+                    <div className="flex items-center gap-2 rounded-full border border-white bg-white p-2 text-black">
+                      <svg
+                        stroke="currentColor"
+                        fill="currentColor"
+                        stroke-width="0"
+                        viewBox="0 0 24 24"
+                        height="1em"
+                        width="1em"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path fill="none" d="M0 0h24v24H0z"></path>
+                        <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"></path>
+                      </svg>
+                    </div>
+                  </>
                 )}
               </div>
             </div>

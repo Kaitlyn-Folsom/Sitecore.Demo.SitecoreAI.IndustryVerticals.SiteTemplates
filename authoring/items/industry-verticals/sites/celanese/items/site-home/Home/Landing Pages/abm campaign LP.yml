@@ -1,13 +1,13 @@
 ﻿---
-ID: "5198df2d-4ab0-4144-9196-f79b74e0a518"
+ID: "26a17177-6330-49be-94cc-0ae541f44874"
 Parent: "bc930344-b87f-4f46-9737-cb671193d58c"
 Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
-Path: "/sitecore/content/industry-verticals/celanese/Home/Landing Pages/Test"
+Path: "/sitecore/content/industry-verticals/celanese/Home/Landing Pages/abm campaign LP"
 SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{D519DEAD-0047-4515-A182-D727F8644CB6}" />
+    <image mediaid="{A353B7CC-4AB1-4238-BBAB-8418AED1AC39}" />
 Languages:
 - Language: en
   Versions:
@@ -24,36 +24,30 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{D754FEA1-E5C2-4FC2-90C2-C91BE948689B}"
+              uid="{58952582-2B43-448B-884D-B1400BC2E4EB}"
               p:before="*"
               s:ds="7f97cd31-0a13-441e-895a-20083215ccf4"
               s:id="{B49CF2D7-7CB2-4918-8F38-2607D956D995}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B130FD905-2FC7-4113-9D71-2DAC97AA8156%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B130FD905-2FC7-4113-9D71-2DAC97AA8156%7D&amp;Styles=%7C%7B1FE1F8C3-2292-4A64-81ED-B39F5631ED89%7D%7C%7B22A62A82-2043-42FA-8190-3D3EBA8E4A34%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
               s:ph="headless-main" />
             <r
-              uid="{E6DAA97E-2F85-42A1-A4AF-DA528DBCA1AF}"
-              p:after="r[@uid='{D754FEA1-E5C2-4FC2-90C2-C91BE948689B}']"
-              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
-              s:ph="headless-main" />
-            <r
-              uid="{B1A8E3AF-3232-4AFE-98AD-2BBBDAF25F34}"
+              uid="{1AF59302-AC51-43A3-ADC6-A0144EE84B59}"
               p:after="*[1=2]"
-              s:ds="8a58fd83-e213-4db5-b6aa-43509c5d3bf7"
+              s:ds="32b78a45-dc19-433b-8126-0281693ddfe2"
               s:id="{E3CCF1D0-7855-4898-8BDE-77F83C6A487C}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BFE66264C-81B1-47A5-B159-010726FE6677%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BF7EA058A-0B88-491C-B684-B2030BE9EA54%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
               s:ph="headless-main" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20260406T204638Z
+      Value: 20260408T194320Z
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Test
+      Value: abm campaign LP
     - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
       Hint: Title
-      Value: Test
+      Value: abm campaign LP
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -64,11 +58,11 @@ Languages:
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "475ad72b-f719-43fa-a71f-e099588ab14c"
+      Value: "ed3ca9af-0630-43f8-8ba2-8a755e019435"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260407T205742Z
+      Value: 20260409T152738Z

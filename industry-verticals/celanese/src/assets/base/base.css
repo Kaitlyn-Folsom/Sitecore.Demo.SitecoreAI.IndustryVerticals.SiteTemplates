@@ -41,7 +41,7 @@
   }
 
   p {
-    @apply font-body text-foreground-light;
+    @apply font-body;
   }
 
   button:not(:disabled),
@@ -69,3 +69,4 @@
     @apply [&::-webkit-scrollbar-thumb]:bg-foreground-muted [&::-webkit-scrollbar-track]:bg-background-surface [&::-webkit-scrollbar]:w-1 [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-track]:rounded-full;
   }
 }
+
