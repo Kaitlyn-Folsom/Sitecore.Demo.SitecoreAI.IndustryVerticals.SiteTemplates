@@ -18,13 +18,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{E094639E-A8B5-44F9-ACBA-4F7F58ADD916}" />
+    <image mediaid="{8E115E4C-D3DB-4229-9386-F060080771CF}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{CFC793C8-8C73-465C-B218-39709F961AD7}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "23fa50f2-3dd7-4e35-9415-5d616b6c18ab"
+  Value: "32a3e0dd-722e-40e6-9462-e53199244ab1"
 Languages:
 - Language: en
   Versions:
@@ -235,3 +235,56 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: Les Tables Lumina apportent harmonie et équilibre à tout espace, unissant forme et fonction par une élégante simplicité. Fabriqué à la main en chêne naturel avec des proportions raffinées et une finition satinée lisse, cet ensemble gigogne complète l'esthétique sereine de la Collection Lumina. Conçues pour la polyvalence et faites pour durer, les Tables Lumina incarnent la philosophie de Forma Lux — design intemporel, artisanat durable et beauté durable.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T094442Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: ルミナテーブル | Forma Luxの持続可能なネスティングテーブル
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: ナチュラルオークで作られたネスティングテーブルのペアで、ルミナコレクションの柔らかな形状と暖かいパレットを補完する多用途の表面を提供します。
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 632
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ルミナテーブル
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxの「ルミナテーブル」を発見してください。手作りのネスティングテーブルのペアで、タイムレスなシンプルさと持続可能な素材で設計されています。エレガントなプロポーション、ナチュラルオーク、そして永続的なクラフトマンシップが、このモダンな生活必需品を定義します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3f31964-2ecf-4742-a2fb-e4fdd74a59b1"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: ルミナテーブル
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154923Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: |
+        <div class="ck-content"><p>ルミナソファとチェアと調和するように設計されたルミナテーブルは、バランスとプロポーションの研究です。それぞれのテーブルは、持続可能に調達されたオーク材から手作りされ、木材の自然な特徴を引き立てるサテン仕上げが施されています。大きなコーヒーテーブルは日常生活に十分な表面を提供し、小さなサイドテーブルはソファや読書用チェアの横に機能的なエレガンスを加えます。一緒に使用することで、テクスチャーとリズムの層状の感覚を生み出し、控えめなセンターピースとしてルミナリビングスペースを完成させます。</p></div>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: ルミナテーブルは、エレガントなシンプルさを通じて形と機能を統一し、空間に調和とバランスをもたらします。ナチュラルオークで手作りされ、洗練されたプロポーションと滑らかなサテン仕上げを備えたこのネスティングセットは、ルミナコレクションの静かな美学を補完します。多用途性を念頭に設計され、長持ちするように作られたルミナテーブルは、Forma Luxの哲学—タイムレスなデザイン、持続可能なクラフトマンシップ、そして永続的な美しさ—を体現しています。

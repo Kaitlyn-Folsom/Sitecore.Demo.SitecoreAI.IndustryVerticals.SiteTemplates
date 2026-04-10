@@ -35,13 +35,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{0FEBF971-F04A-435D-8C30-25F8A2D08109}" />
+    <image mediaid="{1AAFC5F4-8DB3-449E-963D-A580C592B7EB}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{8558CEC5-DB76-4946-B7E6-A0D56300FE51}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "82377aee-cd08-46a3-81a3-4e0acfc0e801"
+  Value: "eea3880d-10db-456e-983f-69126f36da69"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -275,3 +275,58 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: La forme pure, les matériaux honnêtes et le confort durable définissent le Lit Plateforme Siena. Avec sa silhouette basse et sa géométrie précise, Siena reflète l'esthétique moderne de Forma Lux—une simplicité élevée ancrée dans l'artisanat. Le cadre en bois massif offre intégrité structurelle et élégance, tandis que la base à lattes assure un soutien respirant. Disponible en noir et en tailles petite, moyenne ou grande, Siena transforme le design minimaliste en un rituel quotidien de calme et de confort.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130117Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: シエナプラットフォームベッド | Forma Lux – ミニマリスト低プロファイル木製ベッド
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: 低プロファイルデザインのミニマリストプラットフォームベッド
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: シエナプラットフォームベッド、ミニマリストベッド、低プロファイルベッド、無垢材フレーム、モダンプラットフォームベッド、スラットベースベッド、コンテンポラリーベッドルーム家具、Forma Luxショップ
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 899.5
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: シエナプラットフォームベッド
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: 洗練されたシンプルさを体験できるForma Luxのシエナプラットフォームベッド。無垢材で作られたこのベッドは、ミニマルな低プロファイルデザインとスラットベースが、時代を超えた形と長持ちするサポートを提供します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b64d1e5d-c6b3-4e87-99a6-d1b2725fd46a"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: シエナプラットフォームベッド
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154854Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>シエナプラットフォームベッドは、クリーンなラインと無垢材のフレームを特徴としており、モダンなインテリアに最適です。その低プロファイルデザインはボックススプリングを必要とせず、スラットベースは優れたマットレスサポートを提供します。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 純粋な形、正直な素材、そして持続的な快適さがシエナプラットフォームベッドを定義します。その低いシルエットと正確な幾何学は、Forma Luxのモダンな美学を反映しています—クラフトマンシップに根ざした洗練されたシンプルさ。無垢材のフレームは構造的な完全性とエレガンスを提供し、スラットベースは通気性のあるサポートを保証します。ブラックで利用可能で、小、中、大のサイズがあります。シエナはミニマリストデザインを日々の穏やかで快適な儀式に変えます。

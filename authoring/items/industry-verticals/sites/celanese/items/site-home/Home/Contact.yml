@@ -8,16 +8,19 @@ SharedFields:
   Hint: ogImage
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76688-LandingPageHero-2000x600?v=5a4a1047" dam-id="vO0C-1weQUe3O7K76Emhdg" width="2000" height="600" alt="contact-meta.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76688/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 800
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{B1A3362A-2DD6-48AD-A140-9DB3F2CE8FCE}" />
+    <image mediaid="{C79878DD-56DC-4561-93B9-0794F492E9DD}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "fcf155ff-b2af-4c9f-b5f9-1e64f0119304"
+  Value: "f55e0815-7830-48d1-a93b-d5c54540646c"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -268,3 +271,50 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260406T161742Z
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250828T111343Z
+    - ID: "32c603c2-c858-4138-8fcb-8e18a5ad8240"
+      Hint: metadataTitle
+      Value: Forma Luxへのお問い合わせ – 高級家具に関するご相談
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: お問い合わせ
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: お問い合わせ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "581d7a02-ce94-4a73-9add-258867a8b60f"
+      Hint: Content
+      Value: |
+        <p style="text-align:center;"><meta charset="utf-8" /><span style="white-space:pre-wrap;">コンテンツを公開し、広告を掲載するためにお問い合わせください。</span></p><p style="text-align:center;"><span style="white-space:pre-wrap;">当ウェブサイトでの掲載により、幅広いリーチを獲得できます。</span></p><p style="text-align:center;">&nbsp;</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "6b43d550-6d5f-46ce-ac84-3d9493c45bc6"
+      Hint: metadataDescription
+      Value: Forma Luxにお問い合わせいただき、デザイン相談、オーダーメイド家具のソリューション、またはコレクションや販売店についてご確認ください。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3033f8d8-cacc-495b-a876-54c8499e0e5a"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154551Z

@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/living-room?v=aad40696" dam-id="dm0wrujJQ1e_uSKLhI8s8w" width="1024" height="683" alt="zac-gudakov-nhfggqH6J6A-unsplash.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/69210/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{06F96779-22F1-4B11-A598-F3109F9925CC}" />
+    <image mediaid="{1DDDA580-CA38-421E-88DF-60153915F2C2}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "c559efa1-7f04-4e42-b701-044a543a6b5d"
+  Value: "5fe3ffc5-6ba6-427a-b223-f1b39c9bb2a2"
 Languages:
 - Language: en
   Fields:
@@ -267,3 +270,68 @@ Languages:
       Hint: metadataKeywords
       Value: |
         espace de salle à manger moderne, conseils de conception de salle à manger, idées de table à manger, table à manger aux lignes épurées, meubles de salle à manger durables, table à manger extensible, chaises de salle à manger confortables, chaises à profil mince, chaises avec revêtement de qualité, chaises en matériau de coque, hauteur d'éclairage de salle à manger, ambiance de salle à manger, idées de tapis de salle à manger, tapis adoucissant l'acoustique, accessoires de salle à manger minimalistes, décoration de bol sculptural, chemin de table simple, art de salle à manger, décoration de salle à manger moderne, concept de salle à manger "rassemblez-vous", idées de salle à manger familiale, espace de salle à manger pour dîner entre amis
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "463934d8-53b1-473a-b68e-5c236f1a0c49"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ダイニングデザインの正解 家の中心にふさわしいモダンな家具
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: 食事は単なる食事ではなく、思い出を形作るものです。スペースに合ったテーブルから始めましょう：クリーンなライン、耐久性のある素材、拡張可能なスペースを備えたものを選びます。次に、快適でありながら洗練された椅子を組み合わせます—スリムなプロファイル、高品質の張り地またはシェル素材。照明はテーブルの上30〜36インチの高さに配置し、最適な雰囲気を作り出します。エリアを固定し、音響を和らげるためにラグを追加します。アクセサリーは最小限に抑えましょう—彫刻的なボウル、シンプルなランナー、アート作品など、意味のあるものを選びます。目標は、家族のピザナイトや友人との6人のディナーなど、「集まる」ことを感じさせるモダンなダイニングスペースを作ることです。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T084006Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 完璧なソファの選び方
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p><span style="background-color:rgb(255,255,255);color:rgb(80,80,80);"><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Manrope, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">食事は単なる食事ではなく、思い出を形作るものです。スペースに合ったテーブルから始めましょう：クリーンなライン、耐久性のある素材、拡張可能なスペースを備えたものを選びます。次に、快適でありながら洗練された椅子を組み合わせます—スリムなプロファイル、高品質の張り地またはシェル素材。照明はテーブルの上30〜36インチの高さに配置し、最適な雰囲気を作り出します。エリアを固定し、音響を和らげるためにラグを追加します。アクセサリーは最小限に抑えましょう—彫刻的なボウル、シンプルなランナー、アート作品など、意味のあるものを選びます。目標は、家族のピザナイトや友人との6人のディナーなど、「集まる」ことを感じさせるモダンなダイニングスペースを作ることです。</span></span></p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: |
+        日常とエンターテイメントのための洗練された魅力的なステージにダイニングエリアを変えましょう。
+        
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: 食事は単なる食事ではなく、思い出を形作るものです。スペースに合ったテーブルから始めましょう：クリーンなライン、耐久性のある素材、拡張可能なスペースを備えたものを選びます。次に、快適でありながら洗練された椅子を組み合わせます—スリムなプロファイル、高品質の張り地またはシェル素材。照明はテーブルの上30〜36インチの高さに配置し、最適な雰囲気を作り出します。エリアを固定し、音響を和らげるためにラグを追加します。アクセサリーは最小限に抑えましょう—彫刻的なボウル、シンプルなランナー、アート作品など、意味のあるものを選びます。目標は、家族のピザナイトや友人との6人のディナーなど、「集まる」ことを感じさせるモダンなダイニングスペースを作ることです。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0198ae92-2253-4cf8-93bf-7d2380cf967a"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: ダイニングデザインの正解：家の中心にふさわしいモダンな家具
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154641Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: ダイニングデザインの正解 家の中心にふさわしいモダンな家具
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: モダンダイニングスペース, ダイニングルームデザインのヒント, ダイニングテーブルのアイデア, クリーンラインのダイニングテーブル, 耐久性のあるダイニング家具, 拡張可能なダイニングテーブル, 快適なダイニングチェア, スリムプロファイルチェア, 高品質の張り地チェア, シェル素材チェア, ダイニング照明の高さ, ダイニングルームの雰囲気, ダイニングラグのアイデア, 音響を和らげるラグ, ミニマルなダイニングアクセサリー, 彫刻的なボウルの装飾, シンプルなテーブルランナー, ダイニングルームアート, モダンダイニングデコール, 集まるダイニングコンセプト, 家族のダイニングアイデア, ディナーパーティーダイニングスペース

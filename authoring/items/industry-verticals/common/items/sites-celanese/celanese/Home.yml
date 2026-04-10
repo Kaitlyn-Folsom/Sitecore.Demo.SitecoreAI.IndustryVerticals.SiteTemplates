@@ -19,6 +19,9 @@ SharedFields:
   Hint: ogImage
   Value: |
     <image mediaid="8e1bd00c-a189-45a6-be68-f47593abed5e" alt="Logo_Celanese" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 0
@@ -28,7 +31,7 @@ SharedFields:
     <image mediaid="{84F8107F-EF13-420B-990B-C6E5760B8C90}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "038789e5-526f-4c3c-8d36-3057993e96a3"
+  Value: "d554a6f5-2ac1-462d-8d91-fd561feece11"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -500,3 +503,208 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260406T161706Z
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "7f40cb94-00b9-4dde-9f9b-c756541f40da"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AE225B7C-0876-4FAE-A959-B3AFC8E0E91B}"
+              s:par="FieldNames=%7B130FD905-2FC7-4113-9D71-2DAC97AA8156%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B9671DF43-E1AC-4747-BF18-7FB633281F75%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{370D5139-72A6-4D18-8D03-97FB33B22765}"
+                    s:name="77f402dee1d7433f9ad0cebb6ed39e4b">
+                    <conditions>
+                      <condition
+                        uid="839F8B6D3BF740619FE1F33B84377AF4"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="77f402dee1d7433f9ad0cebb6ed39e4b" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{0EFA3746-2DD7-4292-BB52-8E31AF2DD056}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="baa4eaa4-806a-4228-a9c7-24851bc75cb2" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{BFD6B105-CC4B-4A5B-8A8D-BB6D545733AF}"
+                    s:name="5be1ce8b0c0d489f833f872dcbd76684">
+                    <conditions>
+                      <condition
+                        uid="23E93AD3D5F043459C6B2B42BAFC2904"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="5be1ce8b0c0d489f833f872dcbd76684" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{AB98A5B7-FFC0-4DE4-B685-9BF059598C98}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="74eeccb5-78ab-48a4-82a4-2d3eaf2880ae" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{961F0AB0-A481-49A0-B109-24E8BA52A08D}"
+                    s:name="74d61166fb0e4362a491eeabb1519582">
+                    <conditions>
+                      <condition
+                        uid="1B8BB3E45C774AF3B0AEA688FDCAAEAD"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="74d61166fb0e4362a491eeabb1519582" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{C69A8562-EFD0-435D-8324-404829A73F85}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="16481848-F238-43CF-8EE3-A57853347645" />
+                      <action
+                        uid="{280643A5-7F8D-481F-A64D-5B390AB1E8FD}"
+                        s:id="{525C7B5A-8FD2-4B99-89F6-4F3F6D23BB02}"
+                        s:Parameters="FieldNames=%7B19981920-23CD-4E4B-B3CE-97F40739142F%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B9671DF43-E1AC-4747-BF18-7FB633281F75%7D%7C%7B35F49206-DCE1-421D-B7E2-C98891CD74F0%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7BE25B16F8-81E2-443F-B4B0-500E08F42815%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="A7F651136DD6404EA5FBB81AFC4CAADA"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{335D3948-776E-4A8D-B9AC-60E7FE730DC9}">
+              <p:d />
+            </r>
+            <r
+              uid="{9E9A7694-8CBD-488D-90F8-C88AE51B223A}">
+              <p:d />
+            </r>
+            <r
+              uid="{D362D8F7-42C9-488A-BE41-4E79A8C3868A}">
+              <p:d />
+            </r>
+            <r
+              uid="{5C245F3E-D832-4ED3-8DBB-88ABAB16ABC0}">
+              <p:d />
+            </r>
+            <r
+              uid="{1B086346-531C-4C41-BC73-5CF1F0CFF9D0}">
+              <p:d />
+            </r>
+            <r
+              uid="{AAF0D7B4-60E9-4C86-9EEB-901A9FC4B2AC}">
+              <p:d />
+            </r>
+            <r
+              uid="{F827819F-D3D3-4FBD-8BAF-87D769468B06}">
+              <p:d />
+            </r>
+            <r
+              uid="{D208AC42-DFB1-49D3-87F4-DDF7006DAA69}">
+              <p:d />
+            </r>
+            <r
+              uid="{F57656C8-E3F9-4BFC-87A9-EA4FF7627A02}"
+              s:par="FieldNames=%7BA8E7C0A3-5224-4A2E-B217-5D3076CEDBCB%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B35F49206-DCE1-421D-B7E2-C98891CD74F0%7D%7C%7B1FE1F8C3-2292-4A64-81ED-B39F5631ED89%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D" />
+            <r
+              uid="{3322063A-EBC7-4FE5-B3B2-0E084039FC58}"
+              p:after="r[@uid='{F57656C8-E3F9-4BFC-87A9-EA4FF7627A02}']" />
+            <r
+              uid="{99E14E1F-8EE8-4417-8D60-517331E1D331}"
+              p:after="r[@uid='{3322063A-EBC7-4FE5-B3B2-0E084039FC58}']"
+              s:ds="local:/Data/Image 2"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B587A649D-8A2C-4120-A4A9-33E35E2C2B24%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=21"
+              s:ph="headless-main" />
+            <r
+              uid="{C30C0496-2855-442E-B969-F057DE7492E9}"
+              p:after="r[@uid='{99E14E1F-8EE8-4417-8D60-517331E1D331}']" />
+            <r
+              uid="{ED5725EF-03DF-4D4F-BE30-78265C5A7D4F}">
+              <p:d />
+            </r>
+            <r
+              uid="{8ABC8A08-490F-45DC-831B-27150008D7B7}"
+              p:after="r[@uid='{954AADCA-FC91-45B3-BB1D-21D3462F0236}']"
+              s:id="{00000000-0000-0000-0000-000000000000}"
+              s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=19" />
+            <r
+              uid="{992CC2E9-6AEB-47DB-B026-D34EFC1B70FE}"
+              p:after="r[@uid='{8ABC8A08-490F-45DC-831B-27150008D7B7}']"
+              s:id="{00000000-0000-0000-0000-000000000000}"
+              s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D" />
+            <r
+              uid="{7E4A255E-D757-405E-9D70-15FFF45C1AAA}"
+              p:after="*[1=2]"
+              s:id="{00000000-0000-0000-0000-000000000000}"
+              s:par="FieldNames=%7BAD2D1085-182A-49AB-866C-3D927763D65D%7D&amp;HideShapes=0&amp;Reversed=1&amp;RenderingIdentifier&amp;ShowMultipleImages=1&amp;Styles=%7C%7BCDEF037E-24A1-4E7F-A5E0-F939845C4D49%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;HideQuote&amp;DynamicPlaceholderId=3&amp;HideCurveLine=0&amp;HideShadows=0" />
+          </d>
+        </r>
+    - ID: "13fe722e-a8c7-4432-a983-23fb28ffab05"
+      Hint: metadataKeywords
+      Value: 高級家具、手作りモジュラーソファ、持続可能な家具、モダンデザイン
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250820T091624Z
+    - ID: "32c603c2-c858-4138-8fcb-8e18a5ad8240"
+      Hint: metadataTitle
+      Value: "セラニーズ - デモ"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ホーム
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: セラニーズ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "6b43d550-6d5f-46ce-ac84-3d9493c45bc6"
+      Hint: metadataDescription
+      Value: Forma Luxの豪華な家具コレクションをご覧ください。伝統的な職人技と現代的で持続可能なデザインが融合し、エレガントな生活空間を実現します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dec1c028-20cd-4fa6-99d4-c0a973103529"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d3886445-9ee0-46a0-ae5e-8857dd6b395f"
+      Hint: pageSummary
+      Value: Forma Luxは、職人の伝統と現代的なデザインを融合させ、エレガントで快適な空間を実現するモジュラーで持続可能な家具を提供します。
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154539Z

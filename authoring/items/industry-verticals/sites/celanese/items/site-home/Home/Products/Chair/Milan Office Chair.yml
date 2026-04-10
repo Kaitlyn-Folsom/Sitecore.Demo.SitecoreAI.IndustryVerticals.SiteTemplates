@@ -39,13 +39,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{7ED9BB73-A34E-43D0-A17B-40B40ECB2A78}" />
+    <image mediaid="{285714E6-68E4-464A-903E-15C625ECA23C}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{7C46D87F-C0DE-4E19-AD02-C903C3CF4240}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "855424fb-cc6a-409f-ad91-4322f7227260"
+  Value: "ced1615e-bb6b-49d0-9567-7b0083de2ef7"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -279,3 +279,58 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: Conçue pour la productivité et l'élégance, la chaise de bureau Milan illustre la philosophie de Forma Lux de confort intelligent. Ses caractéristiques ajustables, y compris la hauteur, l'inclinaison et les accoudoirs, créent une expérience ergonomique personnalisée, tandis que le dossier en maille respirante améliore la circulation de l'air pour de longues heures de concentration. Disponible en noir, or et blanc, et en tailles moyenne, grande et extra grande, Milan transforme tout espace de travail en un environnement raffiné d'équilibre, de performance et de design contemporain.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T125528Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: ミランオフィスチェア | Forma Lux – 調整可能なデザインのエルゴノミクスオフィスチェア
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: 調整可能な機能を備えたモダンなエルゴノミクスオフィスチェア
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: ミランオフィスチェア、エルゴノミクスオフィスチェア、調整可能なデスクチェア、モダンなワークスペース家具、メッシュオフィスチェア、Forma Luxショップ、ラグジュアリーオフィスシーティング
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 229.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ミランオフィスチェア
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxのミランオフィスチェアは、エルゴノミクス機能とモダンなエレガンスを融合させています。調整可能な高さ、傾斜、アームレストが個別の快適さを提供し、通気性のあるメッシュバックが涼しさと集中力を保ちます。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9706ed8-7b8d-44a9-b3c1-45ee38a034bd"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: ミランオフィスチェア
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154923Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>ミランオフィスチェアは、洗練されたデザインと機能性を兼ね備えています。調整可能な高さ、傾斜、アームレストを備え、長時間の作業中も最大の快適さを提供します。通気性のあるメッシュバックが空気の流れを促進し、涼しさと集中力を保ちます。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 生産性と優雅さのために設計されたミランオフィスチェアは、Forma Luxの知的快適さの哲学を体現しています。高さ、傾斜、アームレストを含む調整可能な機能がカスタマイズされたエルゴノミクス体験を提供し、通気性のあるメッシュバックが長時間の集中のために空気の流れを向上させます。ブラック、ゴールド、ホワイトのカラーで、中型、大型、特大サイズで利用可能なミランは、どんなワークスペースもバランス、パフォーマンス、現代的なデザインの洗練された環境に変えます。

@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76482-HomePageHero-2000x800?v=557dc5cc" dam-id="BcW8636eTdGkiQprINl2kg" width="2000" height="800" alt="sustainable-style-modern-furniture-article.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76482/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{22F7CA2F-D504-4C4E-9116-9B77770E8DA8}" />
+    <image mediaid="{DFC6D086-0192-44DD-95F2-2FF3A0B29002}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "b02c9c43-c7fe-4cd3-9d7d-80359b0a0ba0"
+  Value: "b7b59d58-5391-42cd-8ae7-0248b9a8249b"
 Languages:
 - Language: en
   Fields:
@@ -257,3 +260,66 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: "conception de meubles durables, choix de meubles écologiques, bois issu de sources responsables, finitions à faible teneur en COV, meubles en métal recyclé, textiles durables, tissus certifiés durables, meubles modernes durables, honnêteté des matériaux dans le design, simplicité dans la conception de meubles, construction de meubles durables, assemblages de haute qualité, investissement dans des meubles durables, conception de maison réduisant les déchets, philosophie acheter moins acheter bien, décoration intérieure durable, production de meubles éthiques, tendances de design d'intérieur vertes, idées de meubles éco-conscients, vie moderne éco-responsable"
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "dfc943d8-7eb9-4324-becf-77535118081e"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 持続可能なスタイル：地球に優しいモダン家具
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: 家具を選ぶ際に、見た目が良いだけでなく、環境にも良いものを選ぶ方法を発見してください。責任を持って調達された木材、低VOC仕上げ材、リサイクル素材、耐久性のある構造を探求し、スタイリッシュで持続可能な住まいを実現しましょう。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T082739Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 持続可能なスタイル
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>より多くの消費者が、見た目が良いだけでなく、環境にも良い家具を選ぶようになっています。責任を持って調達された木材、低VOC仕上げ材、リサイクル金属、持続可能性が認証された繊維で作られた家具を探してください。モダンデザインは理想的な組み合わせです：素材の誠実さとシンプルさへの強調が、持続可能に作られた家具に美しくフィットします。頑丈な構造—高品質な接合技術、耐久性のある素材—を選ぶことで、投資が長持ちします。「少なく買い、良いものを買う」ことで廃棄物を減らすことができます。その結果、あなたの価値観とスタイルを同時に反映する住まいが実現します。</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: グリーンデザインは見た目を妥協することを意味しません—エコフレンドリーな素材と方法を探求してください。
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: 家具を選ぶ際に、見た目が良いだけでなく、環境にも良いものを選ぶ方法を発見してください。責任を持って調達された木材、低VOC仕上げ材、リサイクル素材、耐久性のある構造を探求し、スタイリッシュで持続可能な住まいを実現しましょう。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7144eb45-2375-4832-a194-6018bb7a0c62"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: 持続可能なスタイル：地球に優しいモダン家具
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154704Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: 持続可能な家具選び：あなたの価値観を反映するモダンデザイン
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: 持続可能な家具デザイン、エコフレンドリーな家具選び、責任を持って調達された木材、低VOC仕上げ材、リサイクル金属家具、持続可能な繊維、認証済み持続可能な生地、モダンな持続可能な家具、デザインにおける素材の誠実さ、家具デザインのシンプルさ、耐久性のある家具構造、高品質な接合技術、長持ちする家具投資、廃棄物を減らす住まいのデザイン、「少なく買い、良いものを買う」哲学、持続可能なホームデコール、倫理的な家具生産、グリーンインテリアデザイントレンド、エコ意識の家具アイデア、モダンなエコフレンドリーな生活

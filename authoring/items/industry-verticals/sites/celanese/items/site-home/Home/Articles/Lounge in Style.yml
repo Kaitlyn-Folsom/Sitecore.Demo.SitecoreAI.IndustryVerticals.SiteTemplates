@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76512-LandingPageHero-2000x600?v=5b04c6d0" dam-id="nlrOdwl9RkOdpH24S81uag" width="2000" height="600" alt="classic.webp" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76512/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{9AD0C966-75A6-453A-9E62-CB574F8AD598}" />
+    <image mediaid="{41016A66-56BC-4B11-A446-F03AE2B2B1F7}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "e79d993f-54cb-4e01-ab60-a37d1140f691"
+  Value: "84e23250-f117-41fd-985c-372245fa0741"
 Languages:
 - Language: en
   Fields:
@@ -259,3 +262,68 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: design de canapé moderne, guide des tailles de canapé, idées de configuration de canapé, conseils pour canapé sectionnel, disposition de canapé simple, design de deux canapés face à face, canapés en tissu performant, canapé en cuir pleine fleur, matériaux de canapé intemporels, style de canapé à profil bas, design de canapé à accoudoirs épurés, canapé à base apparente, sièges de salon modernes, conseils de style pour canapé, coussins en texture contrastante, plaids décoratifs pour canapés, association de table basse moderne, idées de disposition de salon, concept de canapé héros du design, tendances de canapé contemporain
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "ecb52315-c1d9-46fa-a4a3-2fc08bc91f80"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: スタイリッシュにくつろぐ：空間に合ったモダンソファの選び方
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: 理想的なモダンソファを選ぶ方法を学びましょう。サイズ、配置、布地の選択、そしてクッション、スロー、コーヒーテーブルを使ったスタイリングのヒントを探求して、ソファをデザインの主役にしましょう。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T084006Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 完璧なソファの選び方
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p><span style="background-color:rgb(255,255,255);color:rgb(80,80,80);"><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Manrope, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">ソファはリビングスペースの中心です—だからこそ正しく選びましょう。まずサイズから始めましょう：壁際に置く場合は少なくとも30インチから36インチのスペースを確保し、周囲に通路を作りましょう。次に配置を決定します：シングルソファ、2つのソファの対面、セクショナル...ライフスタイルに合ったものを選びましょう。布地の選択も重要です—家族向けにはパフォーマンスファブリック、タイムレスな魅力にはフルグレインレザー。モダンなスタイルでは低プロファイル、クリーンなアーム、露出したベースや脚が好まれます。その後はレイヤリング：コントラストのあるテクスチャのクッションをいくつか、暖かさを加えるスロー、そしてエリアを完成させる低いコーヒーテーブル。慎重に選べば、ソファはただの座席ではなく、デザインの主役になります。</span></span></p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: |
+        スケールから布地まで、ソファ選びを完璧にする方法をご紹介します。
+        
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: 理想的なモダンソファを選ぶ方法を学びましょう。サイズ、配置、布地の選択、そしてクッション、スロー、コーヒーテーブルを使ったスタイリングのヒントを探求して、ソファをデザインの主役にしましょう。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "856148d0-318d-4229-892a-674d3707f9ec"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: スタイリッシュにくつろぐ：空間に合ったモダンソファの選び方
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154703Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: スタイリッシュにくつろぐ：空間に合ったモダンソファの選び方
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: モダンソファデザイン、ソファサイズガイド、ソファ配置アイデア、セクショナルソファのヒント、シングルソファレイアウト、2つのソファ対面デザイン、パフォーマンスファブリックソファ、フルグレインレザーソファ、タイムレスなソファ素材、低プロファイルソファスタイル、クリーンアームソファデザイン、露出ベースソファ、モダンなリビングルームの座席、ソファスタイリングのヒント、コントラストテクスチャクッション、ソファ用装飾スロー、モダンなコーヒーテーブルの組み合わせ、リビングルームレイアウトアイデア、デザインヒーローソファコンセプト、コンテンポラリーソファトレンド

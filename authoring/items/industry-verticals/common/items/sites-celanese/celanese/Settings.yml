@@ -46,10 +46,10 @@ SharedFields:
   Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
 - ID: "d0ce707c-342f-4c02-ac0a-edb21346dde4"
   Hint: SupportedLanguages
-  Value: af58419145c9420187405409f4cf8bdd|18959c3876954d4e8475a37a226b5e49|e28229459ebe42c2956ace34ddc847bf|c1a17a0375c34f12889e80b72c46ada2
+  Value: c1a17a0375c34f12889e80b72c46ada2|af58419145c9420187405409f4cf8bdd|18959c3876954d4e8475a37a226b5e49|e28229459ebe42c2956ace34ddc847bf|9f6096a29b0d4d1b9eccaf47ed50cda7
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "dd12ed65-27a9-4f2f-a7b2-4fcd89f33269"
+  Value: "fa92ebae-81e3-42f0-8b3b-18080dcb4c2a"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
   Value: "{5FDD8C61-B5A8-4F0C-B855-5ED157ED470D}"
@@ -77,14 +77,14 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "78845cb6-1de2-4b19-acc1-a384ea4a75a6"
+      Value: "282f9547-f5c8-47ff-bfab-273ea28aec86"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\kaitlyn.folsom@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260408T194919Z
+      Value: 20260410T154318Z
 - Language: "es-ES"
   Versions:
   - Version: 1
@@ -147,3 +147,41 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260406T161550Z
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "76f1fdc6-f6da-47c7-a887-c587a034908a"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250820T091625Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\neli.kostadinova@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71ce2ae0-0a97-460b-abb0-217fd0e02645"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9cbc4d47-1608-4a43-ac9c-6eb461fe58f5"
+      Hint: ComponentEditorScript
+      Value: "https://feaasstatic.blob.core.windows.net/packages/page-extension/latest/page.js"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154540Z

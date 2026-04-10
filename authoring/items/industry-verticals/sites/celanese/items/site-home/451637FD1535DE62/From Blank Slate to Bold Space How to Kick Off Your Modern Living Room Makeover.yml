@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/c2f4307295744911a58659791d759fc4?v=e5ef8d66" dam-id="M-NIE4yuSDSZ9ZUu_ZE5hw" width="1024" height="600" alt="color-conf.webp" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76496/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{9F6AD5A0-75F6-4E2B-8448-F40AE32F33E2}" />
+    <image mediaid="{2F6C6B61-01B5-46F4-94C5-0A9E8035538E}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "ad4fc50d-fe95-4d2a-9a0a-b5bbfc6bbc31"
+  Value: "80315df5-ac99-4f3c-b3d2-7605f6d10813"
 Languages:
 - Language: en
   Fields:
@@ -263,3 +266,68 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: salon moderne, mobilier moderne, design de salon, décoration intérieure, inspiration de design d'intérieur, canapé d'angle élégant, palette de couleurs audacieuses, table basse architecturale, lignes épurées, tapis géométrique, accessoires sculpturaux, textiles doux, tons de bois chauds, finitions métalliques froides, surfaces brillantes, surfaces mates, équilibre du mobilier, superposition de textures, décoration de caractère, style de maison personnalisé, espace de vie contemporain, design de pièce aérée
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f7c36690-fba8-4d85-8604-5ae58a138780"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 白紙の状態から大胆な空間へ モダンなリビングルーム改造の始め方
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: だから、リビングルームは機能しているけれど、インスピレーションを与えるものではない。今日、それが変わります。まずは目を引く1つのアイテムを選ぶことから始めましょう。たとえば、大胆な色のスリックなセクショナルソファや、クリーンなラインを持つ建築的なコーヒーテーブル。そのアイテムを基調にパレットを決めます。そして、コントラストを重ねていきます。柔らかいテキスタイル、彫刻的なアクセサリー、幾何学模様のラグを取り入れましょう。バランスが重要です。暖かみのある木のトーンとクールな金属の仕上げを組み合わせたり、光沢のある表面とマットな表面をミックスしたりします。そしてスケールを忘れないでください。大きな家具は快適さを招きますが、空間を開けておくことで軽やかさを保てます。最後に、個性を加えましょう。意味のあるオブジェ、珍しいアートピース、または個性的な植物を追加します。その結果、あなたのスタイルを反映し、モダンな気分にさせるリビングスペースが完成します。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T084006Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 完璧なソファを選ぶ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p><span style="background-color:rgb(255,255,255);color:rgb(80,80,80);"><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Manrope, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">だから、リビングルームは機能しているけれど、インスピレーションを与えるものではない。今日、それが変わります。まずは目を引く1つのアイテムを選ぶことから始めましょう。たとえば、大胆な色のスリックなセクショナルソファや、クリーンなラインを持つ建築的なコーヒーテーブル。そのアイテムを基調にパレットを決めます。そして、コントラストを重ねていきます。柔らかいテキスタイル、彫刻的なアクセサリー、幾何学模様のラグを取り入れましょう。バランスが重要です。暖かみのある木のトーンとクールな金属の仕上げを組み合わせたり、光沢のある表面とマットな表面をミックスしたりします。そしてスケールを忘れないでください。大きな家具は快適さを招きますが、空間を開けておくことで軽やかさを保てます。最後に、個性を加えましょう。意味のあるオブジェ、珍しいアートピース、または個性的な植物を追加します。その結果、あなたのスタイルを反映し、モダンな気分にさせるリビングスペースが完成します。</span></span><em style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border:0px solid rgb(232, 232, 232);box-sizing:border-box;color:rgb(80, 80, 80);font-family:Manrope, sans-serif;font-size:18px;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;max-width:100%;orphans:2;padding:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;" data-start="1248" data-end="1254"><em>気分に</em></em><span style="background-color:rgb(255,255,255);color:rgb(80,80,80);"><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Manrope, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">させるモダン。</span></span></p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: |
+        疲れた中立的な部屋を、いくつかの賢い工夫でキュレーションされたモダンな空間に変えましょう。
+        
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: だから、リビングルームは機能しているけれど、インスピレーションを与えるものではない。今日、それが変わります。まずは目を引く1つのアイテムを選ぶことから始めましょう。たとえば、大胆な色のスリックなセクショナルソファや、クリーンなラインを持つ建築的なコーヒーテーブル。そのアイテムを基調にパレットを決めます。そして、コントラストを重ねていきます。柔らかいテキスタイル、彫刻的なアクセサリー、幾何学模様のラグを取り入れましょう。バランスが重要です。暖かみのある木のトーンとクールな金属の仕上げを組み合わせたり、光沢のある表面とマットな表面をミックスしたりします。そしてスケールを忘れないでください。大きな家具は快適さを招きますが、空間を開けておくことで軽やかさを保てます。最後に、個性を加えましょう。意味のあるオブジェ、珍しいアートピース、または個性的な植物を追加します。その結果、あなたのスタイルを反映し、モダンな気分にさせるリビングスペースが完成します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a11b65d6-4ae7-41e9-8b32-dc47f3f7dfd5"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: 白紙の状態から大胆な空間へ：モダンなリビングルーム改造の始め方
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154641Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: 白紙の状態から大胆な空間へ：モダンなリビングルーム改造の始め方
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: モダンなリビングルーム、モダンな家具、リビングルームデザイン、ホームデコレーション、インテリアデザインのインスピレーション、スリックなセクショナルソファ、大胆なカラーパレット、建築的なコーヒーテーブル、クリーンなライン、幾何学模様のラグ、彫刻的なアクセサリー、柔らかいテキスタイル、暖かみのある木のトーン、クールな金属の仕上げ、光沢のある表面、マットな表面、家具のバランス、テクスチャのレイヤリング、ステートメントデコレーション、個性あふれるホームスタイル、現代的なリビングスペース、軽やかな部屋のデザイン

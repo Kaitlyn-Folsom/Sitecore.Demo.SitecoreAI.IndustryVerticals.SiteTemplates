@@ -36,13 +36,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{3FA0A03B-1D46-4247-8E8E-19BD49AA70F0}" />
+    <image mediaid="{A4B16021-8A24-44DB-BED3-CDDB413BE64F}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{8558CEC5-DB76-4946-B7E6-A0D56300FE51}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "88603b76-b1f5-426f-8dd9-6c9264564b27"
+  Value: "8c7389f7-a1da-448b-8e37-ea9f65bfe4d5"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -276,3 +276,58 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: La forme rencontre la fonction dans le lit Hudson avec rangement, une célébration du design moderne pour les petits espaces. Conçu en bois durable et fini en riche noyer, Hudson offre quatre tiroirs cachés qui apportent de l'ordre sans compromis. Disponible en noir ou blanc, et en tailles moyenne ou grande, il incarne la vision de Forma Lux de l'artisanat contemporain—élégant, intelligent et d'une beauté durable.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130527Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: ハドソン収納ベッド | Forma Lux – 引き出し収納付きモダンベッド
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: 引き出し収納付きモダンベッド。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: ハドソン収納ベッド, 収納ベッド, モダンベッドデザイン, ウォールナットベッド, エンジニアードウッドベッド, 省スペース家具, ベッドルーム収納, Forma Luxショップ
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 1197
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ハドソン収納ベッド
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxのハドソン収納ベッドをご覧ください。エンジニアードウッドとウォールナット突板で作られ、4つの広々とした引き出しが備わった、エレガントで省スペースな生活を実現します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f70ab18-3160-4e62-8e08-8610cbfacd0e"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: ハドソン収納ベッド
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154838Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>ハドソン収納ベッドは、4つの引き出しでスペースを最大限に活用します。エンジニアードウッドとウォールナット突板で作られ、実用性とスタイルを兼ね備えています。アパートやコンパクトな寝室に最適です。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: ハドソン収納ベッドは、狭いスペース向けのモダンデザインを祝う製品です。耐久性のある木材で作られ、リッチなウォールナット仕上げが施されています。ハドソンは、妥協することなく秩序をもたらす4つの隠し引き出しを提供します。ブラックまたはホワイト、ミディアムまたはラージサイズでご利用いただけます。Forma Luxの現代的なクラフトマンシップのビジョンを体現しており、洗練され、スマートで、永続的な美しさを備えています。

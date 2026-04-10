@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76485-HomepagePromoCTAs-1100x740?v=41875711" dam-id="jKr4hBcpT8Kx2jWw-u5ECw" width="1100" height="740" alt="selecting-the-perfect-couch-article.webp" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76485/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{22562641-A31A-401B-B417-23A47B77558D}" />
+    <image mediaid="{CAB78397-92F0-4764-BAD1-FA2BD11FD963}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "d5767ead-c511-4230-92d1-b8597abe33ae"
+  Value: "9bab4d7b-6797-4c4f-8919-03d3b68b5e3a"
 Languages:
 - Language: en
   Versions:
@@ -265,3 +268,68 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: Espaces tranquilles, sophistication, pierre angulaire du canapé, style et fonction, Forma Lux, canapé idéal, élégance et fonctionnalité, attrait esthétique, facilité pratique, design moderne européen, artisanat, minimalisme, art de vivre raffiné, réflexion attentive, âme et substance, luxe discret, designs qui inspirent le calme, luxe traditionnel, art intemporel, simplicité, forme et fonction, éléments sculpturaux audacieux, courbes gracieuses, artisanat, durabilité, intégrité, matériaux naturels, pratiques de production éthiques, valeurs résonnantes, épreuve du temps, Minimaliste Conscient, lignes épurées, textures naturelles, Visionnaire Urbain, designs modulaires, personnalités diverses, pièces intemporelles, environnement de vie, art de vivre magnifiquement, toile d'expression personnelle, élégance et habitabilité, véritable luxe, tendances éphémères, beauté et fonctionnalité durables, goût unique, sensibilité tranquille, design moderne raffiné, façonner votre espace, âme et substance, élégance et fonctionnalité coexistent.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: |
+        静かな洗練を追求する中で、Forma Luxはエレガンスと機能性を体現するソファを提供します。当社の作品は、モダンなヨーロッパデザイン、職人技、ミニマリズムを融合させ、洗練された生活空間を創造します。
+        
+        完璧なソファを選ぶことは、空間の魂を反映し、静けさをインスパイアし、時代を超えた芸術性を通じて贅沢を再定義するデザインを支持することを含みます。形と機能の対話を考慮し、大胆な要素が職人技の優雅な曲線と出会う場所を探求してください。
+        
+        持続可能性と誠実さは私たちの理念を駆動します。天然素材と倫理的な慣行で作られたソファを選び、各作品があなたの価値観に共鳴し、時の試練に耐えることを保証します。「意識的なミニマリスト」や「都市のビジョナリー」のいずれであっても、当社のコレクションは多様な趣味に対応します。
+        
+        Forma Luxの時代を超えた作品を生活環境に統合することで、美しく生きる芸術を高めます。ソファは単なる家具以上の存在となり、自己表現のキャンバスへと進化します。真の贅沢は儚いトレンドを超え、美しさと機能性に焦点を当てます。
+        
+        洗練されたモダンデザインの原則を反映するソファで、独自の趣味と静けさを表現してください。Forma Luxでは、魂と実質を持つ空間を形作り、エレガンスと機能性が調和して共存する雰囲気を育むことをお勧めします。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T084006Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 完璧なソファを選ぶ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>洗練を響かせる静かな空間を追求する中で、ソファはスタイルと目的を調和させる基盤として存在します。Forma Luxでは、理想的なソファを選ぶことはエレガンスと機能性の体現であり、美的魅力と実用的な使いやすさをシームレスに融合させることだと信じています。当社の哲学は、モダンなヨーロッパデザイン、職人技、ミニマリズムを体現する作品を創造し、洗練された生活の本質を捉えることに根ざしています。</p><p>完璧なソファを選ぶ旅は、空間の魂と実質について思慮深く反映することから始まります。静かな贅沢の提供者として、私たちは穏やかさをインスパイアするデザインを支持し、時代を超えた芸術性とシンプルさを通じて伝統的な贅沢の概念を再定義します。形と機能の対話を考慮し、大胆な彫刻的要素が職人技の優雅な曲線と出会う場所を探求してください。</p><p>私たちの理念の中心にあるのは、持続可能性と誠実さへのコミットメントです。天然素材と倫理的な生産慣行で作られたソファを選び、各作品があなたの価値観に共鳴し、時の試練に耐えることを保証します。「意識的なミニマリスト」としてクリーンなラインと自然な質感を大切にする方も、「都市のビジョナリー」としてモジュール式デザインを求める方も、当社のコレクションは多様な個性に対応します。</p><p>Forma Luxの時代を超えた作品を生活環境に統合することで、美しく生きる芸術を高めます。ソファは単なる家具以上の存在となり、自己表現のキャンバスへと進化します。真の贅沢は儚いトレンドを超え、美しさと機能性に焦点を当てます。</p><p>独自の趣味と静かな感性を反映するソファで、洗練されたモダンデザインの原則を響かせてください。Forma Luxでは、魂と実質を持つ空間を形作り、エレガンスと機能性が調和して共存する雰囲気を育むことをお勧めします。</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: "完璧なソファを選ぶ: エレガンスと機能性の反映"
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: 静かな洗練を追求する中で、Forma Luxはエレガンスと機能性を体現するソファを提供します。当社の作品は、モダンなヨーロッパデザイン、職人技、ミニマリズムを融合させ、洗練された生活空間を創造します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18625492-b518-4479-84fc-0d77e1970884"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: 完璧なソファを選ぶ
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154703Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: 完璧なソファを選ぶ
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: 静かな空間、洗練、ソファの基盤、スタイルと目的、Forma Lux、理想的なソファ、エレガンスと機能性、美的魅力、実用的な使いやすさ、モダンなヨーロッパデザイン、職人技、ミニマリズム、洗練された生活、思慮深い反映、魂と実質、静かな贅沢、穏やかさをインスパイアするデザイン、伝統的な贅沢、時代を超えた芸術性、シンプルさ、形と機能、大胆な彫刻的要素、優雅な曲線、職人技、持続可能性、誠実さ、天然素材、倫理的な生産慣行、価値観に共鳴、時の試練、意識的なミニマリスト、クリーンなライン、自然な質感、都市のビジョナリー、モジュール式デザイン、多様な個性、時代を超えた作品、生活環境、美しく生きる芸術、自己表現のキャンバス、エレガンスと住みやすさ、真の贅沢、儚いトレンド、永続的な美しさと機能性、独自の趣味、静かな感性、洗練されたモダンデザイン、空間を形作る、魂と実質、エレガンスと機能性の共存。

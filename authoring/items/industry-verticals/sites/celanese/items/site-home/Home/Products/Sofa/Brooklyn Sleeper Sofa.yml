@@ -33,13 +33,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{2220B0DB-0F98-4DCC-AADC-5BB0DFE42447}" />
+    <image mediaid="{3FFEA0AE-FA05-44A0-B7B7-1B7177B5F541}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{5ACF264D-3309-42CF-9EAC-853AB7148711}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "9637e785-c9f3-42ab-8dd1-6cdd48949020"
+  Value: "48ba323c-0900-459e-b8d7-3a2207aa7c2d"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -261,3 +261,55 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: "Conçu pour la flexibilité sans compromis, le canapé-lit Brooklyn reflète la philosophie de Forma Lux en matière de design réfléchi. Avec un mécanisme de déploiement fluide et un revêtement doux et durable, il passe sans effort du salon de jour au confort nocturne. Idéal pour les appartements et les chambres d'amis, Brooklyn équilibre la praticité avec une esthétique raffinée. Disponible en Indigo et en grande taille, c'est l'union parfaite de la forme, de la fonction et du luxe discret — un véritable témoignage de la façon dont le mobilier moderne peut s'adapter magnifiquement à la vie contemporaine."
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T131324Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: ブルックリン スリーパー ソファ | Forma Lux – モダンライフ向けコンバーチブル ソファベッド
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: ベッドとしても使えるコンバーチブル ソファ。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: ブルックリン スリーパー ソファ、コンバーチブル ソファベッド、スリーパー ソファ、モダン家具、コンパクト リビング、耐久性のある布地、Forma Lux ショップ、多機能家具
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 1099
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ブルックリン スリーパー ソファ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4870c65d-66a6-4e4d-8437-5275ecd97bb2"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: ブルックリン スリーパー ソファ
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154909Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>ブルックリン スリーパー ソファは小さなスペースに最適です。シンプルな引き出し機構で快適なベッドに変身します。耐久性のある布地で覆われており、宿泊客に最適です。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 妥協のない柔軟性を追求して設計されたブルックリン スリーパー ソファは、Forma Lux の目的志向のデザイン哲学を反映しています。スムーズな引き出し機構と柔らかく耐久性のある布地を備え、昼間のくつろぎから夜間の快適さへと簡単に移行します。アパートやゲストルームに最適なブルックリンは、実用性と洗練された美学を見事に融合させています。インディゴとラージサイズで利用可能で、形状、機能、静かな贅沢の完璧な融合を実現しています。現代の家具がどのように現代の生活に美しく適応できるかを示す真の証です。

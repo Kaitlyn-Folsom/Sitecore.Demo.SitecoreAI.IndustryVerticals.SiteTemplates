@@ -11,10 +11,10 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{AE3EDE49-B4C1-4209-B00B-AF57BEBB6380}" />
+    <image mediaid="{BDFBC98D-EA00-4424-BDBB-73D167F32D07}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "32845f47-6bcb-47d8-8bc1-ce67d2a41c9e"
+  Value: "48412fd4-c296-4473-bbfa-e9af90a8c418"
 Languages:
 - Language: en
   Versions:
@@ -209,3 +209,52 @@ Languages:
     - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
       Hint: CategoryName
       Value: Lampe
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bdb1624-90c5-46d5-968f-0c17c9a816c4"
+      Hint: metadataKeywords
+      Value: モダンランプ、コンテンポラリー照明、ミニマリストランプデザイン、ラグジュアリー照明、ベッドサイドランプ、テーブルランプ、フロアランプ、インテリア照明、暖かい光デザイン、タイムレス照明
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T155226Z
+    - ID: "2b03e37f-61d7-4f3c-95fa-7277bfcbff6d"
+      Hint: metadataTitle
+      Value: モダンランプ
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ランプ
+    - ID: "4ff0b19e-04d3-454f-9e63-421c84e00477"
+      Hint: pageSummary
+      Value: このランプコレクションは、モダンなインテリアを引き立てる洗練された照明を提供します。各アイテムは、温かさと意図を持って空間を照らし、穏やかでバランスの取れた、美しく控えめな雰囲気を作り出します。
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5cad19bf-f251-4273-9578-1393c0f00d5d"
+      Hint: Title
+      Value: ランプ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9844f54f-12db-43a9-a385-17daac2ae3e0"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "ca87ddf9-ad6a-47ad-aaea-f411377684a1"
+      Hint: metadataDescription
+      Value: モダンなランプで、空間に温かさ、バランス、雰囲気をもたらします。美しさと機能性を追求したデザインで、光を通じて生活の芸術を高めます。
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154609Z
+    - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
+      Hint: CategoryName
+      Value: ランプ

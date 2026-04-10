@@ -27,13 +27,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{B0930D22-6444-4341-9FF1-79756A14DAD5}" />
+    <image mediaid="{3FFF708E-FDC8-4E23-8FBB-F26B69662665}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{84DD280E-E589-4CE8-B2A4-C0BFF0A6D72B}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f40e3916-5094-47f8-96d3-113dee82d05f"
+  Value: "a9aa79d8-4d6e-4187-b29d-f51371afc815"
 Languages:
 - Language: en
   Versions:
@@ -260,3 +260,59 @@ Languages:
       Hint: pageSummary
       Value: |
         Présentation de "La Chaise Lumina" par Forma Lux, où l'élégance intemporelle rencontre l'artisanat sophistiqué. Cette chaise incarne l'éthique de la marque en façonnant des espaces tranquilles avec âme et substance, intégrant harmonieusement le design européen moderne avec des pratiques durables. La Chaise Lumina transforme n'importe quelle pièce en un havre de paix, offrant une expérience raffinée qui résonne avec l'élégance et l'authenticité de Forma Lux.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T092723Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: リミナチェア
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: モダンクラシックであるリミナチェアは、ミニマリストデザインと永続的な快適さを組み合わせ、ソリッドオークフレームと柔らかく中立的なトーンの布張りの座面を特徴としています。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: リミナチェア、フォルマラックス、高級家具、モダンデザイン、ヨーロッパの職人技、ミニマリストスタイル、エレガントな座席、持続可能な素材、時を超えたエレガンス、芸術的なエレガンス、心を込めた生活、建築的デザイン、静かな空間、魂と本質、美的卓越性、アーバンビジョナリー、コンシャスミニマリスト、エレベーテッドホームメーカー、モダンコレクター、プレミアムな体験、静かなデザイン、美しく生きるアート
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 850
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: リミナチェア
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: リミナチェア、フォルマラックス、高級家具、モダンデザイン、ヨーロッパの職人技、ミニマリストスタイル、エレガントな座席、持続可能な素材、時を超えたエレガンス、芸術的なエレガンス、心を込めた生活、建築的デザイン、静かな空間、魂と本質、美的卓越性、アーバンビジョナリー、コンシャスミニマリスト、エレベーテッドホームメーカー、モダンコレクター、プレミアムな体験、静かなデザイン、美しく生きるアート
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b502153-f0b2-41bb-8b37-2deebb525364"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: リミナチェア
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154923Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: |
+        <div class="ck-content"><p>リミナチェアは、コレクションのシグネチャーソファの伴侶としてデザインされており、同じ静かなエレガンスと時を超えた構造を体現しています。その手作りのオークフレームは自然な木目と色調を引き立て、クッション付きの座面と背もたれは日常生活にリラックスしたサポートを提供します。洗練されていながら親しみやすいこのチェアは、静かな読書コーナーや会話のあるリビングスペースにも同様に適しています。長持ちするように作られており、美しさ、快適さ、持続可能な誠実さを融合させた一品です。</p></div>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: フォルマラックスの「リミナチェア」をご紹介します。時を超えたエレガンスと洗練された職人技が融合したこのチェアは、魂と本質を持つ静かな空間を形作るというブランドの理念を体現しています。モダンなヨーロッパデザインと持続可能な実践をシームレスに統合したリミナチェアは、どんな部屋も静寂な安らぎの場に変え、フォルマラックスのエレガンスと本物らしさを響かせる洗練された体験を提供します。

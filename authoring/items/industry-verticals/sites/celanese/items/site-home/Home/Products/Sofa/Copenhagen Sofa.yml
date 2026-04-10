@@ -32,13 +32,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{60F946AE-2ECA-45A0-8FB4-A805E6FDCC3F}" />
+    <image mediaid="{014D4D6B-607D-4599-AD02-DBDDFF708E1E}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{5ACF264D-3309-42CF-9EAC-853AB7148711}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "47ad56d9-3169-4a5e-820f-45efcaca2382"
+  Value: "3b1bdef1-83e1-4f0e-819f-2655f5d2e163"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -260,3 +260,55 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: "Sobre et élégante sans effort, le canapé Copenhagen incarne l'harmonie du design scandinave et le savoir-faire de Forma Lux. Sa base en chêne massif ancre une silhouette définie par l'équilibre et la proportion, tandis que les coussins en lin moelleux invitent au confort quotidien. Parfait pour les salons modernes, Copenhagen offre chaleur, simplicité et texture naturelle à parts égales. Disponible en noir et blanc, ce canapé trois places est une célébration du luxe discret — conçu pour vieillir gracieusement avec la maison qu'il complète."
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130812Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: コペンハーゲンソファ | Forma Lux – スカンジナビア3人掛けオーク材ベース
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: クリーンなスカンジナビアラインを持つ3人掛けソファ。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: コペンハーゲンソファ、スカンジナビアソファ、3人掛けソファ、リネン張り、オーク材ベース家具、モダンソファデザイン、Forma Luxショップ、ミニマリスト家具
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 899
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: コペンハーゲンソファ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a82629a2-092e-494d-982a-72ea254a8469"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: コペンハーゲンソファ
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154909Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>コペンハーゲンソファは柔らかなリネン生地で張られ、頑丈なオーク材のベースを備えています。そのミニマリストデザインとふかふかのクッションは、モダンなリビングルームにぴったりの家具です。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 控えめでありながら洗練されたエレガンスを持つコペンハーゲンソファは、スカンジナビアデザインとForma Luxの職人技の調和を体現しています。頑丈なオーク材のベースがバランスとプロポーションで定義されたシルエットを支え、柔らかなリネンクッションが日常の快適さを提供します。モダンなリビングルームに最適なコペンハーゲンは、温かみ、シンプルさ、自然な質感を同等に提供します。ブラックとホワイトでご利用可能。この3人掛けソファは静かな贅沢を祝うものであり、完成する家庭とともに優雅に年を重ねるよう設計されています。

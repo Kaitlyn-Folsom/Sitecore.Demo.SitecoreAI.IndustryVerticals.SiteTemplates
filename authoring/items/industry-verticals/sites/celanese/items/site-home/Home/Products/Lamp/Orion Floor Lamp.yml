@@ -37,13 +37,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{C641682F-4033-47A1-8AFF-2AEE8847D9F9}" />
+    <image mediaid="{025017E6-E86D-4761-A6B0-63EB23607AE0}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{DA940050-EB05-442A-AAE5-165AC8B155EC}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "324dc106-f103-4620-b742-64142f2d3980"
+  Value: "4a102471-99f3-4862-a412-08f67cbf9512"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -277,3 +277,58 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: "Épurée et sophistiquée, la lampe de sol Orion illustre la maîtrise du minimalisme fonctionnel par Forma Lux. Son cadre métallique fin et sa tête réglable offrent un éclairage directionnel qui s'adapte à l'humeur et au moment. Parfaite à côté d'un canapé ou d'un fauteuil, Orion ajoute une structure discrète et une lueur douce aux intérieurs modernes. Disponible en or, noir et blanc, et en tailles petite ou moyenne, c'est une déclaration élégante de lumière, d'équilibre et de savoir-faire."
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T131822Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: オリオンフロアランプ | フォルマ・ラックス – 調節可能なヘッドを備えたミニマリスト金属製フロアランプ
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: スリムな金属フレームを持つ背の高いフロアランプ
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: オリオンフロアランプ、モダンフロアランプ、調節可能なライト、ミニマリスト照明、金属製ランプ、読書用ライト、リビングルーム照明、フォルマ・ラックスショップ
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 199.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: オリオンフロアランプ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: フォルマ・ラックスのオリオンフロアランプで空間を照らしましょう。背が高くスリムな金属製デザインで、調節可能なヘッドが読書やリラックスのための集中的な光を提供します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f31b88db-ff2c-4f6d-84cc-3e78c4ec307e"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: オリオンフロアランプ
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154854Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>オリオンフロアランプは、スリムでミニマリストなデザインと調節可能なヘッドを備え、指向性のある照明を提供します。読書コーナーやモダンなリビングルームに最適です。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 洗練されたデザインのオリオンフロアランプは、フォルマ・ラックスの目的志向のミニマリズムの真髄を体現しています。スリムな金属フレームと調節可能なヘッドが、ムードや瞬間に応じた指向性のある照明を提供します。ソファやアームチェアのそばに最適で、オリオンはモダンなインテリアに静かな構造と柔らかな輝きを加えます。ゴールド、ブラック、ホワイトのカラーと、スモールまたはミディアムサイズでご利用いただけます。光、バランス、職人技のエレガントなステートメントです。

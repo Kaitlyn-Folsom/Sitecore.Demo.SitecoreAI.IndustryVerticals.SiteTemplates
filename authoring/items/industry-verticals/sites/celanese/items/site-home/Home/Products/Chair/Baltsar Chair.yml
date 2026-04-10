@@ -48,7 +48,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{13373915-8C03-4666-8DC6-476BE16D95B9}" />
+    <image mediaid="{67A17F4C-99CD-4ED4-88EF-28C4C2623484}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{7C46D87F-C0DE-4E19-AD02-C903C3CF4240}"
@@ -57,7 +57,7 @@ SharedFields:
   Value: 
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "8fad743e-499a-4e6f-806f-76e6a4031389"
+  Value: "0b9aac43-3862-47f5-a631-f1966d50b1f1"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -364,3 +364,65 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260406T161723Z
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "4999754c-c793-4e90-a59a-98d463d94ca1"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Baltsar Chair
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250923T122113Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Baltsar Chair | Forma Lux – モダンで人間工学的な時代を超えたエレガンスの椅子
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: モダンなシーティングのリーダーとしての基準を設定するBaltsar Chairは、エレガンスと人間工学的な卓越性を組み合わせています。その洗練されたデザインと優れた快適さは、どんな空間でも際立つ存在です。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Baltsar Chair、モダンチェア、人間工学的シーティング、ラグジュアリー家具、コンテンポラリーチェアデザイン、快適なアクセントチェア、Forma Lux家具、デザイナーチェア
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 392
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Baltsar Chair
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma LuxのBaltsar Chairは、現代的な洗練さと人間工学に基づいたデザインを融合させています。その彫刻的な形状、耐久性のあるフレーム、高品質な張り地が、長く続く快適さと時代を超えた魅力を提供します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de75ef5d-c207-4a1f-87f6-f4b2c2bd8f57"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Baltsar Chair
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154909Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>現代的な洗練さを放つBaltsar Chairは、洗練されたデザインと比類のない快適さを見事に融合させています。その人間工学的構造は優れたサポートを保証し、コンテンポラリーなインテリアにもクラシックなインテリアにも完璧に調和します。</p><p>精密に作られたBaltsar Chairは、耐久性のあるフレームと高品質な張り地を備え、長期間の使用を約束します。そのエレガントな輪郭は、贅沢さを加えるだけでなく、座ってリラックスするよう招く歓迎の抱擁を提供します。どんな環境にも理想的なBaltsar Chairは、単なる椅子以上の存在であり、これまでにないスタイルとリラクゼーションを体験する招待状です。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Baltsar Chairは、デザインの精密さと人間の快適さの完璧なバランスを体現しています。その流れるようなラインと人間工学的な輪郭は、Forma Luxの形状と機能の両方に役立つクラフトマンシップへのコミットメントを反映しています。高級素材で張り地され、頑丈なフレームに基づいて構築されたBaltsarは、持続的なサポートとエレガンスを提供します。ブラックとインディゴの色で、エクストラスモール、ラージ、エクストララージのサイズで利用可能で、洗練されたオフィス環境から静かなリビングスペースまで、思慮深いモダンデザインの象徴としてどんなインテリアにも高めます。

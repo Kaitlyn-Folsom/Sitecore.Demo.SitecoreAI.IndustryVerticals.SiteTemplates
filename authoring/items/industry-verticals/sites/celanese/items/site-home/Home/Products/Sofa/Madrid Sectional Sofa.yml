@@ -38,13 +38,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{BB60C77C-1985-4DFB-95F0-5F8CFE6A4680}" />
+    <image mediaid="{9334B335-96B8-442A-8916-9FA45319B802}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{5ACF264D-3309-42CF-9EAC-853AB7148711}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "53c6d789-13a6-408b-9b86-0ce22641886b"
+  Value: "36a98c33-833c-4f0d-ab62-b2e2cd2213fb"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -278,3 +278,58 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: "Expansif et accueillant, le canapé sectionnel Madrid incarne la philosophie de Forma Lux de confort sans effort et de fonction élaborée. Sa silhouette en forme de L et sa méridienne intégrée offrent un espace ample pour les rassemblements, tandis que le revêtement en polyester durable assure longévité et douceur. Disponible en noir, indigo et blanc, et en tailles grande ou extra grande, Madrid est conçu pour la connexion — que ce soit pour des moments familiaux animés ou des soirées tranquilles. C'est une étude en équilibre : proportions généreuses, forme minimaliste et confort durable."
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130943Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Madridセクショナルソファ | Forma Lux – シェーズロング付き広々としたL字型ソファ
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: シェーズロング付き広々としたセクショナルソファ。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Madridセクショナルソファ、L字型ソファ、セクショナルカウチ、シェーズロング、ファミリーソファ、モダンなリビングルーム家具、耐久性のある張り地、Forma Luxショップ
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 1499
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Madridセクショナルソファ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma LuxのMadridセクショナルソファは、広々とした座席と洗練されたデザインを兼ね備えています。L字型の形状とシェーズロングが、快適さ、汎用性、そしてモダンなスタイルの完璧なバランスを作り出します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ef8d175-985c-4c5c-86c0-4e563cfd19de"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Madridセクショナルソファ
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154909Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Madridセクショナルソファは、L字型デザインで広々とした座席を提供します。耐久性のあるポリエステル張り地で、家族の集まりや映画鑑賞に最適です。シェーズロングがさらに快適さを加えます。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 広々として招き入れるデザインのMadridセクショナルソファは、Forma Luxの「快適さと機能性の融合」という哲学を体現しています。L字型のシルエットと統合されたシェーズロングは、集まりの場に十分なスペースを提供し、耐久性のあるポリエステル張り地が長寿命と柔らかさを保証します。ブラック、インディゴ、ホワイトのカラーと、大型または特大型サイズでご利用いただけます。Madridは、活気ある家族のひとときや静かな夜のために設計されています。それはバランスの研究です：広々としたプロポーション、ミニマリストな形状、そして持続的な快適さ。

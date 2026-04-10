@@ -14,10 +14,10 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{DFBA054D-927D-45B3-B1C3-32E3D24BFE5F}" />
+    <image mediaid="{CFB81B9C-3BE0-4E2C-8525-3D10D1378788}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "c1b36fef-9181-4a0b-a4f1-43a44be48cf1"
+  Value: "f6b3f6e9-883a-4e6a-a7ec-dbf1a4b5ed93"
 Languages:
 - Language: en
   Versions:
@@ -212,3 +212,52 @@ Languages:
     - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
       Hint: CategoryName
       Value: Chaise
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bdb1624-90c5-46d5-968f-0c17c9a816c4"
+      Hint: metadataKeywords
+      Value: モダンチェア、ミニマリストシーティング、アクセントチェア、ダイニングチェア、アームチェア、オークチェア、コンテンポラリーファニチャー、ラグジュアリーデザイン、タイムレスクラフトマンシップ、サステナブルシーティング
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T154629Z
+    - ID: "2b03e37f-61d7-4f3c-95fa-7277bfcbff6d"
+      Hint: metadataTitle
+      Value: 椅子
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 椅子
+    - ID: "4ff0b19e-04d3-454f-9e63-421c84e00477"
+      Hint: pageSummary
+      Value: バランス、快適さ、エレガンスのために作られたこの椅子コレクションは、デザインのシンプルさを称えます。思慮深いディテールと耐久性のある素材を備えた各作品は、快適さを提供しながらもクリーンで建築的な存在感を保ちます。
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5cad19bf-f251-4273-9578-1393c0f00d5d"
+      Hint: Title
+      Value: 椅子
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b7a2fd1-7c71-4f79-b3bd-5c62d6080080"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "ca87ddf9-ad6a-47ad-aaea-f411377684a1"
+      Hint: metadataDescription
+      Value: 彫刻的な形状と人間工学に基づいた快適さを兼ね備えた椅子をご覧ください。洗練された比率と天然素材でデザインされた各作品は、モダンなインテリアに美しく調和します。
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154609Z
+    - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
+      Hint: CategoryName
+      Value: 椅子

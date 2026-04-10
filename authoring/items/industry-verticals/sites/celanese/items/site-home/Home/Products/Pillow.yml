@@ -11,10 +11,10 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{6312BDFF-E72E-48BB-8ACA-8D0443D52C84}" />
+    <image mediaid="{BA7DF8F0-75B4-499E-9BE0-0DAACB6CCEF4}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "2180f48e-67a6-40fa-9679-7d9272bd4378"
+  Value: "4850e1d5-b7e5-4e39-8fed-a29221eb483c"
 Languages:
 - Language: en
   Versions:
@@ -209,3 +209,52 @@ Languages:
     - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
       Hint: CategoryName
       Value: Oreiller
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bdb1624-90c5-46d5-968f-0c17c9a816c4"
+      Hint: metadataKeywords
+      Value: 装飾用枕、モダンな枕、ミニマリストクッション、スロー枕、ソファ枕、ニュートラルな装飾、テクスチャ付き枕、ラグジュアリーホームアクセント、モダンリビング、ソフトファーニッシング
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T155348Z
+    - ID: "2b03e37f-61d7-4f3c-95fa-7277bfcbff6d"
+      Hint: metadataTitle
+      Value: 装飾用枕
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 枕
+    - ID: "4ff0b19e-04d3-454f-9e63-421c84e00477"
+      Hint: pageSummary
+      Value: 快適さと美的調和の両方を追求して設計されたこれらの枕は、モダンなインテリアに仕上げのタッチを加えます。高品質な生地とバランスの取れた色調で作られ、静かな贅沢さとさりげない生活の芸術を体現しています。
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5cad19bf-f251-4273-9578-1393c0f00d5d"
+      Hint: Title
+      Value: 枕
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3a6462d-2675-4b89-a1fa-473eb1debd85"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "ca87ddf9-ad6a-47ad-aaea-f411377684a1"
+      Hint: metadataDescription
+      Value: 快適さとデザインを兼ね備えた枕をご覧ください。柔らかな質感、タイムレスな色合い、シンプルな形状が調和し、どんなリビングスペースにも深みと温かみを加えます。
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154609Z
+    - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
+      Hint: CategoryName
+      Value: 枕

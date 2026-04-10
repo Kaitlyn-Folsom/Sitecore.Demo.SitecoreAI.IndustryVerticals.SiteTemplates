@@ -38,13 +38,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{A387F601-D53A-4EDD-99DF-DCEFF4F5C4E4}" />
+    <image mediaid="{6C6E92A5-542D-40AA-ABF5-7DF2F13C3C4F}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{8558CEC5-DB76-4946-B7E6-A0D56300FE51}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "e8c39a68-ee85-41a3-8426-cff12161c58e"
+  Value: "c91ed8af-95da-4fe8-afe5-ae3282ec14fd"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -278,3 +278,58 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: Conçu pour durer et fabriqué pour inspirer à la fois le jeu et le repos, le lit superposé Aspen incarne la philosophie de Forma Lux d'un design réfléchi pour les familles modernes. Chaque cadre est façonné à partir de pin massif, offrant un grain naturel chaleureux et une structure fiable. Disponible en Indigo, Noir, Blanc ou Or et en tailles Petite et Moyenne, Aspen associe fonctionnalité et esthétique élevée—transformant chaque chambre d'enfant en un espace intemporel et accueillant qui grandit avec eux.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T130300Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: アスペン二段ベッド | Forma Lux – 子供部屋用の頑丈な木製二段ベッド
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: 子供部屋に最適な頑丈な木製二段ベッド。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: アスペン二段ベッド、木製二段ベッド、子供部屋用家具、パイン材ベッド、高級子供用家具、共有寝室用家具、Forma Luxショップ
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 748.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: アスペン二段ベッド
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxのアスペン二段ベッドをご紹介します。耐久性のあるパイン材で作られた自然な仕上げのデザイン、安全柵、そして内蔵されたはしごが特徴です。職人技、安全性、そして時代を超えたスタイルが融合した、共有またはゲスト用寝室に最適な選択肢です。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be7c9833-3ef2-4e3a-ae91-3dd37479eace"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: アスペン二段ベッド
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154837Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>アスペン二段ベッドは耐久性のあるパイン材で作られ、自然なトーンで仕上げられています。安全柵と内蔵されたはしごを備え、安全性とスタイルの両方を追求しています。共有寝室やお泊まり会に最適です。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 長持ちするように作られ、遊びと休息の両方をインスパイアするよう設計されたアスペン二段ベッドは、現代の家族のための思慮深いデザインというForma Luxの哲学を体現しています。各フレームは頑丈なパイン材から形作られ、温かみのある自然な木目と信頼性のある構造を提供します。インディゴ、ブラック、ホワイト、またはゴールドのカラーと、小サイズおよび中サイズでご利用いただけます。アスペンは機能性と洗練された美学を組み合わせ、子供部屋を時代を超えた居心地の良い空間に変え、成長に寄り添います。

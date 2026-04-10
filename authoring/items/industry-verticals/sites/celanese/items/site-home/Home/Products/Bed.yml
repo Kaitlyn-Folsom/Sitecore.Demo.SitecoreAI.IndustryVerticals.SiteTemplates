@@ -14,10 +14,10 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{D07CB4C1-C34A-4EC9-972D-07B686E5D1CB}" />
+    <image mediaid="{9FDC463D-087E-4A73-8576-E07197B4D2A2}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "b278343d-8de1-41a1-9fdc-0ca87e40c5eb"
+  Value: "b0c67b58-91c7-4efa-bbd5-98ade92ab03d"
 Languages:
 - Language: en
   Versions:
@@ -212,3 +212,52 @@ Languages:
     - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
       Hint: CategoryName
       Value: Lit
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1bdb1624-90c5-46d5-968f-0c17c9a816c4"
+      Hint: metadataKeywords
+      Value: 高級ベッド、モダンなベッドフレーム、ミニマリストデザインのベッド、持続可能な家具、木製ベッド、手作り家具、寝室デザイン、時を超えた快適さ、エコフレンドリーな家具
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T155045Z
+    - ID: "2b03e37f-61d7-4f3c-95fa-7277bfcbff6d"
+      Hint: metadataTitle
+      Value: 高級ベッド
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ベッド
+    - ID: "4ff0b19e-04d3-454f-9e63-421c84e00477"
+      Hint: pageSummary
+      Value: ベッドコレクションは、寝室を穏やかで回復力のある空間に変えます。自然素材とクリーンなラインで作られた各デザインは、快適さ、バランス、そして時を超えた職人技の静かな洗練を強調しています。
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5cad19bf-f251-4273-9578-1393c0f00d5d"
+      Hint: Title
+      Value: ベッド
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "053b8070-7d9a-403c-b034-f5ccfa2601cc"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "ca87ddf9-ad6a-47ad-aaea-f411377684a1"
+      Hint: metadataDescription
+      Value: 自然素材と洗練されたデザインで作られたモダンなベッドをご覧ください。それぞれの作品は、現代の寝室にバランス、静けさ、そして永続的な快適さをもたらします。
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154608Z
+    - ID: "f77b6eec-9e1b-42aa-af08-48e915b5593c"
+      Hint: CategoryName
+      Value: ベッド

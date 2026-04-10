@@ -33,13 +33,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{5FBFE350-10E0-4D27-9752-93F71BD82F23}" />
+    <image mediaid="{B28ED4B0-18A9-4C2C-A141-65603DEFD369}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{7C46D87F-C0DE-4E19-AD02-C903C3CF4240}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "141fc58c-e5d1-463a-8903-e7f73b3fecc1"
+  Value: "c9542109-d7c4-4cce-8a3d-13a97569476f"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -273,3 +273,58 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: "Le fauteuil à bascule Havana réinvente une forme intemporelle à travers le prisme de l'artisanat moderne. Construit en bois de teck massif, il offre un mouvement de bascule fluide et équilibré ainsi qu'une résistance durable. Le siège et le dossier rembourrés offrent un confort accueillant, tandis que la simplicité sculpturale du design convient aussi bien aux nurseries, aux salons ou aux porches couverts. Disponible en noir et en taille moyenne, Havana incarne la philosophie de design de Forma Lux : la tradition raffinée par la sensibilité moderne — où chaque courbe invite au repos et au rythme."
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T125659Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: ハバナロッキングチェア | Forma Lux – チーク材のモダンな木製ロッキングチェア
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: クラシックな木製ロッキングチェアに現代的なひねりを加えたデザイン。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: ハバナロッキングチェア、木製ロッキングチェア、チークチェア、モダンロッキングチェア、ナーサリー家具、クラシックチェアデザイン、Forma Luxショップ、手作り家具
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 319.75
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ハバナロッキングチェア
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxのハバナロッキングチェアは、クラシックな職人技と現代的なスタイルを融合させています。無垢のチーク材で作られ、ふかふかのクッションが特徴で、どんな部屋にも快適さと優雅さを提供します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a992bfd-7b3d-4230-a791-2a888c340d6b"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: ハバナロッキングチェア
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154910Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>ハバナロッキングチェアは、無垢のチーク材で作られ、滑らかな揺れを実現します。クッション付きの座面と背もたれは快適さを提供し、その時代を超えたデザインは、ナーサリー、リビングルーム、またはポーチに多用途に追加できます。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: ハバナロッキングチェアは、時代を超えた形を現代の職人技の視点で再構築しています。無垢のチーク材で作られ、滑らかでバランスの取れた揺れを実現し、耐久性を備えています。クッション付きの座面と背もたれは快適さを提供し、彫刻的なシンプルさを持つデザインは、ナーサリー、リビングルーム、または屋根付きのポーチに適しています。ブラックとミディアムサイズで利用可能なハバナは、Forma Luxのデザイン哲学を体現しています。伝統を現代の感性で洗練し、すべての曲線が休息とリズムを誘います。

@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76484-LandingPageHero-2000x600?v=bc4e15f8" dam-id="m9bg2u5WQtqiqzMhxKjPDg" width="2000" height="600" alt="small-space-article.webp" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76484/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{FCDE8576-A6DE-4ED8-87F4-65A2B71C2E05}" />
+    <image mediaid="{AAB1019D-BD46-4EB9-A8C4-C6E880DE9513}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "e250a0d1-65de-4d77-9728-61dcea54ef66"
+  Value: "0fbcfea8-49b0-4de6-aa4c-36775312769e"
 Languages:
 - Language: en
   Fields:
@@ -245,3 +248,63 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: "meubles pour petits espaces, design moderne pour petit appartement, idées de meubles gain de place, meubles multifonctionnels, design de salon compact, décoration de petite maison, canapé-lit pour invités, table basse avec rangement caché, tables gigognes, design de meubles à pieds ouverts, surfaces transparentes, profils de meubles fins, palette de couleurs cohérente, accents verticaux, idées d'étagères hautes, lampes sur pied modernes, placement d'œuvres d'art, intérieurs modernes et aérés, sélections de meubles intelligents, petit espace luxueux"
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "edc287a5-18e6-40bd-88b2-be30222e02d6"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 小さな空間、大きなインパクト：コンパクトな家のためのスマートな家具選び
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T083248Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 小さな空間、大きなインパクト
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>スペースが限られている場合、すべてのインチが重要です。複数の目的を果たす家具を選びましょう—ゲスト用のスリーパーソファ、隠し収納付きのコーヒーテーブル、または必要ないときに収納できるネスティングテーブルなど。視覚的に軽い印象を与える家具を選ぶこともポイントです：オープンレッグ、透明な表面、スリムなプロファイルなど。一貫したカラーパレットを保つことで、視線がスムーズに流れます。縦のアクセントは視線を上に引き上げ、高さの感覚を作り出します：高い棚、フロアランプ、または壁に掛けたアートワークを検討してください。詰め込みすぎないようにしましょう—主要な家具の周りに余白を残すことで、空間が広々と感じられます。賢い選択をすれば、どんなに小さな家でも贅沢でモダンに感じられます。</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: 限られたスペースを最大限に活用するために、多機能で慎重にスケールされた家具を選びましょう。
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: 小さな空間で大きく暮らす。隠し収納から洗練された多機能デザインまで、あらゆるスペースを最大限に活用する賢いモダンな家具アイデアを探りましょう。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d383c7ab-5935-474c-b651-0b49d7bfecf6"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: 小さな空間、大きなインパクト：コンパクトな家のためのスマートな家具選び
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154704Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: 小さな空間、大きなインパクト：コンパクトな家のためのスマートな家具選び
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: 小スペース家具、モダンな小型アパートデザイン、省スペース家具アイデア、多機能家具、コンパクトなリビングルームデザイン、小さな家の装飾、ゲスト用スリーパーソファ、隠し収納付きコーヒーテーブル、ネスティングテーブル、オープンレッグ家具デザイン、透明な表面、スリムな家具プロファイル、一貫したカラーパレット、縦のアクセント、高い棚のアイデア、モダンなフロアランプ、壁アートの配置、風通しの良いモダンなインテリア、スマートな家具選び、贅沢な小スペース

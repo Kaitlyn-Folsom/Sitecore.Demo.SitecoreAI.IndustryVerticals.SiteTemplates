@@ -37,13 +37,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{E552032F-A757-45F6-9627-5BC017218EEC}" />
+    <image mediaid="{75C56F5C-9055-4ADF-9651-0E7E69F1C0B8}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{5ACF264D-3309-42CF-9EAC-853AB7148711}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "53ef2ad3-e63e-4a5f-8496-a56cd706ce41"
+  Value: "151bf9fa-0378-46e5-816a-2f60c2fa6749"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -277,3 +277,58 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: "Conçu pour un confort indulgent, le canapé inclinable Lisbonne transforme la détente en une expérience de sophistication tranquille. Ses fauteuils inclinables et porte-gobelets intégrés allient fonction et forme, tandis que le rembourrage moelleux et une silhouette raffinée reflètent l'engagement de Forma Lux envers l'artisanat. Disponible en noir et blanc, et en tailles grande ou extra grande, Lisbonne est idéal pour les cinémas maison ou les soirées confortables — une déclaration de luxe moderne conçue pour vous accompagner."
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T131426Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: リスボンリクライニングソファ | Forma Lux – ふかふかの快適さを備えたラグジュアリーリクライニングソファ
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: ふかふかのクッションを備えたリクライニングソファ。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: リスボンリクライニングソファ、リクライニングソファ、ホームシアターソファ、ラグジュアリーリクライナーソファ、モダンリビングルーム家具、カップホルダー付きソファ、Forma Luxショップ、ふかふかの座席
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 1599
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: リスボンリクライニングソファ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxのリスボンリクライニングソファでスタイリッシュにリラックス。内蔵リクライナー、ふかふかのクッション、統合されたカップホルダーを備え、ホームシアターや居心地の良いリビングスペースにモダンな快適さをもたらします。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79810dcc-75cf-44c6-a9d7-178a9cc112e1"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: リスボンリクライニングソファ
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154909Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>リスボンリクライニングソファは快適さと便利さを兼ね備えています。内蔵リクライナーとカップホルダーを備え、ホームシアターや居心地の良い夜に最適です。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 贅沢な快適さを追求して設計されたリスボンリクライニングソファは、静かな洗練された体験へとリラクゼーションを変えます。内蔵リクライナーとカップホルダーが機能と形状を融合させ、ふかふかのクッションと洗練されたシルエットがForma Luxのクラフトマンシップへのこだわりを反映しています。ブラックとホワイト、大型または特大サイズで利用可能なリスボンは、ホームシアターや居心地の良い夜に最適です。モダンラグジュアリーの声明として、あなたと共に動くように設計されています。

@@ -39,13 +39,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{9A244E19-FDA7-4851-A324-2136D1493F67}" />
+    <image mediaid="{09769DA5-5D2D-4585-88A9-67934EC15B48}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{7C46D87F-C0DE-4E19-AD02-C903C3CF4240}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "a7f2ff75-9822-4758-8d0c-cb3efeecbec4"
+  Value: "d0a41f8b-0806-4a0e-ab30-f34318b73181"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -308,3 +308,65 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260406T161724Z
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "50976684-d5cf-4855-9da7-d84c601a8c2d"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: サカリアスアームチェア
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250922T091111Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: サカリアスアームチェア | Forma Lux – 上品なクッション付きエレガントアームチェア
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: 快適さとスタイルを完璧に融合させたサカリアスアームチェアを発見してください。このエレガントな一品は、ふんわりとしたクッションを備えた洗練されたデザインで、リラクゼーションのための心地よい座席を提供します。どんなリビングスペースにも理想的で、サカリアスアームチェアは家庭の装飾に洗練さを加えます。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: サカリアスアームチェア、ラグジュアリーアームチェア、モダンアクセントチェア、布張りアームチェア、リビングルーム家具、快適な座り心地、Forma Luxショップ、現代的な装飾
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 392
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: サカリアスアームチェア
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxのサカリアスアームチェアは、現代的なデザインと快適さを融合させています。その洗練されたシルエット、高品質な張り地、そして頑丈なフレームが、どんな家庭にもふさわしい上品な座り心地を提供します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf8c032b-5709-4147-aba5-27a3f7932242"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: サカリアスアームチェア
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154910Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>サカリアスアームチェアをご紹介します。スタイルと快適さを完璧に融合させ、どんなリビングスペースも格上げします。精密に作られたこのアームチェアは、モダンな装飾にも伝統的な装飾にも調和する洗練されたデザインを特徴としています。その頑丈なフレームとふんわりとしたクッションは、優れたサポートとリラクゼーションを提供し、長い一日の後のくつろぎに最適です。</p><p>&nbsp;サカリアスアームチェアの高品質な張り地で比類のない贅沢を体験してください。個々のスタイルに合わせた色のバリエーションをご用意しています。静かな読書のひとときやゲストをもてなす際にも、このアームチェアは耐久性と優雅さの期待を超えて応えます。サカリアスアームチェアは、どんな家庭にも美的魅力と実用的な快適さを提供する真に洗練された追加アイテムです。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 洗練されつつも温かみのあるサカリアスアームチェアは、快適さを通じて美を追求するForma Luxの理念を体現しています。ふんわりとしたクッション、高品質な張り地、そしてスリムでサポート力のあるフレームを備え、視覚的な優雅さと日常のリラクゼーションを提供します。モダンなインテリアにも伝統的なインテリアにも理想的で、サカリアスはどんな空間も落ち着いた洗練の隠れ家に変えます。ブラックとホワイトで提供され、エクストラ・スモールサイズもご用意。クラフトマンシップ、耐久性、静かな贅沢を求める方にとって欠かせない一品です。

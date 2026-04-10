@@ -35,13 +35,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{81B6884C-0DB2-4033-8F46-FCEEF25534C9}" />
+    <image mediaid="{129C16A1-2964-4D51-8EB1-29E3FCEF94CB}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{7C46D87F-C0DE-4E19-AD02-C903C3CF4240}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "c18185bb-56a5-4e34-a6e0-eee8164fa907"
+  Value: "391dfae8-fc42-4f6c-a49d-374d17ae1850"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -251,3 +251,52 @@ Languages:
     - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
       Hint: LongDescription
       Value: <p>La chaise de salle à manger Verona est conçue pour allier confort et sophistication. Son dossier incurvé offre un excellent soutien lombaire, tandis que le siège coussiné assure un confort durable pendant les repas. La finition en noyer ajoute de la chaleur à toute salle à manger.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T125004Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: ヴェローナダイニングチェア | Forma Lux – エレガントな曲線的背もたれと布張りの座面を備えた椅子
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: 曲線的な背もたれと布張りの座面を備えたエレガントなダイニングチェア。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: ヴェローナダイニングチェア、ダイニングルーム家具、布張りのダイニングチェア、ウォールナットダイニングチェア、モダンなダイニングデザイン、快適な座り心地、Forma Luxショップ、曲線的な背もたれの椅子
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 179.5
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ヴェローナダイニングチェア
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df4e336e-44b0-400a-aef1-9369b8e68c70"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: ヴェローナダイニングチェア
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154910Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>ヴェローナダイニングチェアは、快適さと洗練さを兼ね備えています。その曲線的な背もたれは優れた腰部サポートを提供し、クッション性のある座面は食事中の長時間の快適さを保証します。ウォールナット仕上げは、どのダイニングルームにも温かみを加えます。</p>

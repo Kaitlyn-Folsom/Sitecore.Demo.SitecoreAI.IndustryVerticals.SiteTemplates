@@ -37,13 +37,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{4941420A-0BA5-4BDD-B59A-593E2C0B4E08}" />
+    <image mediaid="{172E5727-27AE-43EB-BB39-4222074F0FE2}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{8D0B20C4-E430-4199-BFF7-817BB6EC6E03}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "7d394433-62ff-4e9f-9346-fb6d9995eb19"
+  Value: "6da2330b-53d4-4c2b-8522-3e4dfca74b17"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -297,3 +297,62 @@ Languages:
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
       Value: 20260406T161717Z
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "8f9a5fec-12df-43c6-b2c1-8fa6b0c4c00f"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ピルスピンナー
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250922T091111Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: ピルスピンナーピロー | Forma Lux – 快適な睡眠のためのソフトコットンフェザーピロー
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: ソフトコットンピローに90%のフェザー充填材が完璧に詰められています。素材は空気の循環を可能にし、快適な睡眠環境を提供します。低めのロフトは、うつぶせ寝の方に最適です。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: ピルスピンナーピロー、フェザーピロー、コットンピロー、通気性のある寝具、ラグジュアリーピロー、うつぶせ寝用ピロー、Forma Lux ホームデコール、睡眠の快適さ
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 15
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ピルスピンナー
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ranula.gamage@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48bf13c6-5a92-4592-9aeb-bf44596f2a4d"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: ピルスピンナー
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154855Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>プレミアムなソフトコットンピローで比類のない快適さを体験してください。各ピローは、頭と首の独自の形状に優しくフィットするよう設計された、高品質のフェザーを90%含むたっぷりの充填材で丁寧に作られています。これにより、本当に安らかで中断のない睡眠を実現します。&nbsp;</p><p>そのデザインに使用されている通気性のある素材は、優れた空気循環を保証し、一晩中ピローを涼しく保ち、爽やかな睡眠環境を提供します。低めのロフトで仕立てられており、特に首や背骨に余計な負担をかけずに最大限の快適さを求めるうつぶせ寝の方に理想的なサポートを提供します。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 快適さを追求し、丁寧に作られたピルスピンナーピローは、日常の休息を静かな贅沢の体験へと高めます。そのソフトコットンシェルと90%のフェザー充填材は、ふんわり感と通気性の完璧なバランスを提供し、涼しく爽やかな睡眠環境を維持します。低めのロフトで設計されており、うつぶせ寝の方をサポートします。ピルスピンナーは、素材、職人技、快適さが融合して真の休息を生み出すというForma Luxの哲学を反映しています。ホワイトで、小、中、大のサイズでご利用いただけます。静かでモダンな寝室の仕上げに最適です。

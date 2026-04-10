@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76633-HomepagePromoCTAs-1100x740?v=8a7a5fc0" dam-id="Lk_r5NN0TNWG2HNI4f0OmA" width="1100" height="740" alt="work-from-home-article.webp" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76633/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{E7067D4D-8C08-4862-A825-231AF6CABFD7}" />
+    <image mediaid="{5BE818F5-4B54-4CC9-988B-8B4B82642DD3}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "a52d2307-74cd-4577-ac21-324fd912e058"
+  Value: "eebc630a-6be5-407a-be93-4fb9b2ea6718"
 Languages:
 - Language: en
   Fields:
@@ -257,3 +260,66 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: conception de bureau à domicile moderne, conseils pour l'aménagement de bureau à domicile, chaise de bureau ergonomique, bureau élégant, bureau en bois et métal, unité de bureau modulaire, rangement avec étagères flottantes, rangement avec armoire fermée, accessoires de bureau minimalistes, lampe de bureau moderne, idées d'éclairage de bureau à domicile, espace de travail avec lumière naturelle, bureau calme et épuré, décoration de bureau avec tapis texturé, organisation de bureau à domicile, mobilier de bureau à domicile contemporain, essentiels du télétravail, idées d'espace de travail moderne, conception de bureau à domicile pour la productivité, mobilier de bureau aux lignes épurées
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "19d57c80-eed9-4255-88a6-7b1f60221d0a"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 在宅勤務のアップグレード：インスピレーションを与えるモダンなホームオフィスのデザイン
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: スタイルと生産性を融合させたモダンなホームオフィスを作りましょう。エルゴノミックチェア、洗練されたデスク、スマートな収納、自然光、そして落ち着いたすっきりとしたワークスペースのための最小限のアクセサリーに関するヒントをご紹介します。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T081506Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 在宅勤務のアップグレード
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>自宅での仕事はもうソファで行うものではありません。作業ゾーンを定義するために、作業スペースとスタイルの両方を提供する高品質なデスクを選びましょう。木製の天板にスレンダーな金属製の脚、またはコンパクトなモジュラーユニットがおすすめです。見た目も機能も優れたエルゴノミックチェアを選びましょう。収納はすっきりと：浮き棚や閉じたキャビネットで散らかりを隠し、デスクアクセサリーは最小限に抑えます。照明は重要です：可能であれば自然光を、モダンなフロアランプやタスクランプで補いましょう。アート作品、植物、テクスチャードラグなどの個人的なアイテムを少し追加して、落ち着いたすっきりとした雰囲気を保ちます。その結果、モダンで集中力を高めるホームオフィスが完成します。</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: 快適さ、機能、美観を融合させた家具で生産的でスタイリッシュなワークスペースを作りましょう。
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: スタイルと生産性を融合させたモダンなホームオフィスを作りましょう。エルゴノミックチェア、洗練されたデスク、スマートな収納、自然光、そして落ち着いたすっきりとしたワークスペースのための最小限のアクセサリーに関するヒントをご紹介します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52dcfc5f-84d7-44ed-a350-91104d0d820c"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: 在宅勤務のアップグレード：インスピレーションを与えるモダンなホームオフィスのデザイン
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154704Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: モダンなホームオフィスデザイン：スタイリッシュ、機能的、集中力を高める
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: モダンなホームオフィスデザイン、ホームオフィスのセットアップのヒント、エルゴノミックオフィスチェア、スタイリッシュなオフィスデスク、木と金属のデスク、モジュラーデスクユニット、浮き棚収納、閉じたキャビネット収納、最小限のデスクアクセサリー、モダンなタスクランプ、ホームオフィスの照明アイデア、自然光のワークスペース、落ち着いたすっきりとしたオフィス、テクスチャードラグのオフィスデコール、ホームオフィスの整理、現代的なホームオフィス家具、在宅勤務の必需品、モダンなワークスペースのアイデア、ホームオフィスの生産性デザイン、クリーンラインのオフィス家具

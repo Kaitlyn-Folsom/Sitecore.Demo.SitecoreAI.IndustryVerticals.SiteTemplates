@@ -23,16 +23,19 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/33ab96058b1945838e241b49d43d6702?v=97e5fae5" dam-id="y9eaS3oRSLCy7JKBixa3jw" width="1880" height="1253" alt="Rectangle 43.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/66998/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: "-50"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{99BD843A-EECE-4502-AB5C-92C121029086}" />
+    <image mediaid="{F097F0FA-E21E-4AF3-8889-142DF5B3AB65}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "dd5f5932-29f8-475a-aa79-71d8cd373f91"
+  Value: "6d9d463d-1184-49cf-83e3-49d03ad35636"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -328,3 +331,67 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: meubles faits main, salon rustique moderne, design en bois, salon avec cheminée, Forma Lux intérieurs, matériaux durables, artisanat, décoration intérieure contemporaine
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "ea205432-eb87-4805-82fc-0698a5df911f"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 部屋の中心：暖炉とラウンジ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: バランスと意図の研究、「部屋の中心：暖炉とラウンジ」は、Forma Luxの手作りデザイン哲学を体現しています。すべての梁、織物、曲線が調和のとれた全体を形成します。この物語は、再生オーク材と鉄、ウールとリネン、コンクリートと光といったテクスチャーで展開されます。この作品は、職人技がどのようにして原材料を静かな贅沢へと変えるかを祝福し、温かみ、真実味、そして時を超えた快適さを呼び起こします。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250911T094732Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 部屋の中心：暖炉
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>会話を引き起こすステートメントピース</h3><p>吊り下げられた鉄製の照明器具が目を引き、流木で作られた低いプロファイルのコーヒーテーブルの上に浮かんでいます。近くには、彫刻的な本棚がアート、植物、陶器の厳選されたミックスを収め、機能性とスタイルを兼ね備えています。</p><p>それは、部屋全体を自然に目で追えるようにする、よく考え抜かれたレイアウトです。構造的であれ装飾的であれ、すべてのデザイン要素が意図的であり、部屋の調和の取れた雰囲気に寄与しています。ニュートラルなパレットが支配的ですが、テラコッタやネイビーのアクセントが個性を加え、感覚を圧倒することはありません。手作りの陶器やテクスチャーのある壁パネルのような職人技のディテールが、温かみと真実味を吹き込んでいます。</p><p>それは、部屋全体を自然に目で追えるようにする、よく考え抜かれたレイアウトです。構造的であれ装飾的であれ、すべてのデザイン要素が意図的であり、部屋の調和の取れた雰囲気に寄与しています。ニュートラルなパレットが支配的ですが、テラコッタやネイビーのアクセントが個性を加え、感覚を圧倒することはありません。手作りの陶器やテクスチャーのある壁パネルのような職人技のディテールが、温かみと真実味を吹き込んでいます。</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: |
+        このリビングルームは、ラスティックな魅力とモダンな洗練さを融合させています。天然木の梁が天井を横切り、洗練されたコンクリートの床と対比を成し、落ち着きがありながら現代的な雰囲気を醸し出しています。
+        
+        生のリネンのカーテンが大きな窓を縁取り、黄金色の光が再生オーク材の家具に降り注ぎます。ウールのラグがシーティングエリアを固定し、柔らかいクッションと重ねられたスローが、腰を下ろして長居したくなるような空間を作り出します。
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "712c6b20-160f-4435-8da4-d6de479d7dbf"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: 部屋の中心：暖炉
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154640Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: 部屋の中心：暖炉とラウンジ | Forma Luxジャーナル – 温かみと職人技が光る手作りデザイン
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: 手作り家具、ラスティックモダンなリビングルーム、木材デザイン、暖炉ラウンジ、Forma Luxインテリア、持続可能な素材、職人技、現代的なホームデコール

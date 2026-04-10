@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76489-LandingPageHero-2000x600?v=79618f34" dam-id="-At1dqaWS9O8lKFpNn9jMg" width="2000" height="600" alt="play-with.webp" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76489/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{21E10BF1-DD6D-4E00-80F2-18304F9D1671}" />
+    <image mediaid="{3A1BB6EE-E3C1-4A0F-9781-8EB4CAABA372}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "1e171cf4-5641-4653-a18d-06f2dca947a9"
+  Value: "6c3e71af-2b50-4f05-882f-d669ef4f3211"
 Languages:
 - Language: en
   Fields:
@@ -261,3 +264,68 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: texture de mobilier moderne, design de mélange de matériaux, intérieurs modernes superposés, meubles en bois et métal, combinaisons de verre et de tissu, décoration intérieure tactile, texture dans le design d'intérieur, palette de matériaux modernes, idées de contraste de mobilier, tons chauds du bois, accents en acier brossé, textures de laine et de cuir, chaleur minimaliste à la maison, matériaux mixtes modernes, comment ajouter de la texture à la décoration, style de mobilier contemporain, techniques de superposition modernes, matériaux de design d'intérieur, idées de texture moderne
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "6c22b06e-3c7e-4950-a317-9db380998704"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: テクスチャを楽しむ 素材の組み合わせが現代家具を際立たせる理由
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: ミニマルは平坦を意味しません。木材、ウール、金属、ガラスなどのテクスチャを組み合わせることで、現代の家具デザインに奥行き、暖かさ、個性を生み出す方法を発見してください。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T084006Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 完璧なソファの選択
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p><span style="background-color:rgb(255,255,255);color:rgb(80,80,80);"><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Manrope, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">ミニマルデザインは平坦を意味しません。テクスチャは奥行き、暖かさ、そして興味をもたらします。基本素材から始めましょう—例えば、ウォールナットのダイニングテーブル—そしてコントラストを加えます: ブラッシュドスチールのベース、ウールのスロー、革のアクセントチェア。各素材が物語を語り、豊かさを加えます。触覚的な特性も考慮してください—アップホルストリーの柔らかさ、金属の冷たさ、石の自然な不規則性。目標は、外観だけでなく感覚のパレットを作り出すことです。全体のカラースキームを抑えて、テクスチャが競合するのではなく際立つようにします。その結果は、触れることを誘うモダンスペースであり、ただ滑らかに見えるだけではありません。</span></span></p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: |
+        木材、ウール、金属、ガラスなどの素材を組み合わせて、層状でありながらミニマルな外観を作り出します。
+        
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: ミニマルは平坦を意味しません。木材、ウール、金属、ガラスなどのテクスチャを組み合わせることで、現代の家具デザインに奥行き、暖かさ、個性を生み出す方法を発見してください。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8505755e-11fa-4ddc-a2a0-eec5d3ae6744"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "テクスチャを楽しむ: 素材の組み合わせが現代家具を際立たせる理由"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154703Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: "テクスチャを楽しむ: 現代デザインを高める素材の組み合わせ"
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: 現代家具のテクスチャ、素材の組み合わせデザイン、層状のモダンインテリア、木材と金属の家具、ガラスと布の組み合わせ、触覚的なホームデコール、インテリアデザインのテクスチャ、現代的な素材パレット、家具のコントラストアイデア、暖かい木材のトーン、ブラッシュドスチールのアクセント、ウールと革のテクスチャ、ミニマリストな家庭の暖かさ、現代的な混合素材、デコールにテクスチャを追加する方法、コンテンポラリー家具のスタイリング、現代的な層状技術、インテリアデザインの素材、現代的なテクスチャアイデア

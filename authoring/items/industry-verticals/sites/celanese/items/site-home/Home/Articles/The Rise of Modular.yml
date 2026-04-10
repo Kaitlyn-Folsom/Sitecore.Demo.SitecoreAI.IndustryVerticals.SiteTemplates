@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76479-HomepagePromoCTAs-1100x740?v=40b1ba5b" dam-id="xy8twTkNSUKZS2OVNyKHCg" width="1100" height="740" alt="the-rise-of-modular-article.webp" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76479/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{4B09333C-9083-42CC-83F5-51FB1163F6F2}" />
+    <image mediaid="{CF1F7BF6-B89D-432F-A0C7-AFF3FB1201BA}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "805e3153-a12d-491f-a093-57ec28292cb7"
+  Value: "c92412ea-e2e0-448b-8446-c8c9a35bd1c3"
 Languages:
 - Language: en
   Fields:
@@ -257,3 +260,66 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: meubles modulaires, meubles adaptables, vie moderne, sectionnels modulaires, canapés modulaires, systèmes de rangement modulaires, design de maison flexible, meubles reconfigurables, meubles personnalisables, design de meubles contemporain, design d'intérieur modulaire, meubles évolutifs, flexibilité de l'espace, design de maison évolutif, solutions modernes pour la maison, design modulaire minimaliste, idées de meubles polyvalents, tendances de meubles durables, meubles pour modes de vie modernes
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "362869bb-5cf8-4080-ba14-b01b4be358bf"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: モジュール式の台頭：現代生活のための適応可能な家具
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: モジュール式家具の力を発見してください。セクショナルから収納システムまで、現代のライフスタイルに合わせて進化する適応可能なデザインを探求しましょう。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T082030Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: モジュール式の台頭
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p>現代の家は柔軟性を求めています。モジュール式家具は適応を可能にします—移動、再構成、成長や変化に応じて部品を追加できます。モジュール式セクショナルは、居心地の良い3人掛けから広々としたラウンジに変身することができ、収納ユニットはニーズに応じて進化します。選択する際は、コネクタ、互換性、仕上げオプションに注意を払い、部品が一貫性を保つようにしてください。モジュール式は一般的であることを意味しません—洗練されたライン、思慮深い比率、高品質な素材を備えたよく設計された要素を探してください。最終的に、モジュール式システムは妥協のない自由を提供します：あなたと共に生きるスタイルであり、あなたの周りに存在するものではありません。</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: モジュール式ソファ、セクショナル、収納システムがどのように進化するライフスタイルに対応するかを発見してください。
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: モジュール式家具の力を発見してください。セクショナルから収納システムまで、現代のライフスタイルに合わせて進化する適応可能なデザインを探求しましょう。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6f35ebe-9304-47a1-9517-7d7b425c622e"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: モジュール式の台頭：現代生活のための適応可能な家具
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154704Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: モジュール式の台頭：現代生活のための適応可能な家具
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: モジュール式家具、適応可能な家具、現代の生活、モジュール式セクショナル、モジュール式ソファ、モジュール式収納システム、柔軟なホームデザイン、再構成可能な家具、カスタマイズ可能な家具、現代的な家具デザイン、モジュール式インテリアデザイン、スケーラブルな家具、空間の柔軟性、進化するホームデザイン、現代のホームソリューション、ミニマリストのモジュール式デザイン、多用途家具のアイデア、持続可能な家具トレンド、現代のライフスタイル向け家具

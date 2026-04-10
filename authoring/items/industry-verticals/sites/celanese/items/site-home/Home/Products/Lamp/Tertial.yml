@@ -29,13 +29,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{B3A3E54E-38A7-4A0A-B8D8-9D771C66FA99}" />
+    <image mediaid="{65A39C10-CA87-4288-B1E0-FBD7AAFFAAE3}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{DA940050-EB05-442A-AAE5-165AC8B155EC}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "5752fcac-a74d-49f7-a4c8-072ef11246c6"
+  Value: "1241b8ae-0788-4a78-b31e-25eeb6f004d6"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -273,3 +273,59 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: La Lampe Tertial incarne l'engagement de Forma Lux envers un design intelligent et une fonctionnalité sans effort. Avec son bras réglable et sa tête pivotante, Tertial s'adapte parfaitement du travail concentré à la lecture détendue. Son cadre minimaliste, disponible en noir ou blanc, complète à la fois les intérieurs modernes et classiques, tandis que l'ampoule économe en énergie délivre une lumière chaude et constante. Fabriquée à partir de matériaux durables et finie avec une précision raffinée, Tertial transforme l'éclairage en un acte de design — où chaque mouvement rencontre le but et la beauté.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251009T142342Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Tertial Lamp | Forma Lux – 家庭と作業スペース向けの調整可能なモダンランプ
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Tertialで空間を照らし、現代的な生活のために設計された多用途でスタイリッシュなランプです。どの部屋にも最適で、調整可能な照明でニーズに応じて家の雰囲気を高めます。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Tertial Lamp、調整可能なランプ、モダンなデスクランプ、読書用ライト、ミニマリスト照明、ホームオフィスランプ、Forma Luxショップ、多用途照明
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 29
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Tertial
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma LuxのTertial Lampを発見してください。モダンで調整可能なランプは、どの部屋にも精密な照明とタイムレスなスタイルを提供します。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6308366d-8433-45c7-aa3b-86fd48eaa221"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Tertial
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154854Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: |
+        <div class="ck-content"><p>Tertial Lampで空間を照らし、機能性とモダンなデザインが完璧に融合した暖かく心地よい雰囲気をどの部屋にももたらします。高品質な素材から丁寧に作られたTertialは、調整可能なアームとヘッドを備え、必要な場所に正確に光を向けることができます。その洗練されたシルエットとミニマリストな美学は、現代的なインテリアにもクラシックなインテリアにも適した多用途な追加アイテムです。作業机の上、読書用の椅子のそば、またはベッドサイドテーブルの上に置いても、Tertialは効率的な照明とエレガントな魅力で環境を向上させます。Tertial Lampでは、個性化と実用性が融合します。使いやすさを考慮して設計された直感的な調整メカニズムにより、作業に集中するセッションから快適な読書の夜まで、ランプの高さと角度をシームレスに調整できます。頑丈なベースはどんな表面でも安定性を確保し、エネルギー効率の高い電球は長持ちし、エコフレンドリーな照明で部屋の雰囲気を高めます。革新的なエンジニアリングとタイムレスなスタイルを組み合わせた照明を体験してください—Tertialを体験してください。</p></div>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Tertial Lampは、Forma Luxの知的なデザインと簡単な機能性への取り組みを体現しています。調整可能なアームと回転可能なヘッドを備えたTertialは、集中した作業からリラックスした読書までシームレスに適応します。ブラックまたはホワイトで利用可能なミニマリストフレームは、モダンなインテリアにもクラシックなインテリアにも調和し、エネルギー効率の高い電球が暖かく一貫した光を提供します。耐久性のある素材で作られ、洗練された精度で仕上げられたTertialは、照明をデザインの行為に変えます—すべての動きが目的と美しさに出会う場所です。

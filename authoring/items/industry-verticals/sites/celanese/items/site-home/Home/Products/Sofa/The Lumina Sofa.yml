@@ -29,7 +29,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{609D0404-5155-411F-98F2-2D9E9E0C60AA}" />
+    <image mediaid="{ADE122F5-5DF8-4E3C-92D2-CD27FAB4F2CE}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{7CC195EF-D659-40E0-8C7C-4B3CB41BB379}"
@@ -39,7 +39,7 @@ SharedFields:
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/79456-LandingPageHero-2000x600?v=d12fa4b1" dam-id="JMRbUeLzRJ-bFXbryWogfQ" width="2000" height="600" alt="lumina-sofa-3.webp" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/79456/thumbnail" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "1047fad6-1520-4498-97b4-e84cf4fb2f1f"
+  Value: "ef85bcc3-5a02-4b8d-9976-043cbf265abe"
 Languages:
 - Language: en
   Versions:
@@ -262,3 +262,59 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: "Le canapé Lumina est la pièce maîtresse de la collection Lumina — une expression d'équilibre, de savoir-faire et de confort durable. Construit sur un cadre en bois dur massif et recouvert d'un tissu doux et durable, son design modulaire permet des configurations flexibles qui s'adaptent à tout espace de vie. Chaque ligne et détail reflète la conviction de Forma Lux que le luxe doit être intentionnel, durable et conçu pour durer."
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T093210Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: ルミナソファ | Forma Luxによるモジュール式持続可能なソファ
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: ルミナコレクションのシグネチャーピースであるこのモジュール式ソファは、タイムレスなデザインと持続可能なクラフトマンシップを体現しています。形状、快適さ、適応性の洗練されたバランスです。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Forma Lux, Lumina Collection, Lumina Sofa, モジュール式ソファ, 持続可能なソファ, ラグジュアリー家具, モダンなリビングルーム, タイムレスデザイン, 手作り家具, モジュール式セクショナル
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 1500
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ルミナソファ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxの「ルミナソファ」を体験してください。これは、タイムレスなデザインと持続可能なクラフトマンシップを通じて、現代の快適さを再定義するシグネチャーモジュール式家具です。天然素材を使用して手作りされ、耐久性があり、空間に合わせて進化するように設計されています。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9dc3e9f-9212-487e-bddf-2727a0ff582a"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: ルミナソファ
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154855Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: |
+        <div class="ck-content"><p>ルミナソファは、現代の生活の本質を捉えています。エレガントで魅力的、そして空間に合わせて進化するように設計されています。責任を持って調達されたハードウッドフレームと柔らかく耐久性のある張り地で作られ、どんなインテリアにも温かみと構造をもたらします。そのモジュール式デザインは、変化するニーズに適応しながら、シームレスで彫刻的な存在感を保ちます。クリーンなシルエットから精密な接合部に至るまで、すべてのディテールは、シンプルさと長寿命にこそラグジュアリーがあるというForma Luxの信念を反映しています。</p></div>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: ルミナソファは、ルミナコレクションの中心的存在です。バランス、クラフトマンシップ、そして持続的な快適さの表現です。頑丈なハードウッドフレームを基盤とし、柔らかく耐久性のある生地で張り込まれたこのソファは、モジュール式デザインにより、どんなリビングスペースにも柔軟に対応します。すべてのラインとディテールは、ラグジュアリーは意図的で持続可能であり、長く使えるように設計されるべきだというForma Luxの信念を反映しています。

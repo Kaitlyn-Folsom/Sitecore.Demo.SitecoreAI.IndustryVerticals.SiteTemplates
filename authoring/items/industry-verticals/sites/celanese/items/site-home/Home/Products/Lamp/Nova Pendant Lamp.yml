@@ -34,13 +34,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{1F9C615E-8707-41BE-A5B7-24DB747C6DA1}" />
+    <image mediaid="{DBC70EBF-E9FD-4A46-85EE-0F60F45847C5}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{DA940050-EB05-442A-AAE5-165AC8B155EC}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "2984cda7-2481-41b1-af83-16a71f1f8a06"
+  Value: "33dc7ce0-12a5-4712-a38e-e9f22921f932"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -262,3 +262,55 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: Raffinée mais discrète, la Lampe Suspendue Nova incarne l'approche de Forma Lux de la lumière comme atmosphère. Son globe en verre givré diffuse une chaleur, tandis que la monture en laiton ajoute une touche subtile de luxe. Idéale pour les salles à manger ou les cuisines, Nova équilibre géométrie et éclat — transformant les moments quotidiens en expériences soignées. Disponible en or et en tailles petite ou moyenne, c'est un accent intemporel qui apporte harmonie et intention à la vie moderne.
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T151131Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Novaペンダントランプ | Forma Lux – フロストガラスグローブライトと真鍮フィクスチャ
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: Novaペンダントランプは、真鍮のフィクスチャに吊るされたフロストガラスのグローブを特徴としています
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: Novaペンダントランプ、フロストガラスペンダント、真鍮照明、モダンペンダントライト、ダイニングルーム照明、アンビエントライトフィクスチャ、Forma Luxショップ
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 249
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Novaペンダントランプ
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d008e298-23d2-465d-a241-03b9a7a45745"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Novaペンダントランプ
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154854Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>Novaペンダントランプは、真鍮のフィクスチャに吊るされたフロストガラスのグローブを特徴としています。柔らかいアンビエント照明を提供し、ダイニングエリアやキッチンに最適です。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 洗練されつつ控えめなNovaペンダントランプは、光を雰囲気として捉えるForma Luxのアプローチを体現しています。フロストガラスのグローブが暖かさを拡散し、真鍮のフィクスチャがさりげない高級感を加えます。ダイニングエリアやキッチンに最適なNovaは、幾何学と輝きのバランスを取り、日常の瞬間を洗練された体験に変えます。ゴールドで、小サイズまたは中サイズでご利用いただけます。現代の生活に調和と意図をもたらすタイムレスなアクセントです。

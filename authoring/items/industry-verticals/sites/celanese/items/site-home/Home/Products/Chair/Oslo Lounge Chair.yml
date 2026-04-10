@@ -33,13 +33,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{6246CB68-CF32-400F-9D86-9B9CF12E4503}" />
+    <image mediaid="{5257D662-573F-465A-A88D-07D07321B839}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{7C46D87F-C0DE-4E19-AD02-C903C3CF4240}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "79788e89-0a93-498c-9b24-c42a388d2f10"
+  Value: "672f6b52-a750-4429-bb1d-7573ee3ad4f5"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -261,3 +261,55 @@ Languages:
     - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
       Hint: LongDescription
       Value: <p>Le fauteuil Oslo allie design nordique minimaliste et confort moderne. Fabriqué en chêne massif et recouvert de lin premium, il offre une silhouette intemporelle qui s'intègre parfaitement dans tout espace de vie. Son dossier ergonomique et son siège profond le rendent parfait pour de longues heures de détente.</p>
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T124722Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: オスロラウンジチェア | Forma Lux – オークフレームのスカンジナビアラウンジチェア
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: 洗練された木製フレームと豪華なクッションを備えたスカンジナビア風ラウンジチェア。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: オスロラウンジチェア、スカンジナビアチェア、北欧家具、オークラウンジチェア、リネン張り、モダンラウンジチェア、Forma Luxショップ、ミニマリスト家具
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 349.99
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: オスロラウンジチェア
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxのオスロラウンジチェアは、北欧のシンプルさと高級な快適さを兼ね備えています。頑丈なオーク材のフレームと豪華なリネンクッションを特徴とし、モダンなインテリアに時代を超えた魅力を加えます。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3faea2d-5ac3-4c5a-85a4-7c625e52881a"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: オスロラウンジチェア
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154923Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>オスロラウンジチェアは、ミニマリストな北欧デザインとモダンな快適さを融合させています。頑丈なオーク材で作られ、高級リネンで張られたこのチェアは、どんなリビングスペースにもシームレスに溶け込む時代を超えたシルエットを提供します。その人間工学に基づいた背もたれと深い座面は、長時間のリラックスに最適です。</p>

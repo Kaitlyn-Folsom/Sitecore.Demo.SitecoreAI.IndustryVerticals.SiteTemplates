@@ -39,13 +39,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{3DDD412E-2B79-4DEF-A3AD-668D685F535D}" />
+    <image mediaid="{187FE353-F754-4DB2-B256-DE7D018CC8F4}" />
 - ID: "cef30aa1-3383-482a-9e55-9226ee7116bd"
   Hint: Category
   Value: "{7C46D87F-C0DE-4E19-AD02-C903C3CF4240}"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "a9affad2-ad13-4654-b1db-3be121765bc2"
+  Value: "23fa4824-c220-4000-b8aa-29d6e38b72c2"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -279,3 +279,58 @@ Languages:
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: "La tranquillité rencontre la précision du design dans la chaise d'appoint Kyoto. Influencée par l'artisanat japonais, Kyoto présente des pieds en bois inclinés, un profil bas et ancré, et un revêtement en coton doux qui invite à la réflexion tranquille. Idéale pour les coins lecture ou les intérieurs minimalistes, elle apporte équilibre et harmonie à tout environnement. Disponible en or, noir, indigo et blanc, et en tailles moyenne ou grande, cette pièce exprime la philosophie de Forma Lux : où le design intentionnel et les matériaux intemporels créent des espaces de paix et de beauté."
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251016T125259Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: 京都アクセントチェア | Forma Lux – 日本風デザインの天然木チェア
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: 清潔なラインと天然木調を備えた日本風アクセントチェア。
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: 京都アクセントチェア、日本家具、アクセントチェア、ミニマリストデザイン、天然木調、コットン張り地、Forma Luxショップ、読書用チェア
+    - ID: "4d1068af-ad2e-485a-8e61-031ea8464425"
+      Hint: Price
+      Value: 289
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 京都アクセントチェア
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Forma Luxの京都アクセントチェアは、日本のデザイン原則に基づき、低いプロファイル、角度のある脚、柔らかいコットンの張り地を特徴としています。静かでモダンな空間に最適なミニマリストな一品です。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c06d92b7-9636-478e-ad2a-0b6deebb9021"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: 京都アクセントチェア
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154910Z
+    - ID: "e35644f6-b680-4f40-9c7a-def95adfedda"
+      Hint: LongDescription
+      Value: <p>伝統的な日本美学にインスパイアされた京都アクセントチェアは、広い座面と角度のある脚を備えた低プロファイルデザインが特徴です。柔らかいコットン生地で張り地されており、読書スペースやミニマリストなインテリアに最適です。</p>
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: 京都アクセントチェアは、静けさとデザインの精密さを兼ね備えています。日本の職人技に影響を受けたこのチェアは、角度のある木製の脚、低く安定感のあるプロファイル、そして静かな反射を誘う柔らかいコットンの張り地を特徴としています。読書スペースやミニマリストなインテリアに最適で、どんな空間にもバランスと調和をもたらします。ゴールド、ブラック、インディゴ、ホワイトのカラーと、ミディアムまたはラージサイズでご利用いただけます。この一品は、意図的なデザインと時代を超えた素材が平和と美しさの空間を創造するというForma Luxの哲学を表現しています。

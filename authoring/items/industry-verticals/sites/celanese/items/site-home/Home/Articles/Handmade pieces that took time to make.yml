@@ -23,16 +23,19 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/56ed3da761284587a81b95612169f224?v=482e83fc" dam-id="JvO38VzSTBOaEPi8_cRk0g" width="3840" height="2160" alt="article4.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76598/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 50
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{B2AC3139-19C0-4A2F-8733-8D4F1A428726}" />
+    <image mediaid="{88B441D5-9ED6-4BC9-B0BB-3727CD87CBCC}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "d76c7d29-de41-45b4-a561-2c8574d2be76"
+  Value: "02b18709-c1e1-4381-9860-7ed14f5c98fd"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -329,3 +332,68 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: meubles faits à la main, artisanat, design lent, décoration intérieure, intérieurs durables, journal Forma Lux, design intemporel, meubles en bois
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "35114a29-24f2-4646-aa89-208f0056ba1e"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 時間をかけて作られた手作りの作品
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: Forma Luxでは、時間そのものが素材です。「時間をかけて作られた手作りの作品」は、ゆっくりとした創造の芸術を反映しています—各作品は慎重なリズムと配慮によって形作られています。鉄、流木、手作りの陶器が完璧なバランスで共存し、本物の豊かさと静かな贅沢に満ちたインテリアを形成します。その結果は単なるデコールではなく、スピードの時代におけるクラフト、忍耐、永続性の体験です。
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250917T090300Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 時間をかけて作られた手作りの作品
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>会話を引き起こすステートメントピース</h3><p>吊り下げられた鉄製の照明器具が目を引き、流木で作られた低いプロファイルのコーヒーテーブルの上に浮かんでいます。近くには彫刻的な本棚があり、アート、植物、陶器の厳選されたミックスを収め、機能性と魅力を提供します。</p><p>それは部屋全体を自然に目で追わせるように考え抜かれたレイアウトです。構造的であれ装飾的であれ、すべてのデザイン要素が意図的に感じられ、部屋の調和のとれた雰囲気に寄与しています。ニュートラルなパレットが支配的ですが、テラコッタやネイビーのアクセントが個性を加え、感覚を圧倒することなく存在感を示します。手作りの陶器やテクスチャーのある壁パネルなどの職人技のディテールが温かみと本物らしさを加えています。</p><p>それは部屋全体を自然に目で追わせるように考え抜かれたレイアウトです。構造的であれ装飾的であれ、すべてのデザイン要素が意図的に感じられ、部屋の調和のとれた雰囲気に寄与しています。ニュートラルなパレットが支配的ですが、テラコッタやネイビーのアクセントが個性を加え、感覚を圧倒することなく存在感を示します。手作りの陶器やテクスチャーのある壁パネルなどの職人技のディテールが温かみと本物らしさを加えています。</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanduni.galagoda@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet. Libero enim sed faucibus turpis in. Cursus mattis molestie a iaculis at erat. Nibh cras pulvinar mattis nunc sed blandit libero. Pellentesque elit ullamcorper dignissim cras tincidunt. Pharetra et ultrices neque ornare aenean euismod elementum.
+        
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: 忍耐と精密さがどのように「時間をかけて作られた手作りの作品」を定義するかをご覧ください。Forma Luxはスローデザインを称賛します—家具やホームデコールの曲線、質感、仕上げのすべてに人の手の温もりが反映されています。
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "abfe508c-8033-4215-98d9-a8a88b149dc3"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: 時間をかけて作られた手作りの作品
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154641Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: 時間をかけて作られた手作りの作品 | Forma Luxジャーナル – デザインにおける忍耐の美しさ
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: 手作り家具、職人技、スローデザイン、ホームデコール、持続可能なインテリア、Forma Luxジャーナル、タイムレスデザイン、木製家具

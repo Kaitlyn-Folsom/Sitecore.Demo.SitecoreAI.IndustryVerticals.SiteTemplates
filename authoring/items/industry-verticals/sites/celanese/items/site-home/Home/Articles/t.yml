@@ -12,13 +12,16 @@ SharedFields:
   Hint: Image
   Value: |
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/69019-LandingPageHero-2000x600?v=8b2bc564" dam-id="IDmiap0IQb6NMaJCrpTmJg" width="2000" height="600" alt="ChatGPT Image Oct 27, 2025, 10_29_38 AM.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/69019/thumbnail" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{A0F67F42-2C23-4B92-B26D-332DAA1C4E18}" />
+    <image mediaid="{34110C4A-04A4-4765-BCBA-178D3DB0280F}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "9498683b-5d1d-4534-90b6-99269667b5fb"
+  Value: "ee45ea83-959a-4074-ba24-e16dd04b9f81"
 Languages:
 - Language: en
   Fields:
@@ -257,3 +260,66 @@ Languages:
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
       Value: "confiance en la couleur, teintes audacieuses dans les meubles, conseils de couleur pour meubles modernes, stratégie de couleur intérieure, règle de couleur 60-30-10, ancrage de la couleur dans le design, mélange de couleurs neutres et audacieuses, idées de couleurs pour maison moderne, fauteuil d'appoint bleu canard, canapé orange brûlé, ottomane chartreuse, palettes de couleurs fraîches, design de couleur intentionnel, tendances de couleur intérieure moderne, association de lumière et de couleur, touches de couleur dans les meubles"
+- Language: "ja-JP"
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "ab2c27b6-95b5-46dd-8f69-a457846922c0"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: カラー自信 モダン家具における大胆な色調を過剰にしない方法
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: "大胆な色であるティール、バーントオレンジ、シャルトリューズをモダンな家具に取り入れ、空間を圧迫しない方法を発見してください。60-30-10ルール、アンカリング技術、新鮮で意図的なカラーパレットを作成するためのヒントを学びましょう。"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20251128T084006Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 完璧なソファの選び方
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p><span style="background-color:rgb(255,255,255);color:rgb(80,80,80);"><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Manrope, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">機能するリビングルームはあるけれど、インスピレーションを与えない。それが今日変わります。まずは目立つ1つのアイテムを選びましょう—大胆な色のスリムなセクショナルソファや、クリーンなラインの建築的なコーヒーテーブルなど。そのアイテムがパレットを導きます。そしてコントラストを重ねましょう：柔らかいテキスタイル、彫刻的なアクセサリー、幾何学的なラグ。バランスが鍵です：暖かい木のトーンを冷たい金属の仕上げと組み合わせる；高光沢とマットな表面を混ぜる。そしてスケールを忘れないでください—大きな家具は快適さを招きますが、空間を開けることで軽やかさを保ちます。最後に個性を加えましょう：意味のあるオブジェ、珍しいアート作品、または個性のある植物を追加してください。その結果は？あなたのスタイルを反映し、モダンな気分にさせるリビングスペースです。</span></span><em style="-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border:0px solid rgb(232, 232, 232);box-sizing:border-box;color:rgb(80, 80, 80);font-family:Manrope, sans-serif;font-size:18px;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;margin:0px;max-width:100%;orphans:2;padding:0px;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;" data-start="1248" data-end="1254"><em>感じる</em></em><span style="background-color:rgb(255,255,255);color:rgb(80,80,80);"><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Manrope, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">モダン。</span></span></p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\movin.tilakaratne@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: 疲れた中立的な部屋を、いくつかのスマートな動きでキュレーションされたモダンな隠れ家に変えましょう
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: "大胆な色であるティール、バーントオレンジ、シャルトリューズをモダンな家具に取り入れ、空間を圧迫しない方法を発見してください。60-30-10ルール、アンカリング技術、新鮮で意図的なカラーパレットを作成するためのヒントを学びましょう。"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "872c4996-9be5-471b-819c-b3a2536c1942"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: 空白のキャンバスから大胆な空間へ：モダンなリビングルーム改造の始め方
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kaitlyn.folsom@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260410T154704Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: カラー自信：モダン家具における大胆な色調を過剰にしない方法
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: "カラー自信、大胆な色調の家具、モダン家具の色のヒント、インテリアカラー戦略、60-30-10カラー規則、デザインにおける色のアンカリング、中立色と大胆な色の混合、モダンな家の色のアイデア、ティールアクセントチェア、バーントオレンジソファ、シャルトリューズオットマン、新鮮なカラーパレット、意図的なカラーデザイン、モダンインテリアの色のトレンド、光と色のペアリング、家具の色のポップ"
