@@ -10,9 +10,8 @@ import {
   Link,
 } from '@sitecore-content-sdk/nextjs';
 import { ComponentProps } from '@/lib/component-props';
-import AccentLine from '@/assets/icons/accent-line/AccentLine';
 import { HeroFrame } from '@/components/hero-banner/HeroFrame';
-import { CommonStyles, HeroBannerStyles, LayoutStyles } from '@/types/styleFlags';
+import { HeroBannerStyles, LayoutStyles } from '@/types/styleFlags';
 import clsx from 'clsx';
 import type { ReactNode } from 'react';
 
@@ -34,7 +33,6 @@ const HeroBannerCommon = ({
   params,
   fields,
   children,
-  overlayPlacement,
 }: HeroBannerProps & {
   children: ReactNode;
   overlayPlacement: HeroOverlayPlacement;
@@ -53,13 +51,6 @@ const HeroBannerCommon = ({
       <></>
     );
   }
-
-  const scrimClass =
-    overlayPlacement === 'left'
-      ? 'hero-banner__scrim--left'
-      : overlayPlacement === 'right'
-        ? 'hero-banner__scrim--right'
-        : 'hero-banner__scrim--center';
 
   return (
     <div className={`component hero-banner ${styles} relative flex items-center`} id={id}>
@@ -89,10 +80,7 @@ const HeroBannerCommon = ({
               className="hero-banner__pattern pointer-events-none absolute inset-0 z-[1]"
               aria-hidden
             />
-            <div
-              className={clsx('pointer-events-none absolute inset-0 z-[2]', scrimClass)}
-              aria-hidden
-            />
+            <div className={clsx('pointer-events-none absolute inset-0 z-[2]')} aria-hidden />
           </>
         )}
       </div>
@@ -108,50 +96,43 @@ const HeroBannerCommon = ({
 
 export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
   const styles = params.styles || '';
-  const hideAccentLine = styles.includes(CommonStyles.HideAccentLine);
   const withPlaceholder = styles.includes(HeroBannerStyles.WithPlaceholder);
   const reverseLayout = styles.includes(LayoutStyles.Reversed);
   const screenLayer = styles.includes(HeroBannerStyles.ScreenLayer);
   const searchBarPlaceholderKey = `hero-banner-search-bar-${params.DynamicPlaceholderId}`;
-  const overlayPlacement: HeroOverlayPlacement = reverseLayout ? 'left' : 'right';
 
   return (
-    <HeroBannerCommon params={params} fields={fields} overlayPlacement={overlayPlacement}>
+    <HeroBannerCommon params={params} fields={fields}>
       <div className="relative w-full">
         <div className="container mx-auto px-4">
           <div
-            className={`flex min-h-238 w-full py-10 lg:w-1/2 lg:items-center ${reverseLayout ? 'lg:mr-auto' : 'lg:ml-auto'}`}
+            className={`flex w-full py-20 lg:w-1/2 lg:items-center xl:w-2/3 ${reverseLayout ? 'lg:mr-auto' : 'lg:ml-auto'}`}
           >
-            <div className="max-w-182">
+            <div className="max-w-180">
               <HeroFrame className="px-5 py-6 md:px-7 md:py-8">
-                <div className={clsx({ shim: screenLayer })}>
-                  <h1
-                    className={clsx(
-                      'hero-banner__title group/heading text-center text-5xl leading-[110%] font-bold md:text-7xl md:leading-[130%] lg:text-left xl:text-[80px]'
-                    )}
-                  >
-                    <ContentSdkText field={fields.Title} />
-                    {!hideAccentLine && (
-                      <AccentLine className="text-accent-secondary mx-auto !h-5 w-[9ch] lg:mx-0" />
-                    )}
-                  </h1>
-
-                  <div className="hero-banner__richtext mt-7 text-xl md:text-2xl">
-                    <ContentSdkRichText
-                      field={fields.Description}
-                      className="text-center lg:text-left"
-                    />
-                  </div>
-
-                  <div className="mt-6 flex w-full justify-center lg:justify-start">
-                    {withPlaceholder ? (
-                      <Placeholder name={searchBarPlaceholderKey} rendering={rendering} />
-                    ) : (
-                      <Link field={fields.CtaLink} className="arrow-btn" />
-                    )}
-                  </div>
-                </div>
+                <h1
+                  className={clsx(
+                    'hero-banner__title group/heading text-center text-5xl leading-[110%] font-bold lg:text-left'
+                  )}
+                >
+                  <ContentSdkText field={fields.Title} />
+                </h1>
               </HeroFrame>
+
+              <div className="hero-banner__richtext mt-7 text-xl md:text-2xl">
+                <ContentSdkRichText
+                  field={fields.Description}
+                  className="text-center lg:text-left"
+                />
+              </div>
+
+              <div className="mt-6 flex w-full justify-center lg:justify-start">
+                {withPlaceholder ? (
+                  <Placeholder name={searchBarPlaceholderKey} rendering={rendering} />
+                ) : (
+                  <Link field={fields.CtaLink} className="arrow-btn" />
+                )}
+              </div>
             </div>
           </div>
         </div>
@@ -162,7 +143,6 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
 
 export const TopContent = ({ params, fields, rendering }: HeroBannerProps) => {
   const styles = params.styles || '';
-  const hideAccentLine = styles.includes(CommonStyles.HideAccentLine);
   const withPlaceholder = styles.includes(HeroBannerStyles.WithPlaceholder);
   const reverseLayout = styles.includes(LayoutStyles.Reversed);
   const screenLayer = styles.includes(HeroBannerStyles.ScreenLayer);
@@ -179,9 +159,6 @@ export const TopContent = ({ params, fields, rendering }: HeroBannerProps) => {
               <div className={clsx({ shim: screenLayer })}>
                 <h1 className="hero-banner__title group/heading text-center text-5xl leading-[110%] font-bold md:text-7xl md:leading-[130%] xl:text-[80px]">
                   <ContentSdkText field={fields.Title} />
-                  {!hideAccentLine && (
-                    <AccentLine className="text-accent-secondary mx-auto !h-5 w-[9ch]" />
-                  )}
                 </h1>
 
                 <div className="hero-banner__richtext mt-7 text-xl md:text-2xl">

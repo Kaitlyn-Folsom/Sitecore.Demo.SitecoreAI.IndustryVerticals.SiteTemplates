@@ -33,6 +33,17 @@ export const Default = ({ params, fields, rendering }: ArticleDetailsProps) => {
   const fullWidthPlaceholderKey = `article-details-full-width-${DynamicPlaceholderId}`;
   const isPageEditing = page.mode.isEditing;
   const hideShareWidget = isParamEnabled(params.HideShareWidget);
+  const articleCategory = fields?.Category?.name;
+  const date = new Date(fields?.PublishedDate?.value);
+  const formattedDate = date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+  const authorName = fields?.Author?.name;
+  const readTime = fields?.ReadTime?.value;
+
+  console.log(fields);
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -75,25 +86,37 @@ export const Default = ({ params, fields, rendering }: ArticleDetailsProps) => {
               />
             )}
 
-            <div className="col-span-12 aspect-video w-full overflow-hidden rounded-sm lg:col-span-10 lg:col-start-2">
+            <div className="col-span-12 aspect-video w-full overflow-hidden rounded-sm lg:col-span-9 lg:col-start-2">
               <ContentSdkImage field={fields.Image} className="h-full w-full object-cover" />
             </div>
 
-            <div className="col-span-12 mt-8 lg:col-span-8 lg:col-start-3">
-              <h2>
+            <div className="col-span-12 lg:col-span-9 lg:col-start-2">
+              {authorName && <div>Written by {authorName}</div>}
+              {formattedDate && <span className="text-muted uppercase">{formattedDate}</span>}{' '}
+              {readTime && <span> | {readTime} mins read</span>}
+            </div>
+
+            {articleCategory && (
+              <div className="text-accent-secondary col-span-12 mt-4 flex justify-start text-xl font-bold uppercase lg:col-span-9 lg:col-start-2">
+                {articleCategory}
+              </div>
+            )}
+
+            <div className="col-span-12 mt-0 lg:col-span-9 lg:col-start-2">
+              <h2 className="text-[#002d72]">
                 <ContentSdkText field={fields.Title} />
               </h2>
 
-              <p className="text-foreground-muted mt-5 text-lg font-medium tracking-wide">
+              <p className="mt-5 text-lg font-semibold tracking-wide">
                 <ContentSdkText field={fields.ShortDescription} />
               </p>
 
-              <div className="rich-text mt-10 text-lg">
+              <div className="rich-text article-content mt-10 text-lg">
                 <ContentSdkRichText field={fields.Content} />
               </div>
             </div>
 
-            <div className="col-span-12 mt-12 lg:col-span-10 lg:col-start-2">
+            <div className="col-span-12 mt-12 lg:col-span-9 lg:col-start-2">
               <Placeholder name={placeholderKey} rendering={rendering} />
             </div>
           </div>

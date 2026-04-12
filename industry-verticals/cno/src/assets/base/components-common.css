@@ -32,11 +32,11 @@
 
 /* CNO: uppercase text link, interactive navy rule + accent-secondary chevron glyph */
 .arrow-btn {
-  @apply border-b-interactive text-interactive inline-flex items-center justify-start gap-3 border-b text-sm leading-8 font-semibold tracking-wide uppercase;
+  @apply text-interactive inline-flex items-center justify-start gap-3 text-[16px] leading-8 font-bold uppercase;
 
-  &::after {
+  /* &::after {
     @apply bg-accent-secondary inline-block h-3 w-11 mask-[url('./images/arrow.svg')] bg-contain bg-no-repeat mask-contain mask-center mask-no-repeat content-[''];
-  }
+  } */
 }
 
 .carousel-btn {
@@ -73,7 +73,7 @@
 }
 
 .promo-body {
-  @apply text-foreground-light text-lg leading-relaxed;
+  @apply text-foreground-light text-[16px] leading-relaxed;
 
   :where(p, li) {
     @apply text-foreground-light leading-relaxed;
@@ -89,7 +89,7 @@
 }
 
 .promo-cta {
-  @apply bg-interactive text-background hover:bg-interactive/90 focus-visible:ring-interactive mt-1 inline-flex w-fit items-center justify-center rounded-[0.3125rem] px-8 py-3.5 text-center text-sm font-bold tracking-wide uppercase no-underline shadow-none transition-colors focus-visible:ring-2 focus-visible:outline-none;
+  @apply bg-interactive text-background hover:bg-interactive/90 focus-visible:ring-interactive mt-1 inline-flex w-fit items-center justify-center rounded-[0.3125rem] px-8 py-3.5 text-center text-sm font-bold no-underline shadow-none transition-colors focus-visible:ring-2 focus-visible:outline-none;
 }
 
 /* Features: match promo section typography (reuse promo-body / promo-cta in TSX) */
@@ -100,3 +100,4 @@
 .features-item-title {
   @apply text-foreground text-xl leading-snug font-bold tracking-tight md:text-2xl;
 }
+

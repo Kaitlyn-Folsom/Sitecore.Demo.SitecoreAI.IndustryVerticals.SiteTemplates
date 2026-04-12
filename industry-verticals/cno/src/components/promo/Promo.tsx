@@ -11,7 +11,6 @@ import {
 } from '@sitecore-content-sdk/nextjs';
 import { ComponentProps } from 'lib/component-props';
 import clsx from 'clsx';
-import AccentLine from '@/assets/icons/accent-line/AccentLine';
 import { Quote } from '@/assets/icons/quote/Quote';
 import { CommonStyles, LayoutStyles, PromoFlags } from '@/types/styleFlags';
 
@@ -40,8 +39,6 @@ export type PromoProps = ComponentProps & {
 const isShadowClassActive = (val: boolean) => (val ? 'shadow-sm border border-border' : '');
 
 export const PromoContent = ({ ...props }) => {
-  const isAccentLineVisible = !props?.params?.styles?.includes(CommonStyles.HideAccentLine);
-
   return (
     <div className="promo-content flex max-w-2xl flex-col gap-6">
       <div className="text-foreground-light text-sm font-semibold tracking-[0.2em] uppercase">
@@ -52,9 +49,6 @@ export const PromoContent = ({ ...props }) => {
         <h2 className="text-foreground text-3xl leading-tight font-bold tracking-tight md:text-4xl lg:text-[2.25rem] lg:leading-snug">
           <Text field={props.fields.PromoTitle} />
         </h2>
-        {isAccentLineVisible && (
-          <AccentLine className="!text-accent-secondary mt-4 w-full max-w-xs" />
-        )}
       </div>
 
       <div className="promo-body max-w-xl">

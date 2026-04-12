@@ -10,34 +10,6 @@
   );
 }
 
-/* Dark scrim aligned to content side (see overlay placement classes) */
-.hero-banner__scrim--left {
-  background: linear-gradient(
-    90deg,
-    color-mix(in srgb, var(--color-interactive) 88%, transparent) 0%,
-    color-mix(in srgb, var(--color-interactive) 45%, transparent) 55%,
-    transparent 100%
-  );
-}
-
-.hero-banner__scrim--right {
-  background: linear-gradient(
-    270deg,
-    color-mix(in srgb, var(--color-interactive) 88%, transparent) 0%,
-    color-mix(in srgb, var(--color-interactive) 45%, transparent) 55%,
-    transparent 100%
-  );
-}
-
-.hero-banner__scrim--center {
-  background: radial-gradient(
-    ellipse 85% 75% at 50% 42%,
-    color-mix(in srgb, var(--color-interactive) 78%, transparent) 0%,
-    color-mix(in srgb, var(--color-interactive) 35%, transparent) 62%,
-    transparent 100%
-  );
-}
-
 /* L-bracket corners (accent secondary) */
 .hero-frame {
   @apply relative;
@@ -54,11 +26,11 @@
 }
 
 .hero-frame__corner--tl {
-  @apply top-0 left-0 border-t-2 border-l-2;
+  @apply top-0 left-0 border-t-4 border-l-2;
 }
 
 .hero-frame__corner--br {
-  @apply right-0 bottom-0 border-r-2 border-b-2;
+  @apply right-0 bottom-0 border-r-2 border-b-4;
 }
 
 /* Typographic block on dark scrim */
@@ -81,10 +53,6 @@
   &::after {
     @apply bg-accent-secondary;
   }
-}
-
-.hero-banner .shim {
-  @apply border-background/15 bg-background/10 border backdrop-blur-sm;
 }
 
 /* CMS option: no scrim — dark type + navy frame for legibility on photography */

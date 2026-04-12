@@ -8,8 +8,6 @@ import {
   Text,
 } from '@sitecore-content-sdk/nextjs';
 import React from 'react';
-import AccentLine from '@/assets/icons/accent-line/AccentLine';
-import { CommonStyles } from '@/types/styleFlags';
 
 interface Fields {
   data: {
@@ -52,21 +50,20 @@ const FeatureWrapper = (wrapperProps: FeatureWrapperProps) => {
 
 export const Default = (props: FeaturesProps) => {
   const results = props.fields.data.datasource.children.results;
-  const hideAccentLine = props.params.styles?.includes(CommonStyles.HideAccentLine);
   const featureSectionTitle = props.fields.data.datasource.title;
+  const numOfItems = results.length;
 
   return (
     <FeatureWrapper props={props}>
-      <div className="container grid grid-cols-1 gap-12 py-16 md:py-20 lg:grid-cols-[1fr_2fr] lg:items-start lg:gap-x-16 lg:gap-y-10">
+      <div className="container grid grid-cols-1 gap-12 py-16 md:py-20 lg:items-start lg:gap-x-16 lg:gap-y-10">
         <div className="max-w-2xl lg:mb-0">
           <h2 className="features-section-title">
             <Text field={featureSectionTitle.jsonValue} />
           </h2>
-          {!hideAccentLine && (
-            <AccentLine className="!text-accent-secondary mt-4 w-full max-w-xs" />
-          )}
         </div>
-        <div className="grid grid-cols-1 gap-12 md:grid-cols-2 md:gap-x-10 md:gap-y-12 lg:grid-cols-3">
+        <div
+          className={`${numOfItems === 2 ? 'lg:grid-cols-2' : 'lg:grid-cols-3'} grid grid-cols-1 gap-12 md:grid-cols-2 md:gap-10`}
+        >
           {results.map((item, index) => {
             const title = item.featureTitle.jsonValue;
             const description = item.featureDescription.jsonValue;
@@ -79,8 +76,22 @@ export const Default = (props: FeaturesProps) => {
                 <div className="promo-body flex-auto">
                   <Text field={description} />
                 </div>
-                <div>
-                  <Link field={link} className="promo-cta" />
+                <div className="flex items-center gap-3">
+                  <Link field={link} className="arrow-btn" />
+                  <svg
+                    xmlns="http://w3.org"
+                    className="text-accent-secondary h-4 w-4 transition-transform group-hover:translate-x-1"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M9 5l7 7-7 7"
+                    />
+                  </svg>
                 </div>
               </div>
             );
@@ -93,15 +104,23 @@ export const Default = (props: FeaturesProps) => {
 
 export const ImageGrid = (props: FeaturesProps) => {
   const results = props.fields.data.datasource.children.results;
+  const featureSectionTitle = props.fields.data.datasource.title;
 
   return (
     <FeatureWrapper props={props}>
-      <div className="container grid grid-cols-1 gap-6 py-16 md:grid-cols-2 md:py-20 lg:grid-cols-5">
+      <div className="container grid grid-cols-1 gap-12 pt-16 lg:items-start lg:gap-x-16 lg:gap-y-10">
+        <div className="max-w-2xl lg:mb-0">
+          <h2 className="features-section-title">
+            <Text field={featureSectionTitle.jsonValue} />
+          </h2>
+        </div>
+      </div>
+      <div className="container grid grid-cols-2 gap-3 py-16 md:grid-cols-3 md:pt-10 md:pb-10 lg:grid-cols-3">
         {results.map((item, index) => {
           const imageField = item?.featureImage.jsonValue;
           return (
             <div className="flex items-center justify-center py-6 lg:py-4" key={index}>
-              {imageField && <Image field={imageField} className="max-h-20 object-contain" />}
+              {imageField && <Image field={imageField} className="h-full w-full object-contain" />}
             </div>
           );
         })}
