@@ -5,7 +5,6 @@ import {
   ImageField,
   Link,
   LinkField,
-  Placeholder,
   RichText,
   RichTextField,
   Text,

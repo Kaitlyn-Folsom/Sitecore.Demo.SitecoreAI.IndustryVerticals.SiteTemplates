@@ -1,5 +1,6 @@
 import { isParamEnabled } from '@/helpers/isParamEnabled';
 import { ComponentProps } from '@/lib/component-props';
+import type { Author, Category } from '@/types/article';
 import {
   Field,
   ImageField,
@@ -19,6 +20,10 @@ interface Fields {
   ShortDescription: Field<string>;
   Content: RichTextField;
   Image: ImageField;
+  PublishedDate?: Field<string>;
+  Category?: Category;
+  Author?: Author;
+  ReadTime?: Field<string>;
 }
 
 interface ArticleDetailsProps extends ComponentProps {
@@ -34,7 +39,7 @@ export const Default = ({ params, fields, rendering }: ArticleDetailsProps) => {
   const isPageEditing = page.mode.isEditing;
   const hideShareWidget = isParamEnabled(params.HideShareWidget);
   const articleCategory = fields?.Category?.name;
-  const date = new Date(fields?.PublishedDate?.value);
+  const date = new Date(fields?.PublishedDate?.value ?? '');
   const formattedDate = date.toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',

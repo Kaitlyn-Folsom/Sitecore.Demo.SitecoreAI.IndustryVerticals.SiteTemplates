@@ -13,7 +13,6 @@ import { ComponentProps } from '@/lib/component-props';
 import { HeroFrame } from '@/components/hero-banner/HeroFrame';
 import { HeroBannerStyles, LayoutStyles } from '@/types/styleFlags';
 import clsx from 'clsx';
-import type { ReactNode } from 'react';
 
 interface Fields {
   Image: ImageField;
@@ -27,15 +26,12 @@ interface HeroBannerProps extends ComponentProps {
   fields: Fields;
 }
 
-type HeroOverlayPlacement = 'left' | 'right' | 'center';
-
 const HeroBannerCommon = ({
   params,
   fields,
   children,
 }: HeroBannerProps & {
-  children: ReactNode;
-  overlayPlacement: HeroOverlayPlacement;
+  children: React.ReactNode;
 }) => {
   const { page } = useSitecore();
   const { styles, RenderingIdentifier: id } = params;
@@ -98,11 +94,10 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
   const styles = params.styles || '';
   const withPlaceholder = styles.includes(HeroBannerStyles.WithPlaceholder);
   const reverseLayout = styles.includes(LayoutStyles.Reversed);
-  const screenLayer = styles.includes(HeroBannerStyles.ScreenLayer);
   const searchBarPlaceholderKey = `hero-banner-search-bar-${params.DynamicPlaceholderId}`;
 
   return (
-    <HeroBannerCommon params={params} fields={fields}>
+    <HeroBannerCommon params={params} fields={fields} rendering={rendering}>
       <div className="relative w-full">
         <div className="container mx-auto px-4">
           <div
@@ -149,7 +144,7 @@ export const TopContent = ({ params, fields, rendering }: HeroBannerProps) => {
   const searchBarPlaceholderKey = `hero-banner-search-bar-${params.DynamicPlaceholderId}`;
 
   return (
-    <HeroBannerCommon params={params} fields={fields} overlayPlacement="center">
+    <HeroBannerCommon params={params} fields={fields} rendering={rendering}>
       <div className="relative w-full">
         <div className="container mx-auto flex min-h-238 justify-center px-4">
           <div
